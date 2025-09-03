@@ -250,6 +250,21 @@ ResiCare es un microseguro digital diseñado para estudiantes preuniversitarios 
 ##### 1.2.2.2. Lean UX Assumptions
 
 ##### 1.2.2.3. Lean UX Hypothesis Statements
+**1ra Hipótesis**  
+**Creemos que** ofrecer un microseguro digital rápido y económico para estudiantes aumentará la percepción de seguridad y tranquilidad entre los estudiantes.  
+**Sabremos que estamos bien cuando** veamos que al menos el 50% de los estudiantes encuestados en residencias o departamentos compartidos se registran y contratan un plan dentro del primer mes de disponibilidad.
+
+---
+
+**2da Hipótesis**  
+**Creemos que** permitir que los estudiantes realicen reclamos simples mediante foto y chat con decisiones automáticas incrementará la adopción y uso de la plataforma.  
+**Sabremos que esto es cierto cuando** más del 60% de los reclamos menores sean procesados automáticamente y los estudiantes reporten satisfacción positiva con la experiencia de reclamo.
+
+---
+
+**3ra Hipótesis**  
+**Creemos que** incluir recordatorios y alertas sobre cobertura, vencimiento de plan o precauciones de seguridad aumentará la interacción frecuente con la aplicación y la percepción de valor del seguro.  
+**Sabremos que estamos teniendo éxito cuando** el número de usuarios que revisan su panel de seguros o reciben alertas aumente en al menos un 30% durante los primeros dos meses tras activar esta funcionalidad.
 
 
 ##### 1.2.2.4. Lean UX Canvas
