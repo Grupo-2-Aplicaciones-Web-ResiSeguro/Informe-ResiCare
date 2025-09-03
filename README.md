@@ -376,6 +376,8 @@ Visualizar diseño en Canva: https://www.canva.com/design/DAGlJa5hM50/r6zjjmIBlY
 
 #### 2.1.2. Estrategias y tácticas frente a competidores
 
+ResiCare aplicará una estrategia de diferenciación enfocada en estudiantes, ofreciendo coberturas específicas para su estilo de vida con un modelo básico accesible; complementará con digitalización y agilidad, garantizando procesos 100% online y reclamos rápidos por foto/chat para superar a la competencia tradicional; y finalmente, impulsará educación y alianzas estratégicas mediante campañas en redes y convenios con universidades y residencias para generar confianza y adopción masiva.
+
 ### 2.2. Entrevistas
 
 #### 2.2.1. Diseño de entrevistas
