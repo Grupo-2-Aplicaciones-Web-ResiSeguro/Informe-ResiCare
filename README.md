@@ -280,6 +280,69 @@ Visualizar diseño en Canva: https://www.canva.com/design/DAGlJa5hM50/r6zjjmIBlY
 ### 1.3. Segmentos Objetivos
 
 
+### Segmento Objetivo 1: Estudiantes
+
+- Sexo: Masculino y Femenino
+
+- Edades: 16–25 años
+
+- Nivel Socioeconómico: Medio–medio alto
+
+- Ocupación: Estudiantes preuniversitarios y universitarios
+
+- Ingresos: Limitados, generalmente dependientes de sus padres
+
+#### Aspectos Geográficos:
+
+- Nacionalidad: Peruana
+
+- Ubicación Actual: Residencias estudiantiles, departamentos compartidos o campus
+
+- Acceso a Tecnología: Smartphones, laptops, internet frecuente
+
+#### Aspectos Psicográficos:
+
+- Motivaciones: Seguridad de sus pertenencias, rapidez en procesos, tranquilidad académica
+
+- Estilo de vida: Vida universitaria activa, movilidad entre residencia y campus
+
+- Preocupaciones: Pérdida o daño de gadgets y pertenencias
+
+- Adaptación a la tecnología: Alta, prefieren soluciones digitales
+
+- Interés por la Personalización: Medio, valoran servicios adaptados a sus necesidades
+
+### Segmento Objetivo 2: Padres de estudiantes
+
+- Sexo: Masculino y Femenino
+
+- Edades: 35–60 años
+
+- Nivel Socioeconómico: Medio–medio alto
+
+- Ocupación: Profesionales o trabajadores estables
+
+- Ingresos: Medios a altos, pueden pagar microseguros
+
+#### Aspectos Geográficos:
+
+- Nacionalidad: Peruana
+
+- Ubicación Actual: Principales ciudades del país
+
+- Acceso a Tecnología: Smartphones y uso regular de internet
+
+#### Aspectos Psicográficos:
+
+- Motivaciones: Tranquilidad y protección para sus hijos
+
+- Estilo de vida: Familiar, con preocupación por educación y seguridad de hijos
+
+- Preocupaciones: Riesgos que afectan a sus hijos, gastos inesperados
+
+- Adaptación a la tecnología: Media, aceptan soluciones digitales si son sencillas
+
+- Interés por la Personalización: Medio, buscan servicios confiables y fáciles de usar
 
 ## Capítulo II: Requirements Elicitation & Analysis
 
