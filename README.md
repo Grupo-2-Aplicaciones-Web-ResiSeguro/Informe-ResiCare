@@ -269,7 +269,13 @@ ResiCare es un microseguro digital diseñado para estudiantes preuniversitarios 
 
 ##### 1.2.2.4. Lean UX Canvas
 
+A continuación se puede visualizar el Lean UX Canvas donde se estructura y valida rápidamente ideas de producto.
 
+<p align="center">
+  <img src="./assets/Lean-UX-Canvas.jpg" alt="Lean UX Canvas" width="850">
+</p>
+
+Visualizar diseño en Canva: https://www.canva.com/design/DAGlJa5hM50/r6zjjmIBlYsMarSUoKuRaQ/edit?utm_content=DAGlJa5hM50&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ### 1.3. Segmentos Objetivos
 
