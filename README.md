@@ -202,7 +202,7 @@ Soy una persona proactiva y comprometida con el trabajo en equipo. Me gusta apor
 
 
 ### 1.2. Solution Profile
-ResiCare es un microseguro digital diseñado para estudiantes preuniversitarios y universitarios que viven en residencias estudiantiles, departamentos compartidos o en el campus. Permite contratar coberturas económicas y simples vía web orientadas a proteger pertenencias personales (gadgets, laptop, mochila), ofrecer asistencia médica básica (teleconsulta) y cubrir imprevistos en viajes cortos entre residencia y campus (cancelaciones menores, pérdida de equipaje en traslados interurbanos). La propuesta se centra en una afiliación rápida, reclamos sencillos por foto/chat y decisiones automáticas para siniestros menores, con una opción de escalamiento a revisión humana cuando corresponde. Modelo freemium: funciones esenciales en la versión básica y características avanzadas (reportes, historial de reclamos prioritarios, mayor cobertura) en planes premium.
+ResiCare es un microseguro digital diseñado para estudiantes preuniversitarios y universitarios que viven en residencias estudiantiles, departamentos compartidos o en el campus. Permite contratar coberturas económicas y simples vía web orientadas a proteger pertenencias personales (gadgets, laptop, mochila), ofrecer asistencia médica básica (teleconsulta) y cubrir imprevistos en viajes cortos entre residencia y campus (cancelaciones menores, pérdida de equipaje en traslados interurbanos). La propuesta se centra en una afiliación rápida, reclamos sencillos por foto/chat y decisiones automáticas para siniestros menores, con una opción de escalamiento a revisión humana cuando corresponde. Modelo básico: Acceso a todas las caráticas menos el simulador y un monto menor de cobertura, (reportes, historial de reclamos prioritarios, mayor cobertura) en planes premium. Además cuenta con un simulador de devolución en caso de reclamar el seguro.
 
 
 #### 1.2.1. Antecedentes y problemática
@@ -349,6 +349,30 @@ Visualizar diseño en Canva: https://www.canva.com/design/DAGlJa5hM50/r6zjjmIBlY
 ### 2.1. Competidores
 
 #### 2.1.1. Análisis competitivo
+|  | **ResiCare**<br><img src="./assets/resicare.png" alt="ResiCare" width="200"> | **Insurama**<br><img src="./assets/insurama.png" alt="Insurama" width="200"> | **Rimac**<br><img src="./assets/rimac.png" alt="Rimac" width="200"> | **Pacífico**<br><img src="./assets/pacifico.png" alt="Pacifico" width="200"> |
+|---------------------------------------------------------------|-----------------------------|---------------------------|---------------------------|---------------------------|
+| **Perfil**<br>Overview | Startup peruana enfocada en microseguros digitales para estudiantes universitarios y preuniversitarios en residencias o campus. Cubre gadgets, viajes cortos y asistencia médica básica con modelo básico y reclamos automáticos vía foto/chat. | Insurtech internacional especializada en seguros para dispositivos (celulares, laptops, multidispositivo). Contratación digital (web/WhatsApp), cobertura por daños, robos y accidentes; expansión en LATAM. | Aseguradora líder en Perú, ofrece seguros de salud, vida y accidentes, incluyendo pólizas universitarias. Reconocida por su red de clínicas, app y soporte 24/7. | Aseguradora tradicional que ofrece seguros de accidentes estudiantiles contratados por instituciones. Cobertura dentro y fuera del centro educativo, asistencia 24/7 y confianza de marca. |
+| **Ventaja competitiva**<br>¿Qué valor ofrece a los clientes? | Cobertura específica a la vida universitaria: gadgets, teleconsulta, viajes cortos. Modelo básico accesible y reclamos automáticos simples. Y un simulador de reposición económica por pérdida y otros agravios.  | Foco directo en protección de dispositivos, sin deducibles en algunos planes, experiencia digital rápida. | Respaldo de marca, red médica robusta y cobertura integral. | Cobertura 24/7 de accidentes estudiantiles, acceso institucional y solidez de marca. |
+
+| **Perfil de marketing** |  |  |  |  |
+|-------------------------|--|--|--|--|
+| **Mercado objetivo** | Estudiantes (16–25 años)  medio–medio alto y padres (35–60 años) que financian su estancia y se preocupan por sus hijos y su seguridad. | Usuarios jóvenes/adultos con gadgets valiosos; clientes retail y telecom. | Familias, estudiantes mediante universidades, y empresas. | Instituciones educativas y padres que buscan seguridad para hijos. |
+| **Estrategias de marketing** | Ads en redes sociales (TikTok, IG), alianzas con universidades/residencias, referidos entre estudiantes, cross-sell con tiendas de tecnología. | Alianzas con retailers, telecom y bancos; campañas digitales al comprar dispositivos. | Alianzas institucionales con universidades; comunicación de confianza; canales tradicionales y digitales (app). | Venta B2B a colegios y universidades; promoción en matrículas; comunicación institucional. |
+
+| **Perfil de Producto** |  |  |  |  |
+|------------------------|--|--|--|--|
+| **Productos & Servicios** | Plan básico (gadgets + teleconsulta básica) con reposición por daños por montos menores; planes premium con mayor cobertura, historial de reclamos, viajes cortos. | Seguros de celulares, laptops y multidispositivo (rotura, robo, daño líquido, avería). | Seguros de salud, vida, accidentes y universitario; asistencia médica 24/7. | Seguro de accidentes estudiantiles con cobertura 24/7 y asistencia en emergencias. |
+| **Precios & Costos** | Básico s/. /mesA ; premium S/ B mes.  | Prima mensual según valor del equipo; sin deducible en algunos planes. Aprox s/ 17/mes| Precio alto (cobertura integral y red médica amplia); costos operativos elevados. Aprox s/ 18.5/mes | Tarifas colectivas según institución; costos asociados a red médica y gestión. Aprox s/ 37.87/mes |
+| **Canales de distribución** | Web y móvil responsive, integración con apps universitarias, WhatsApp, alianzas retail. | Web, móvil, WhatsApp, retailers y telecom partners. | Web, app móvil, agentes y acuerdos institucionales. | B2B con instituciones educativas; web y agentes institucionales. |
+
+| **FODA** |  |  |  |  |
+|----------|--|--|--|--|
+| **Fortalezas** | Foco en estudiantes, agilidad digital, modelo básico y premium. | Especialización en tecnología, experiencia digital ágil. | Confianza de marca, amplia red médica, solidez financiera. | Canales institucionales sólidos, cobertura amplia de accidentes. |
+| **Oportunidades** | Alianzas con universidades y residencias, convenios con tiendas de tecnología. | Expandirse al mercado estudiantil, convenios con universidades. | Adaptar productos a microseguros digitales para jóvenes. | Añadir coberturas de gadgets, convenios con retail. |
+| **Debilidades** | Marca nueva, bajo volumen inicial, riesgo de fraude en reclamos digitales. | Enfoque limitado a dispositivos, no incluye salud ni viajes. | Procesos más lentos, precios altos para estudiantes. | Reclamos poco ágiles, producto no adaptado a gadgets. |
+| **Amenazas** | Entrada de grandes aseguradoras en microseguros estudiantiles, insurtechs posicionadas. | Competencia en precios y entrada de aseguradoras tradicionales. | Insurtechs más ágiles y económicas. | Insurtechs direct-to-consumer con soluciones más baratas. |
+
+
 
 #### 2.1.2. Estrategias y tácticas frente a competidores
 
