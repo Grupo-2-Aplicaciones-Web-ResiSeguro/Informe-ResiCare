@@ -174,14 +174,40 @@ que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Ou
 ## Capítulo I: Introducción
 
 ### 1.1. Startup Profile
+Somos un equipo de estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC) motivados en desarrollar una solución diferente que cuyo objetivo principal sea ayudar a los estudiantes cuya residencia princiapal se encuentra muy lejos, mediante un seguro que garantice su seguridad y protección.
+
 
 #### 1.1.1. Descripción de la Startup
+ResiSeguro es una startup enfocada en brindar protección rápida y digital a estudiantes universitarios que viven lejos de casa. Nuestro producto principal, ResiCare, ofrece seguros accesibles y personalizados para cubrir riesgos comunes en residencias estudiantiles, como robos, daños a pertenencias y emergencias. Utilizando tecnología digital, facilitamos la contratación y gestión de seguros de manera ágil, transparente y adaptada a las necesidades reales de los estudiantes, promoviendo su tranquilidad y bienestar durante su vida.
+
+**Misión:** Brindar a los estudiantes universitarios una solución digital y accesible que proteja sus pertenencias y su tranquilidad mientras viven lejos de casa, facilitando seguros personalizados y procesos ágiles de gestión y reclamación.
+
+**Visión:** Ser la startup líder en seguros digitales para estudiantes universitarios, reconocida por ofrecer protección confiable, rápida y adaptada a las necesidades de quienes residen fuera de su hogar, promoviendo su bienestar y seguridad en todo momento.
 
 #### 1.1.2. Perfiles de Integrantes del Equipo
 
+<p align="center">
+    <img src="assets/integrantes/FotoHector.png" alt="foto-hector" width="170px"/>
+</p>
+
+Soy responsable, me gusta involucrarme activamente en los proyectos, aportar ideas útiles y cumplir con mis tareas a tiempo. Siempre estoy dispuesto a colaborar y ayudar al equipo a avanzar de la mejor manera posible.
+
+- Jude Alessandro Hermoza Quispe - u202318220 (Ingeniería de Software)
+
+<p align="center">
+    <img src="assets/integrantes/FotoJude.png" alt="foto-jude" width="170px"/>
+</p>
+
+Soy una persona proactiva y comprometida con el trabajo en equipo. Me gusta aportar soluciones creativas, asumir retos y aprender constantemente. Valoro la comunicación clara y la organización para lograr los objetivos del proyecto de manera eficiente y colaborativa.
+
+
 ### 1.2. Solution Profile
+ResiCare es un microseguro digital diseñado para estudiantes preuniversitarios y universitarios que viven en residencias estudiantiles, departamentos compartidos o en el campus. Permite contratar coberturas económicas y simples vía web orientadas a proteger pertenencias personales (gadgets, laptop, mochila), ofrecer asistencia médica básica (teleconsulta) y cubrir imprevistos en viajes cortos entre residencia y campus (cancelaciones menores, pérdida de equipaje en traslados interurbanos). La propuesta se centra en una afiliación rápida, reclamos sencillos por foto/chat y decisiones automáticas para siniestros menores, con una opción de escalamiento a revisión humana cuando corresponde. Modelo freemium: funciones esenciales en la versión básica y características avanzadas (reportes, historial de reclamos prioritarios, mayor cobertura) en planes premium.
+
 
 #### 1.2.1. Antecedentes y problemática
+
+
 
 #### 1.2.2. Lean UX Process
 
@@ -191,13 +217,14 @@ que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Ou
 
 ##### 1.2.2.3. Lean UX Hypothesis Statements
 
+
 ##### 1.2.2.4. Lean UX Canvas
+
+
 
 ### 1.3. Segmentos Objetivos
 
-#### Segmento Objetivo 1:
 
-#### Segmento Objetivo 2:
 
 ## Capítulo II: Requirements Elicitation & Analysis
 
