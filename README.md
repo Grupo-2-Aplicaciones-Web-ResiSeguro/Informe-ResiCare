@@ -208,6 +208,40 @@ ResiCare es un microseguro digital diseñado para estudiantes preuniversitarios 
 #### 1.2.1. Antecedentes y problemática
 
 
+**What**  
+- Los estudiantes y sus familias no tienen opciones de seguro accesibles, fáciles de contratar o que se adapten a la realidad estudiantil (dispositivos de uso diario, gastos médicos menores, traslados cortos). Las pólizas tradicionales suelen ser costosas, con procedimientos complejos y mal enfoque en reclamos rápidos y digitales, lo que deja a muchos sin protección ante robos, daños accidentales o necesidades de consulta médica básica. 
+
+**When**  
+ 
+- El problema es persistente y diario, pero suele intensificarse en momentos concretos:  al inicio del ciclo académico, antes de viajes intersemestrales o durante la temporada de compra de equipos (inicio de clases). Y puede tornarse más crítico en contextos de mayor movilidad estudiantil o cuando hay incremento de robos en áreas estudiantiles.
+
+**Where**  
+
+- Surge en el día a día estudiantil: dentro de residencias y departamentos compartidos (robos o daños en habitaciones y zonas comunes), en trayectos cortos hacia la universidad (pérdida de objetos, equipaje en viajes interurbanos) y al necesitar atención médica menor fuera de horarios convencionales (necesidad de teleconsulta).
+ 
+
+**Who**  
+- Principalmente se ven afectados dos grupos: Estudiantes universitarios que realizan una vida cerca o dentro del campus, y padres de estudiantes que tienen que sustentar a distancia la residencia y estadía de sus hijos debido a sus estudios.
+
+
+**Why**  
+
+- Este problema existe porque las alternativas existentes no están diseñadas para la escala, el presupuesto ni la velocidad que requieren los estudiantes: pólizas largas, procesos de reclamo presenciales o con documentación extensa, y coberturas desproporcionadas frente a pérdidas frecuentes y de bajo monto. 
+
+**How**  
+
+- No denuncian o no reclaman daños/robos por el trámite engorroso.
+
+- Reemplazan o reparan a costo propio (impactando su economía y continuidad académica).
+
+- Los padres asumen gastos inesperados o prefieren no enviar al estudiante a campus con objetos de valor por miedo a pérdidas.
+
+- Las universidades y residencias enfrentan quejas recurrentes y falta de un mecanismo estandarizado para gestionar incidentes.  
+
+**How much**  
+- Según datos del Seguro Integral de Salud (SIS), más de 500,000 estudiantes universitarios en Perú no cuentan con un seguro de salud, lo que representa aproximadamente el 15% de la población estudiantil universitaria nacional.
+
+
 
 #### 1.2.2. Lean UX Process
 
