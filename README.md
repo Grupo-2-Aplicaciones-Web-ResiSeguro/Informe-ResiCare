@@ -381,6 +381,34 @@ ResiCare aplicará una estrategia de diferenciación enfocada en estudiantes, of
 ### 2.2. Entrevistas
 
 #### 2.2.1. Diseño de entrevistas
+### Entrevistas para validación de ResiCare
+###  Preguntas Generales
+1. ¿Cuál es tu nombre, edad, distrito de residencia, y tipo de vivienda (residencia, dep. compartido, casa)?  
+2. ¿Qué dispositivos consideras imprescindibles y cuál es su valor aproximado en soles?  
+3. ¿Has sufrido robo/daño/pérdida de pertenencias; cómo lo resolviste y cuánto te costó?
+---
+### Segmento 1: Estudiantes universitarios
+1. ¿Cómo es tu rutina diaria entre residencia y campus y con qué frecuencia te trasladas?  
+2. ¿Quién paga principalmente tus gastos y cuánto aportas tú (si aplica)?  
+3. De estas coberturas, protección de gadgets, teleconsulta médica, pérdida en traslados cortos, ¿cuál priorizas y por qué?  
+4. ¿Preferirías un plan gratuito con cobertura mínima o pagar una suscripción mensual por más beneficios; por qué?  
+5. ¿Qué tan cómodo te sentirías reclamando por foto/chat y recibiendo una decisión automática; qué condiciones necesitarías para confiar en ese proceso?  
+6. ¿Qué evidencia estarías dispuesto a subir en un reclamo (foto, factura, testigo) y cuánto tiempo esperarías para una resolución?  
+7. ¿Qué incentivo te motivaría más a recomendar el seguro a un amigo (descuento, mes gratis, prioridad en reclamos, otro)?
+
+---
+### Segmento 1: Padres de estudiantes universitarios
+
+
+1. ¿Cómo supervisas la protección y gastos de tu hijo(a) cuando vive fuera; qué te preocupa más (salud, seguridad, costo de reemplazo)?  
+2. ¿Estarías dispuesto(a) a pagar una suscripción mensual para proteger las pertenencias y tener teleconsulta para tu hijo; qué rango mensual te parece razonable?  
+3. ¿Preferirías contratar tú directamente o que la universidad/residencia ofrezca el plan de forma colectiva; por qué?  
+4. ¿Qué garantías o evidencias (alianza con universidad, respaldo de aseguradora, certificación) necesitarías para confiar en una startup que ofrece este seguro?  
+5. En caso de un reclamo sencillo (ej. robo de laptop), ¿qué tiempo de respuesta y nivel de comunicación esperarías?  
+6. ¿Qué información te gustaría recibir periódicamente como padre (reportes, historial de reclamos, alertas de vencimiento)?  
+7. ¿Qué factor concreto te haría cancelar la suscripción después del primer año?
+
+---
 
 #### 2.2.2. Registro de entrevistas
 
