@@ -417,6 +417,20 @@ ResiCare aplicará una estrategia de diferenciación enfocada en estudiantes, of
 ### 2.3. Needfinding
 
 #### 2.3.1. User Personas
+Se realiza un análisis de las respuestas brindadas por nuestros entrevistados, dividiéndose en los 2 segmentos definidos anteriormente por el equipo de trabajo.
+
+*Segmento 1: Estudiantes universitarios*
+
+<p align="center">
+  <img src="./assets/userPersona1.png" alt="User Persona 1" width="550">
+</p>
+
+*Segmento 2: Padres de estudiantes universitarios*
+
+<p align="center">
+  <img src="./assets/userPersona2.png" alt="User Persona 2" width="550">
+</p>
+
 
 #### 2.3.2. User Task Matrix
 
