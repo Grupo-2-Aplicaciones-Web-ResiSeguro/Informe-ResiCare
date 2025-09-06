@@ -254,6 +254,80 @@ Hemos observado que muchos estudiantes sienten que los seguros disponibles no co
 
 ##### 1.2.2.2. Lean UX Assumptions
 
+**Assumptions Worksheet**
+
+### Supuestos del Negocio – ResiSeguro
+
+1. **Creo que mis clientes tienen la necesidad de:**  
+   Contar con seguros accesibles, rápidos y adaptados a la vida universitaria, que protejan sus pertenencias personales y les brinden tranquilidad mientras viven lejos de casa.
+
+2. **Estas necesidades pueden resolverse con:**  
+   ResiCare, un microseguro digital que permite contratar coberturas económicas y simples vía web, orientadas a proteger gadgets, mochilas, laptops y ofrecer asistencia médica básica, además de cubrir imprevistos en traslados cortos entre residencia y campus.
+
+3. **Mis clientes iniciales son (o serán):**  
+   - Estudiantes universitarios y preuniversitarios que residen en departamentos compartidos, residencias estudiantiles o en el campus.  
+   - Padres de familia que buscan proteger a sus hijos mientras estudian lejos de casa.
+
+4. **El principal valor que un cliente quiere obtener de mi servicio es:**  
+   Seguridad y protección de sus pertenencias y bienestar durante su vida universitaria.  
+   **También pueden obtener estos beneficios adicionales:**  
+   Procesos de contratación y reclamación ágiles, atención digital, cobertura flexible y tranquilidad ante imprevistos.
+
+5. **Adquiriré la mayoría de mis clientes a través de:**  
+   - Marketing digital en redes sociales dirigido a estudiantes y padres.  
+   - Alianzas con universidades, residencias estudiantiles y asociaciones estudiantiles.  
+   - Recomendaciones boca a boca entre estudiantes.
+
+6. **Ganaré dinero mediante:**  
+   - Modelo freemium: acceso gratuito a coberturas básicas.  
+   - Suscripciones mensuales premium para mayor cobertura y servicios avanzados.  
+   - Alianzas institucionales con universidades y residencias.
+
+7. **Mi principal competencia en el mercado será:**  
+   Seguros tradicionales, apps de seguros genéricos y coberturas ofrecidas por bancos o instituciones educativas.  
+   **Superaremos a la competencia debido a:**  
+   Nuestro enfoque digital, procesos ágiles, coberturas personalizadas y atención directa a las necesidades estudiantiles.
+
+8. **El mayor riesgo de mi producto es:**  
+   Que los estudiantes no perciban la utilidad del seguro o consideren que no lo necesitan.  
+   **Lo resolveremos mediante:**  
+   Campañas de concientización, testimonios de usuarios, mejoras continuas en la experiencia digital y atención personalizada.
+
+9. **Otras suposiciones que, si se demuestran falsas, harán que nuestro negocio fracase:**  
+   - Que los estudiantes y padres estén dispuestos a pagar por seguros digitales.  
+   - Que las universidades y residencias colaboren en la promoción del producto.  
+   - Que los procesos digitales sean suficientemente confiables y seguros para los usuarios.
+
+### Supuestos del Cliente – ResiSeguro
+
+1. **¿Quién es el cliente?**  
+   Estudiantes universitarios y preuniversitarios que viven lejos de casa, en residencias estudiantiles, departamentos compartidos o en el campus. También padres de familia que buscan proteger a sus hijos durante su etapa universitaria.
+
+2. **¿Dónde encaja nuestro producto en su vida?**  
+   En su día a día universitario: al trasladarse entre residencia y campus, al guardar pertenencias en su cuarto, al adquirir nuevos gadgets o equipos, y en situaciones de emergencia médica menor.
+
+3. **¿Qué problemas soluciona nuestro producto?**  
+   - Falta de seguros accesibles y adaptados a la realidad estudiantil.  
+   - Procesos de contratación y reclamación lentos y complejos.  
+   - Desprotección ante robos, daños accidentales y emergencias cotidianas.  
+   - Preocupación constante por la seguridad de sus pertenencias y bienestar.
+
+4. **¿Cuándo y cómo se utiliza nuestro producto?**  
+   - Uso frecuente: al contratar el seguro al inicio del ciclo académico o al adquirir nuevos equipos.  
+   - En caso de siniestros: realizar reclamos rápidos por foto/chat.  
+   - Acceso vía web o app móvil, para gestionar coberturas, revisar historial y recibir asistencia.
+
+5. **¿Qué características son importantes?**  
+   - Contratación y gestión digital sencilla.  
+   - Coberturas flexibles y económicas para gadgets, mochilas y asistencia médica básica.  
+   - Reclamos ágiles y automatizados, con opción de escalamiento humano.  
+   - Interfaz intuitiva y reportes claros de estado de pólizas y reclamos.
+
+6. **¿Cómo debe verse y comportarse nuestro producto?**  
+   - Diseño moderno, confiable y amigable para estudiantes.  
+   - Responsive, con navegación fluida en cualquier dispositivo.  
+   - Feedback inmediato (notificaciones, estado de reclamos), y facilidad para modificar coberturas según necesidades.
+
 ##### 1.2.2.3. Lean UX Hypothesis Statements
 **1ra Hipótesis**  
 **Creemos que** ofrecer un microseguro digital rápido y económico para estudiantes aumentará la percepción de seguridad y tranquilidad entre los estudiantes.  
