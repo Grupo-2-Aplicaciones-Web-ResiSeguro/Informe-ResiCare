@@ -241,8 +241,6 @@ ResiCare es un microseguro digital diseñado para estudiantes preuniversitarios 
 **How much**  
 - Según datos del Seguro Integral de Salud (SIS), más de 500,000 estudiantes universitarios en Perú no cuentan con un seguro de salud, lo que representa aproximadamente el 15% de la población estudiantil universitaria nacional.
 
-
-
 #### 1.2.2. Lean UX Process
 
 ##### 1.2.2.1. Lean UX Problem Statements
@@ -512,6 +510,40 @@ Se realiza un análisis de las respuestas brindadas por nuestros entrevistados, 
 
 
 #### 2.3.2. User Task Matrix
+
+##### Introducción:
+El siguiente User Task Matrix presenta las principales tareas que realizan los dos segmentos de usuarios identificados para ResiCare: estudiantes universitarios que viven lejos de casa y padres de estudiantes. Se identifican actividades clave para cada grupo, evaluadas según su frecuencia e importancia, considerando su experiencia actual sin el uso de la solución ResiCare.
+
+---
+
+##### Tabla de tareas
+
+| **Tarea**                                         | **Usuario (Estudiante)** | **Usuario (Padre)** |
+|---------------------------------------------------|:-----------------------:|:-------------------:|
+| Contratar un seguro para pertenencias             | Alta/Alta               | Media/Alta          |
+| Consultar cobertura y condiciones del seguro      | Media/Alta              | Alta/Alta           |
+| Realizar un reclamo por robo o daño               | Media/Alta              | Media/Alta          |
+| Adjuntar evidencia (foto, factura) en reclamos    | Media/Media             | Baja/Media          |
+| Consultar historial de reclamos                   | Media/Media             | Media/Media         |
+| Recibir notificaciones sobre vencimiento/cobertura| Alta/Alta               | Alta/Alta           |
+| Solicitar asistencia médica básica (teleconsulta) | Media/Alta              | Media/Media         |
+| Recomendar el seguro a otros estudiantes/padres   | Media/Media             | Media/Media         |
+| Revisar reportes o alertas de seguridad           | Media/Alta              | Alta/Alta           |
+| Gestionar pagos o suscripciones                   | Media/Alta              | Alta/Alta           |
+
+---
+
+##### Explicación:
+- **Contratar un seguro para pertenencias:** Los estudiantes buscan proteger sus gadgets y objetos personales; los padres valoran la protección para sus hijos.
+- **Consultar cobertura y condiciones:** Ambos segmentos revisan qué cubre el seguro y bajo qué condiciones.
+- **Realizar un reclamo:** Es una tarea relevante cuando ocurre un incidente; ambos pueden participar, aunque el estudiante suele iniciar el proceso.
+- **Adjuntar evidencia:** Los estudiantes suelen subir fotos o facturas; los padres pueden ayudar si es necesario.
+- **Consultar historial de reclamos:** Permite hacer seguimiento a incidentes previos y verificar el estado de los reclamos.
+- **Recibir notificaciones:** Ambos valoran alertas sobre vencimientos, renovaciones o cambios en la cobertura.
+- **Solicitar asistencia médica:** Los estudiantes pueden requerir teleconsulta; los padres valoran que sus hijos tengan acceso rápido a atención básica.
+- **Recomendar el seguro:** La recomendación boca a boca es importante para la adopción del servicio.
+- **Revisar reportes o alertas:** Los padres buscan información periódica sobre la seguridad y el uso del seguro.
+- **Gestionar pagos:** Los estudiantes pueden pagar directamente o los padres gestionar la suscripción.
 
 #### 2.3.3. User Journey Mapping
 
