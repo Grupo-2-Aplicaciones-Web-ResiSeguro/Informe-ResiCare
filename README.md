@@ -246,6 +246,11 @@ ResiCare es un microseguro digital diseñado para estudiantes preuniversitarios 
 #### 1.2.2. Lean UX Process
 
 ##### 1.2.2.1. Lean UX Problem Statements
+Los estudiantes universitarios que viven lejos de casa y sus familias enfrentan dificultades para encontrar seguros accesibles, rápidos y adaptados a la realidad estudiantil. Las opciones tradicionales suelen ser costosas, con procesos de contratación y reclamación complejos, lo que genera inseguridad ante robos, daños accidentales o emergencias cotidianas en residencias y traslados.
+
+Hemos observado que muchos estudiantes sienten que los seguros disponibles no consideran sus necesidades reales, lo cual provoca baja adopción de seguros, desprotección ante imprevistos y preocupación constante por su bienestar.
+
+¿Cómo podríamos ofrecer una solución de seguro digital que realmente se adapte a la vida universitaria, facilitando la contratación y gestión de coberturas de manera ágil y transparente para mejorar la seguridad y tranquilidad de los estudiantes?
 
 ##### 1.2.2.2. Lean UX Assumptions
 
