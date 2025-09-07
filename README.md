@@ -553,6 +553,56 @@ El siguiente User Task Matrix presenta las principales tareas que realizan los d
 
 ### 2.4. Ubiquitous Language
 
+Este será el lenguaje común utilizado en la aplicación ResiCare, asegurando que todos los miembros del equipo y usuarios comprendan claramente los conceptos clave del producto.
+
+#### Student
+- Usuario principal de la plataforma, joven universitario o preuniversitario que reside lejos de casa y busca proteger sus pertenencias y bienestar.
+
+#### Parent
+- Usuario secundario, responsable o familiar que financia o supervisa la protección y seguridad del estudiante.
+
+#### Policy
+- Contrato digital que detalla las coberturas, condiciones y vigencia del seguro adquirido por el estudiante o su familia.
+
+#### Coverage
+- Beneficios y protecciones específicas incluidas en la póliza, como protección de gadgets, asistencia médica básica o cobertura en viajes cortos.
+
+#### Claim
+- Solicitud formal realizada por el usuario para recibir compensación o asistencia tras un incidente cubierto (robo, daño, pérdida, emergencia médica).
+
+#### Evidence
+- Documentos, fotos o información que el usuario adjunta para respaldar un reclamo (ejemplo: foto del objeto dañado, factura de compra).
+
+#### Notification
+- Mensaje automático enviado por la plataforma para alertar sobre vencimientos, renovaciones, estado de reclamos o recomendaciones de seguridad.
+
+#### Teleconsultation
+- Servicio de atención médica básica a distancia, accesible para estudiantes asegurados a través de la plataforma.
+
+#### Basic Plan
+- Opción de seguro con coberturas esenciales y costo reducido, dirigido a estudiantes con necesidades mínimas de protección.
+
+#### Premium Plan
+- Opción de seguro con coberturas ampliadas, mayor monto asegurado y servicios adicionales como historial de reclamos y reportes detallados.
+
+#### Return Simulator
+- Herramienta digital que permite al usuario estimar el monto a recibir en caso de un reclamo exitoso.
+
+#### Claims History
+- Registro accesible para el usuario donde puede consultar todos los reclamos realizados y su estado.
+
+#### Affiliation
+- Proceso digital mediante el cual el usuario se registra y contrata una póliza en la plataforma.
+
+#### Renewal
+- Proceso automático o manual para extender la vigencia de una póliza al finalizar su periodo.
+
+#### Institutional Alliance
+- Convenio entre ResiCare y universidades, residencias o asociaciones estudiantiles para facilitar la contratación y promoción del seguro.
+
+#### Support
+- Asistencia técnica o de atención al cliente disponible para resolver dudas, problemas o incidencias relacionadas con el uso de la plataforma.
+
 ## Capítulo III: Requirements Specification
 
 ### 3.1. To-Be Scenario Mapping
