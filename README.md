@@ -574,13 +574,13 @@ El siguiente User Task Matrix presenta las principales tareas que realizan los d
 *Segmento 1: Estudiantes universitarios*
 
 <p align="center">
-  <img src="./assets/asIsScenarioMapping1.jpg" alt="As Is Scenario Mapping 1" width="550">
+  <img src="./assets/asIsScenarioMapping1.png" alt="As Is Scenario Mapping 1" width="550">
 </p>
 
 *Segmento 2: Padres de estudiantes universitarios*
 
 <p align="center">
-  <img src="./assets/asIsScenarioMapping2.jpg" alt="As Is Scenario Mapping 2" width="550">
+  <img src="./assets/asIsScenarioMapping2.png" alt="As Is Scenario Mapping 2" width="550">
 </p>
 
 ### 2.4. Ubiquitous Language
