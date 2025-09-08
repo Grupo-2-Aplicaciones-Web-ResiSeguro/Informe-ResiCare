@@ -200,6 +200,13 @@ Soy responsable, me gusta involucrarme activamente en los proyectos, aportar ide
 
 Soy una persona proactiva y comprometida con el trabajo en equipo. Me gusta aportar soluciones creativas, asumir retos y aprender constantemente. Valoro la comunicación clara y la organización para lograr los objetivos del proyecto de manera eficiente y colaborativa.
 
+- Vanessa May Lang Choy Robles - u202317450 (Ingeniería de Software)
+
+<p align="center">
+    <img src="assets/integrantes/FotoChoy.jpeg" alt="foto-vane" width="170px"/>
+</p>
+
+Soy una estudiante responsable con el trabajo. Respeto y escucho la opinión de los demás ayudando al trabajo en equipo. Me comprometo a contribuir al equipo siendo puntual en las reuniones y responsable en las entregas. 
 
 ### 1.2. Solution Profile
 ResiCare es un microseguro digital diseñado para estudiantes preuniversitarios y universitarios que viven en residencias estudiantiles, departamentos compartidos o en el campus. Permite contratar coberturas económicas y simples vía web orientadas a proteger pertenencias personales (gadgets, laptop, mochila), ofrecer asistencia médica básica (teleconsulta) y cubrir imprevistos en viajes cortos entre residencia y campus (cancelaciones menores, pérdida de equipaje en traslados interurbanos). La propuesta se centra en una afiliación rápida, reclamos sencillos por foto/chat y decisiones automáticas para siniestros menores, con una opción de escalamiento a revisión humana cuando corresponde. Modelo básico: Acceso a todas las caráticas menos el simulador y un monto menor de cobertura, (reportes, historial de reclamos prioritarios, mayor cobertura) en planes premium. Además cuenta con un simulador de devolución en caso de reclamar el seguro.
@@ -547,9 +554,34 @@ El siguiente User Task Matrix presenta las principales tareas que realizan los d
 
 #### 2.3.3. User Journey Mapping
 
+
 #### 2.3.4. Empathy Mapping
 
+*Segmento 1: Estudiantes universitarios*
+
+<p align="center">
+  <img src="./assets/empathyMapping1.png" alt="Empathy Mapping 1" width="550">
+</p>
+
+*Segmento 2: Padres de estudiantes universitarios*
+
+<p align="center">
+  <img src="./assets/empathyMapping2.png" alt="Empathy Mapping 2" width="550">
+</p>
+
 #### 2.3.5. As-is Scenario Mapping
+
+*Segmento 1: Estudiantes universitarios*
+
+<p align="center">
+  <img src="./assets/asIsScenarioMapping1.png" alt="As Is Scenario Mapping 1" width="550">
+</p>
+
+*Segmento 2: Padres de estudiantes universitarios*
+
+<p align="center">
+  <img src="./assets/asIsScenarioMapping2.png" alt="As Is Scenario Mapping 2" width="550">
+</p>
 
 ### 2.4. Ubiquitous Language
 
