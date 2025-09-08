@@ -546,10 +546,45 @@ El siguiente User Task Matrix presenta las principales tareas que realizan los d
 - **Gestionar pagos:** Los estudiantes pueden pagar directamente o los padres gestionar la suscripción.
 
 #### 2.3.3. User Journey Mapping
+*Segmento 1: Estudiantes universitarios*
+
+<p align="center">
+  <img src="./assets/journeymapseg1.png" alt="User Persona 1" width="550">
+</p>
+
+*Segmento 2: Padres de estudiantes universitarios*
+
+<p align="center">
+  <img src="./assets/journeymapseg2.png" alt="User Persona 1" width="550">
+</p>
 
 #### 2.3.4. Empathy Mapping
 
+*Segmento 1: Estudiantes universitarios*
+
+<p align="center">
+  <img src="./assets/Empathy%20map-seg1.png" alt="User Persona 1" width="550">
+</p>
+
+*Segmento 2: Padres de estudiantes universitarios*
+
+<p align="center">
+  <img src="./assets/Empathy%20map-seg2.png" alt="User Persona 1" width="550">
+</p>
+
 #### 2.3.5. As-is Scenario Mapping
+
+*Segmento 1: Estudiantes universitarios*
+
+<p align="center">
+  <img src="./assets/Scenario%20Mapping%20-%20seg1.jpg" alt="User Persona 1" width="550">
+</p>
+
+*Segmento 2: Padres de estudiantes universitarios*
+
+<p align="center">
+  <img src="./assets/Scenario%20Mapping%20-%20seg2.jpg" alt="User Persona 1" width="550">
+</p>
 
 ### 2.4. Ubiquitous Language
 
