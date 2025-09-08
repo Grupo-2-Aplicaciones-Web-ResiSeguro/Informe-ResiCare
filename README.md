@@ -174,42 +174,318 @@ que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Ou
 ## Capítulo I: Introducción
 
 ### 1.1. Startup Profile
+Somos un equipo de estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC) motivados en desarrollar una solución diferente que cuyo objetivo principal sea ayudar a los estudiantes cuya residencia princiapal se encuentra muy lejos, mediante un seguro que garantice su seguridad y protección.
+
 
 #### 1.1.1. Descripción de la Startup
+ResiSeguro es una startup enfocada en brindar protección rápida y digital a estudiantes universitarios que viven lejos de casa. Nuestro producto principal, ResiCare, ofrece seguros accesibles y personalizados para cubrir riesgos comunes en residencias estudiantiles, como robos, daños a pertenencias y emergencias. Utilizando tecnología digital, facilitamos la contratación y gestión de seguros de manera ágil, transparente y adaptada a las necesidades reales de los estudiantes, promoviendo su tranquilidad y bienestar durante su vida.
+
+**Misión:** Brindar a los estudiantes universitarios una solución digital y accesible que proteja sus pertenencias y su tranquilidad mientras viven lejos de casa, facilitando seguros personalizados y procesos ágiles de gestión y reclamación.
+
+**Visión:** Ser la startup líder en seguros digitales para estudiantes universitarios, reconocida por ofrecer protección confiable, rápida y adaptada a las necesidades de quienes residen fuera de su hogar, promoviendo su bienestar y seguridad en todo momento.
 
 #### 1.1.2. Perfiles de Integrantes del Equipo
 
+<p align="center">
+    <img src="assets/integrantes/FotoHector.png" alt="foto-hector" width="170px"/>
+</p>
+
+Soy responsable, me gusta involucrarme activamente en los proyectos, aportar ideas útiles y cumplir con mis tareas a tiempo. Siempre estoy dispuesto a colaborar y ayudar al equipo a avanzar de la mejor manera posible.
+
+- Jude Alessandro Hermoza Quispe - u202318220 (Ingeniería de Software)
+
+<p align="center">
+    <img src="assets/integrantes/FotoJude.png" alt="foto-jude" width="170px"/>
+</p>
+
+Soy una persona proactiva y comprometida con el trabajo en equipo. Me gusta aportar soluciones creativas, asumir retos y aprender constantemente. Valoro la comunicación clara y la organización para lograr los objetivos del proyecto de manera eficiente y colaborativa.
+
+
 ### 1.2. Solution Profile
+ResiCare es un microseguro digital diseñado para estudiantes preuniversitarios y universitarios que viven en residencias estudiantiles, departamentos compartidos o en el campus. Permite contratar coberturas económicas y simples vía web orientadas a proteger pertenencias personales (gadgets, laptop, mochila), ofrecer asistencia médica básica (teleconsulta) y cubrir imprevistos en viajes cortos entre residencia y campus (cancelaciones menores, pérdida de equipaje en traslados interurbanos). La propuesta se centra en una afiliación rápida, reclamos sencillos por foto/chat y decisiones automáticas para siniestros menores, con una opción de escalamiento a revisión humana cuando corresponde. Modelo básico: Acceso a todas las caráticas menos el simulador y un monto menor de cobertura, (reportes, historial de reclamos prioritarios, mayor cobertura) en planes premium. Además cuenta con un simulador de devolución en caso de reclamar el seguro.
+
 
 #### 1.2.1. Antecedentes y problemática
+
+
+**What**  
+- Los estudiantes y sus familias no tienen opciones de seguro accesibles, fáciles de contratar o que se adapten a la realidad estudiantil (dispositivos de uso diario, gastos médicos menores, traslados cortos). Las pólizas tradicionales suelen ser costosas, con procedimientos complejos y mal enfoque en reclamos rápidos y digitales, lo que deja a muchos sin protección ante robos, daños accidentales o necesidades de consulta médica básica. 
+
+**When**  
+ 
+- El problema es persistente y diario, pero suele intensificarse en momentos concretos:  al inicio del ciclo académico, antes de viajes intersemestrales o durante la temporada de compra de equipos (inicio de clases). Y puede tornarse más crítico en contextos de mayor movilidad estudiantil o cuando hay incremento de robos en áreas estudiantiles.
+
+**Where**  
+
+- Surge en el día a día estudiantil: dentro de residencias y departamentos compartidos (robos o daños en habitaciones y zonas comunes), en trayectos cortos hacia la universidad (pérdida de objetos, equipaje en viajes interurbanos) y al necesitar atención médica menor fuera de horarios convencionales (necesidad de teleconsulta).
+ 
+
+**Who**  
+- Principalmente se ven afectados dos grupos: Estudiantes universitarios que realizan una vida cerca o dentro del campus, y padres de estudiantes que tienen que sustentar a distancia la residencia y estadía de sus hijos debido a sus estudios.
+
+
+**Why**  
+
+- Este problema existe porque las alternativas existentes no están diseñadas para la escala, el presupuesto ni la velocidad que requieren los estudiantes: pólizas largas, procesos de reclamo presenciales o con documentación extensa, y coberturas desproporcionadas frente a pérdidas frecuentes y de bajo monto. 
+
+**How**  
+
+- No denuncian o no reclaman daños/robos por el trámite engorroso.
+
+- Reemplazan o reparan a costo propio (impactando su economía y continuidad académica).
+
+- Los padres asumen gastos inesperados o prefieren no enviar al estudiante a campus con objetos de valor por miedo a pérdidas.
+
+- Las universidades y residencias enfrentan quejas recurrentes y falta de un mecanismo estandarizado para gestionar incidentes.  
+
+**How much**  
+- Según datos del Seguro Integral de Salud (SIS), más de 500,000 estudiantes universitarios en Perú no cuentan con un seguro de salud, lo que representa aproximadamente el 15% de la población estudiantil universitaria nacional.
 
 #### 1.2.2. Lean UX Process
 
 ##### 1.2.2.1. Lean UX Problem Statements
+Los estudiantes universitarios que viven lejos de casa y sus familias enfrentan dificultades para encontrar seguros accesibles, rápidos y adaptados a la realidad estudiantil. Las opciones tradicionales suelen ser costosas, con procesos de contratación y reclamación complejos, lo que genera inseguridad ante robos, daños accidentales o emergencias cotidianas en residencias y traslados.
+
+Hemos observado que muchos estudiantes sienten que los seguros disponibles no consideran sus necesidades reales, lo cual provoca baja adopción de seguros, desprotección ante imprevistos y preocupación constante por su bienestar.
+
+¿Cómo podríamos ofrecer una solución de seguro digital que realmente se adapte a la vida universitaria, facilitando la contratación y gestión de coberturas de manera ágil y transparente para mejorar la seguridad y tranquilidad de los estudiantes?
 
 ##### 1.2.2.2. Lean UX Assumptions
 
+**Assumptions Worksheet**
+
+### Supuestos del Negocio – ResiSeguro
+
+1. **Creo que mis clientes tienen la necesidad de:**  
+   Contar con seguros accesibles, rápidos y adaptados a la vida universitaria, que protejan sus pertenencias personales y les brinden tranquilidad mientras viven lejos de casa.
+
+2. **Estas necesidades pueden resolverse con:**  
+   ResiCare, un microseguro digital que permite contratar coberturas económicas y simples vía web, orientadas a proteger gadgets, mochilas, laptops y ofrecer asistencia médica básica, además de cubrir imprevistos en traslados cortos entre residencia y campus.
+
+3. **Mis clientes iniciales son (o serán):**  
+   - Estudiantes universitarios y preuniversitarios que residen en departamentos compartidos, residencias estudiantiles o en el campus.  
+   - Padres de familia que buscan proteger a sus hijos mientras estudian lejos de casa.
+
+4. **El principal valor que un cliente quiere obtener de mi servicio es:**  
+   Seguridad y protección de sus pertenencias y bienestar durante su vida universitaria.  
+   **También pueden obtener estos beneficios adicionales:**  
+   Procesos de contratación y reclamación ágiles, atención digital, cobertura flexible y tranquilidad ante imprevistos.
+
+5. **Adquiriré la mayoría de mis clientes a través de:**  
+   - Marketing digital en redes sociales dirigido a estudiantes y padres.  
+   - Alianzas con universidades, residencias estudiantiles y asociaciones estudiantiles.  
+   - Recomendaciones boca a boca entre estudiantes.
+
+6. **Ganaré dinero mediante:**  
+   - Modelo freemium: acceso gratuito a coberturas básicas.  
+   - Suscripciones mensuales premium para mayor cobertura y servicios avanzados.  
+   - Alianzas institucionales con universidades y residencias.
+
+7. **Mi principal competencia en el mercado será:**  
+   Seguros tradicionales, apps de seguros genéricos y coberturas ofrecidas por bancos o instituciones educativas.  
+   **Superaremos a la competencia debido a:**  
+   Nuestro enfoque digital, procesos ágiles, coberturas personalizadas y atención directa a las necesidades estudiantiles.
+
+8. **El mayor riesgo de mi producto es:**  
+   Que los estudiantes no perciban la utilidad del seguro o consideren que no lo necesitan.  
+   **Lo resolveremos mediante:**  
+   Campañas de concientización, testimonios de usuarios, mejoras continuas en la experiencia digital y atención personalizada.
+
+9. **Otras suposiciones que, si se demuestran falsas, harán que nuestro negocio fracase:**  
+   - Que los estudiantes y padres estén dispuestos a pagar por seguros digitales.  
+   - Que las universidades y residencias colaboren en la promoción del producto.  
+   - Que los procesos digitales sean suficientemente confiables y seguros para los usuarios.
+
+### Supuestos del Cliente – ResiSeguro
+
+1. **¿Quién es el cliente?**  
+   Estudiantes universitarios y preuniversitarios que viven lejos de casa, en residencias estudiantiles, departamentos compartidos o en el campus. También padres de familia que buscan proteger a sus hijos durante su etapa universitaria.
+
+2. **¿Dónde encaja nuestro producto en su vida?**  
+   En su día a día universitario: al trasladarse entre residencia y campus, al guardar pertenencias en su cuarto, al adquirir nuevos gadgets o equipos, y en situaciones de emergencia médica menor.
+
+3. **¿Qué problemas soluciona nuestro producto?**  
+   - Falta de seguros accesibles y adaptados a la realidad estudiantil.  
+   - Procesos de contratación y reclamación lentos y complejos.  
+   - Desprotección ante robos, daños accidentales y emergencias cotidianas.  
+   - Preocupación constante por la seguridad de sus pertenencias y bienestar.
+
+4. **¿Cuándo y cómo se utiliza nuestro producto?**  
+   - Uso frecuente: al contratar el seguro al inicio del ciclo académico o al adquirir nuevos equipos.  
+   - En caso de siniestros: realizar reclamos rápidos por foto/chat.  
+   - Acceso vía web o app móvil, para gestionar coberturas, revisar historial y recibir asistencia.
+
+5. **¿Qué características son importantes?**  
+   - Contratación y gestión digital sencilla.  
+   - Coberturas flexibles y económicas para gadgets, mochilas y asistencia médica básica.  
+   - Reclamos ágiles y automatizados, con opción de escalamiento humano.  
+   - Interfaz intuitiva y reportes claros de estado de pólizas y reclamos.
+
+6. **¿Cómo debe verse y comportarse nuestro producto?**  
+   - Diseño moderno, confiable y amigable para estudiantes.  
+   - Responsive, con navegación fluida en cualquier dispositivo.  
+   - Feedback inmediato (notificaciones, estado de reclamos), y facilidad para modificar coberturas según necesidades.
+
 ##### 1.2.2.3. Lean UX Hypothesis Statements
+**1ra Hipótesis**  
+**Creemos que** ofrecer un microseguro digital rápido y económico para estudiantes aumentará la percepción de seguridad y tranquilidad entre los estudiantes.  
+**Sabremos que estamos bien cuando** veamos que al menos el 50% de los estudiantes encuestados en residencias o departamentos compartidos se registran y contratan un plan dentro del primer mes de disponibilidad.
+
+---
+
+**2da Hipótesis**  
+**Creemos que** permitir que los estudiantes realicen reclamos simples mediante foto y chat con decisiones automáticas incrementará la adopción y uso de la plataforma.  
+**Sabremos que esto es cierto cuando** más del 60% de los reclamos menores sean procesados automáticamente y los estudiantes reporten satisfacción positiva con la experiencia de reclamo.
+
+---
+
+**3ra Hipótesis**  
+**Creemos que** incluir recordatorios y alertas sobre cobertura, vencimiento de plan o precauciones de seguridad aumentará la interacción frecuente con la aplicación y la percepción de valor del seguro.  
+**Sabremos que estamos teniendo éxito cuando** el número de usuarios que revisan su panel de seguros o reciben alertas aumente en al menos un 30% durante los primeros dos meses tras activar esta funcionalidad.
+
 
 ##### 1.2.2.4. Lean UX Canvas
 
+A continuación se puede visualizar el Lean UX Canvas donde se estructura y valida rápidamente ideas de producto.
+
+<p align="center">
+  <img src="./assets/Lean-UX-Canvas.jpg" alt="Lean UX Canvas" width="850">
+</p>
+
+Visualizar diseño en Canva: https://www.canva.com/design/DAGlJa5hM50/r6zjjmIBlYsMarSUoKuRaQ/edit?utm_content=DAGlJa5hM50&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ### 1.3. Segmentos Objetivos
 
-#### Segmento Objetivo 1:
 
-#### Segmento Objetivo 2:
+### Segmento Objetivo 1: Estudiantes
+
+- Sexo: Masculino y Femenino
+
+- Edades: 16–25 años
+
+- Nivel Socioeconómico: Medio–medio alto
+
+- Ocupación: Estudiantes preuniversitarios y universitarios
+
+- Ingresos: Limitados, generalmente dependientes de sus padres
+
+#### Aspectos Geográficos:
+
+- Nacionalidad: Peruana
+
+- Ubicación Actual: Residencias estudiantiles, departamentos compartidos o campus
+
+- Acceso a Tecnología: Smartphones, laptops, internet frecuente
+
+#### Aspectos Psicográficos:
+
+- Motivaciones: Seguridad de sus pertenencias, rapidez en procesos, tranquilidad académica
+
+- Estilo de vida: Vida universitaria activa, movilidad entre residencia y campus
+
+- Preocupaciones: Pérdida o daño de gadgets y pertenencias
+
+- Adaptación a la tecnología: Alta, prefieren soluciones digitales
+
+- Interés por la Personalización: Medio, valoran servicios adaptados a sus necesidades
+
+### Segmento Objetivo 2: Padres de estudiantes
+
+- Sexo: Masculino y Femenino
+
+- Edades: 35–60 años
+
+- Nivel Socioeconómico: Medio–medio alto
+
+- Ocupación: Profesionales o trabajadores estables
+
+- Ingresos: Medios a altos, pueden pagar microseguros
+
+#### Aspectos Geográficos:
+
+- Nacionalidad: Peruana
+
+- Ubicación Actual: Principales ciudades del país
+
+- Acceso a Tecnología: Smartphones y uso regular de internet
+
+#### Aspectos Psicográficos:
+
+- Motivaciones: Tranquilidad y protección para sus hijos
+
+- Estilo de vida: Familiar, con preocupación por educación y seguridad de hijos
+
+- Preocupaciones: Riesgos que afectan a sus hijos, gastos inesperados
+
+- Adaptación a la tecnología: Media, aceptan soluciones digitales si son sencillas
+
+- Interés por la Personalización: Medio, buscan servicios confiables y fáciles de usar
 
 ## Capítulo II: Requirements Elicitation & Analysis
 
 ### 2.1. Competidores
 
 #### 2.1.1. Análisis competitivo
+|  | **ResiCare**<br><img src="./assets/resicare.png" alt="ResiCare" width="200"> | **Insurama**<br><img src="./assets/insurama.png" alt="Insurama" width="200"> | **Rimac**<br><img src="./assets/rimac.png" alt="Rimac" width="200"> | **Pacífico**<br><img src="./assets/pacifico.png" alt="Pacifico" width="200"> |
+|---------------------------------------------------------------|-----------------------------|---------------------------|---------------------------|---------------------------|
+| **Perfil**<br>Overview | Startup peruana enfocada en microseguros digitales para estudiantes universitarios y preuniversitarios en residencias o campus. Cubre gadgets, viajes cortos y asistencia médica básica con modelo básico y reclamos automáticos vía foto/chat. | Insurtech internacional especializada en seguros para dispositivos (celulares, laptops, multidispositivo). Contratación digital (web/WhatsApp), cobertura por daños, robos y accidentes; expansión en LATAM. | Aseguradora líder en Perú, ofrece seguros de salud, vida y accidentes, incluyendo pólizas universitarias. Reconocida por su red de clínicas, app y soporte 24/7. | Aseguradora tradicional que ofrece seguros de accidentes estudiantiles contratados por instituciones. Cobertura dentro y fuera del centro educativo, asistencia 24/7 y confianza de marca. |
+| **Ventaja competitiva**<br>¿Qué valor ofrece a los clientes? | Cobertura específica a la vida universitaria: gadgets, teleconsulta, viajes cortos. Modelo básico accesible y reclamos automáticos simples. Y un simulador de reposición económica por pérdida y otros agravios.  | Foco directo en protección de dispositivos, sin deducibles en algunos planes, experiencia digital rápida. | Respaldo de marca, red médica robusta y cobertura integral. | Cobertura 24/7 de accidentes estudiantiles, acceso institucional y solidez de marca. |
+
+| **Perfil de marketing** |  |  |  |  |
+|-------------------------|--|--|--|--|
+| **Mercado objetivo** | Estudiantes (16–25 años)  medio–medio alto y padres (35–60 años) que financian su estancia y se preocupan por sus hijos y su seguridad. | Usuarios jóvenes/adultos con gadgets valiosos; clientes retail y telecom. | Familias, estudiantes mediante universidades, y empresas. | Instituciones educativas y padres que buscan seguridad para hijos. |
+| **Estrategias de marketing** | Ads en redes sociales (TikTok, IG), alianzas con universidades/residencias, referidos entre estudiantes, cross-sell con tiendas de tecnología. | Alianzas con retailers, telecom y bancos; campañas digitales al comprar dispositivos. | Alianzas institucionales con universidades; comunicación de confianza; canales tradicionales y digitales (app). | Venta B2B a colegios y universidades; promoción en matrículas; comunicación institucional. |
+
+| **Perfil de Producto** |  |  |  |  |
+|------------------------|--|--|--|--|
+| **Productos & Servicios** | Plan básico (gadgets + teleconsulta básica) con reposición por daños por montos menores; planes premium con mayor cobertura, historial de reclamos, viajes cortos. | Seguros de celulares, laptops y multidispositivo (rotura, robo, daño líquido, avería). | Seguros de salud, vida, accidentes y universitario; asistencia médica 24/7. | Seguro de accidentes estudiantiles con cobertura 24/7 y asistencia en emergencias. |
+| **Precios & Costos** | Básico s/. /mesA ; premium S/ B mes.  | Prima mensual según valor del equipo; sin deducible en algunos planes. Aprox s/ 17/mes| Precio alto (cobertura integral y red médica amplia); costos operativos elevados. Aprox s/ 18.5/mes | Tarifas colectivas según institución; costos asociados a red médica y gestión. Aprox s/ 37.87/mes |
+| **Canales de distribución** | Web y móvil responsive, integración con apps universitarias, WhatsApp, alianzas retail. | Web, móvil, WhatsApp, retailers y telecom partners. | Web, app móvil, agentes y acuerdos institucionales. | B2B con instituciones educativas; web y agentes institucionales. |
+
+| **FODA** |  |  |  |  |
+|----------|--|--|--|--|
+| **Fortalezas** | Foco en estudiantes, agilidad digital, modelo básico y premium. | Especialización en tecnología, experiencia digital ágil. | Confianza de marca, amplia red médica, solidez financiera. | Canales institucionales sólidos, cobertura amplia de accidentes. |
+| **Oportunidades** | Alianzas con universidades y residencias, convenios con tiendas de tecnología. | Expandirse al mercado estudiantil, convenios con universidades. | Adaptar productos a microseguros digitales para jóvenes. | Añadir coberturas de gadgets, convenios con retail. |
+| **Debilidades** | Marca nueva, bajo volumen inicial, riesgo de fraude en reclamos digitales. | Enfoque limitado a dispositivos, no incluye salud ni viajes. | Procesos más lentos, precios altos para estudiantes. | Reclamos poco ágiles, producto no adaptado a gadgets. |
+| **Amenazas** | Entrada de grandes aseguradoras en microseguros estudiantiles, insurtechs posicionadas. | Competencia en precios y entrada de aseguradoras tradicionales. | Insurtechs más ágiles y económicas. | Insurtechs direct-to-consumer con soluciones más baratas. |
+
+
 
 #### 2.1.2. Estrategias y tácticas frente a competidores
+
+ResiCare aplicará una estrategia de diferenciación enfocada en estudiantes, ofreciendo coberturas específicas para su estilo de vida con un modelo básico accesible; complementará con digitalización y agilidad, garantizando procesos 100% online y reclamos rápidos por foto/chat para superar a la competencia tradicional; y finalmente, impulsará educación y alianzas estratégicas mediante campañas en redes y convenios con universidades y residencias para generar confianza y adopción masiva.
 
 ### 2.2. Entrevistas
 
 #### 2.2.1. Diseño de entrevistas
+### Entrevistas para validación de ResiCare
+###  Preguntas Generales
+1. ¿Cuál es tu nombre, edad, distrito de residencia, y tipo de vivienda (residencia, dep. compartido, casa)?  
+2. ¿Qué dispositivos consideras imprescindibles y cuál es su valor aproximado en soles?  
+3. ¿Has sufrido robo/daño/pérdida de pertenencias; cómo lo resolviste y cuánto te costó?
+---
+### Segmento 1: Estudiantes universitarios
+1. ¿Cómo es tu rutina diaria entre residencia y campus y con qué frecuencia te trasladas?  
+2. ¿Quién paga principalmente tus gastos y cuánto aportas tú (si aplica)?  
+3. De estas coberturas, protección de gadgets, teleconsulta médica, pérdida en traslados cortos, ¿cuál priorizas y por qué?  
+4. ¿Preferirías un plan gratuito con cobertura mínima o pagar una suscripción mensual por más beneficios; por qué?  
+5. ¿Qué tan cómodo te sentirías reclamando por foto/chat y recibiendo una decisión automática; qué condiciones necesitarías para confiar en ese proceso?  
+6. ¿Qué evidencia estarías dispuesto a subir en un reclamo (foto, factura, testigo) y cuánto tiempo esperarías para una resolución?  
+7. ¿Qué incentivo te motivaría más a recomendar el seguro a un amigo (descuento, mes gratis, prioridad en reclamos, otro)?
+
+---
+### Segmento 1: Padres de estudiantes universitarios
+
+
+1. ¿Cómo supervisas la protección y gastos de tu hijo(a) cuando vive fuera; qué te preocupa más (salud, seguridad, costo de reemplazo)?  
+2. ¿Estarías dispuesto(a) a pagar una suscripción mensual para proteger las pertenencias y tener teleconsulta para tu hijo; qué rango mensual te parece razonable?  
+3. ¿Preferirías contratar tú directamente o que la universidad/residencia ofrezca el plan de forma colectiva; por qué?  
+4. ¿Qué garantías o evidencias (alianza con universidad, respaldo de aseguradora, certificación) necesitarías para confiar en una startup que ofrece este seguro?  
+5. En caso de un reclamo sencillo (ej. robo de laptop), ¿qué tiempo de respuesta y nivel de comunicación esperarías?  
+6. ¿Qué información te gustaría recibir periódicamente como padre (reportes, historial de reclamos, alertas de vencimiento)?  
+7. ¿Qué factor concreto te haría cancelar la suscripción después del primer año?
+
+---
 
 #### 2.2.2. Registro de entrevistas
 
@@ -218,8 +494,56 @@ que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Ou
 ### 2.3. Needfinding
 
 #### 2.3.1. User Personas
+Se realiza un análisis de las respuestas brindadas por nuestros entrevistados, dividiéndose en los 2 segmentos definidos anteriormente por el equipo de trabajo.
+
+*Segmento 1: Estudiantes universitarios*
+
+<p align="center">
+  <img src="./assets/userPersona1.png" alt="User Persona 1" width="550">
+</p>
+
+*Segmento 2: Padres de estudiantes universitarios*
+
+<p align="center">
+  <img src="./assets/userPersona2.png" alt="User Persona 2" width="550">
+</p>
+
 
 #### 2.3.2. User Task Matrix
+
+##### Introducción:
+El siguiente User Task Matrix presenta las principales tareas que realizan los dos segmentos de usuarios identificados para ResiCare: estudiantes universitarios que viven lejos de casa y padres de estudiantes. Se identifican actividades clave para cada grupo, evaluadas según su frecuencia e importancia, considerando su experiencia actual sin el uso de la solución ResiCare.
+
+---
+
+##### Tabla de tareas
+
+| **Tarea**                                         | **Usuario (Estudiante)** | **Usuario (Padre)** |
+|---------------------------------------------------|:-----------------------:|:-------------------:|
+| Contratar un seguro para pertenencias             | Alta/Alta               | Media/Alta          |
+| Consultar cobertura y condiciones del seguro      | Media/Alta              | Alta/Alta           |
+| Realizar un reclamo por robo o daño               | Media/Alta              | Media/Alta          |
+| Adjuntar evidencia (foto, factura) en reclamos    | Media/Media             | Baja/Media          |
+| Consultar historial de reclamos                   | Media/Media             | Media/Media         |
+| Recibir notificaciones sobre vencimiento/cobertura| Alta/Alta               | Alta/Alta           |
+| Solicitar asistencia médica básica (teleconsulta) | Media/Alta              | Media/Media         |
+| Recomendar el seguro a otros estudiantes/padres   | Media/Media             | Media/Media         |
+| Revisar reportes o alertas de seguridad           | Media/Alta              | Alta/Alta           |
+| Gestionar pagos o suscripciones                   | Media/Alta              | Alta/Alta           |
+
+---
+
+##### Explicación:
+- **Contratar un seguro para pertenencias:** Los estudiantes buscan proteger sus gadgets y objetos personales; los padres valoran la protección para sus hijos.
+- **Consultar cobertura y condiciones:** Ambos segmentos revisan qué cubre el seguro y bajo qué condiciones.
+- **Realizar un reclamo:** Es una tarea relevante cuando ocurre un incidente; ambos pueden participar, aunque el estudiante suele iniciar el proceso.
+- **Adjuntar evidencia:** Los estudiantes suelen subir fotos o facturas; los padres pueden ayudar si es necesario.
+- **Consultar historial de reclamos:** Permite hacer seguimiento a incidentes previos y verificar el estado de los reclamos.
+- **Recibir notificaciones:** Ambos valoran alertas sobre vencimientos, renovaciones o cambios en la cobertura.
+- **Solicitar asistencia médica:** Los estudiantes pueden requerir teleconsulta; los padres valoran que sus hijos tengan acceso rápido a atención básica.
+- **Recomendar el seguro:** La recomendación boca a boca es importante para la adopción del servicio.
+- **Revisar reportes o alertas:** Los padres buscan información periódica sobre la seguridad y el uso del seguro.
+- **Gestionar pagos:** Los estudiantes pueden pagar directamente o los padres gestionar la suscripción.
 
 #### 2.3.3. User Journey Mapping
 
@@ -228,6 +552,56 @@ que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Ou
 #### 2.3.5. As-is Scenario Mapping
 
 ### 2.4. Ubiquitous Language
+
+Este será el lenguaje común utilizado en la aplicación ResiCare, asegurando que todos los miembros del equipo y usuarios comprendan claramente los conceptos clave del producto.
+
+#### Student
+- Usuario principal de la plataforma, joven universitario o preuniversitario que reside lejos de casa y busca proteger sus pertenencias y bienestar.
+
+#### Parent
+- Usuario secundario, responsable o familiar que financia o supervisa la protección y seguridad del estudiante.
+
+#### Policy
+- Contrato digital que detalla las coberturas, condiciones y vigencia del seguro adquirido por el estudiante o su familia.
+
+#### Coverage
+- Beneficios y protecciones específicas incluidas en la póliza, como protección de gadgets, asistencia médica básica o cobertura en viajes cortos.
+
+#### Claim
+- Solicitud formal realizada por el usuario para recibir compensación o asistencia tras un incidente cubierto (robo, daño, pérdida, emergencia médica).
+
+#### Evidence
+- Documentos, fotos o información que el usuario adjunta para respaldar un reclamo (ejemplo: foto del objeto dañado, factura de compra).
+
+#### Notification
+- Mensaje automático enviado por la plataforma para alertar sobre vencimientos, renovaciones, estado de reclamos o recomendaciones de seguridad.
+
+#### Teleconsultation
+- Servicio de atención médica básica a distancia, accesible para estudiantes asegurados a través de la plataforma.
+
+#### Basic Plan
+- Opción de seguro con coberturas esenciales y costo reducido, dirigido a estudiantes con necesidades mínimas de protección.
+
+#### Premium Plan
+- Opción de seguro con coberturas ampliadas, mayor monto asegurado y servicios adicionales como historial de reclamos y reportes detallados.
+
+#### Return Simulator
+- Herramienta digital que permite al usuario estimar el monto a recibir en caso de un reclamo exitoso.
+
+#### Claims History
+- Registro accesible para el usuario donde puede consultar todos los reclamos realizados y su estado.
+
+#### Affiliation
+- Proceso digital mediante el cual el usuario se registra y contrata una póliza en la plataforma.
+
+#### Renewal
+- Proceso automático o manual para extender la vigencia de una póliza al finalizar su periodo.
+
+#### Institutional Alliance
+- Convenio entre ResiCare y universidades, residencias o asociaciones estudiantiles para facilitar la contratación y promoción del seguro.
+
+#### Support
+- Asistencia técnica o de atención al cliente disponible para resolver dudas, problemas o incidencias relacionadas con el uso de la plataforma.
 
 ## Capítulo III: Requirements Specification
 
