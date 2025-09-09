@@ -200,6 +200,12 @@ Soy responsable, me gusta involucrarme activamente en los proyectos, aportar ide
 
 Soy una persona proactiva y comprometida con el trabajo en equipo. Me gusta aportar soluciones creativas, asumir retos y aprender constantemente. Valoro la comunicación clara y la organización para lograr los objetivos del proyecto de manera eficiente y colaborativa.
 
+- Pariona Lucas Jose Manuel - u202119257 (Ingenieria de Software)
+
+  <p align="center">
+    <img src="assets/integrantes/josepariona.png" alt="foto-jude" width="170px"/>
+</p>
+Tengo 20 años. En la actualidad estoy estudiando la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Cuento con conocimientos intermedios y avanzados en algunos lenguajes de programación. HTML, CSS, JAVASCRIPT (Avanzado) C++, JAVA, PYTHON (Intermedio) Esto con respecto a la programación, además también de conocimientos con desarrollo web y desarrollo de apps. Me considero una persona responsable, que inspira confianza en el trabajo en grupo. Además, soy bastante adaptativo a la presión y los problemas que pueden llegar a pasar.
 
 ### 1.2. Solution Profile
 ResiCare es un microseguro digital diseñado para estudiantes preuniversitarios y universitarios que viven en residencias estudiantiles, departamentos compartidos o en el campus. Permite contratar coberturas económicas y simples vía web orientadas a proteger pertenencias personales (gadgets, laptop, mochila), ofrecer asistencia médica básica (teleconsulta) y cubrir imprevistos en viajes cortos entre residencia y campus (cancelaciones menores, pérdida de equipaje en traslados interurbanos). La propuesta se centra en una afiliación rápida, reclamos sencillos por foto/chat y decisiones automáticas para siniestros menores, con una opción de escalamiento a revisión humana cuando corresponde. Modelo básico: Acceso a todas las caráticas menos el simulador y un monto menor de cobertura, (reportes, historial de reclamos prioritarios, mayor cobertura) en planes premium. Además cuenta con un simulador de devolución en caso de reclamar el seguro.
