@@ -180,8 +180,7 @@ Lo que realice fue Capítulo IV: Product Design
 4.2.5. Navigation Systems.
 4.3. Landing Page UI Design.
 4.3.1. Landing Page Wireframe.
-4.3.2. Landing Page Mock-up. Partes de Capitulo IV Y V tambien realice el espliegue de la primera versión del Landing Page.
-  | | 
+4.3.2. Landing Page Mock-up. Partes de Capitulo IV Y V tambien realice el espliegue de la primera versión del Landing Page.| | 
 |Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | | |
 
 
