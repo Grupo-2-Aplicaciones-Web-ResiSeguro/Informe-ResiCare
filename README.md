@@ -165,23 +165,9 @@ que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Ou
 
 | Criterio específico | Acciones Realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | Jose Manuel Pariona Lucas: 
-TB1: 
-Lo que realice fue Capítulo IV: Product Design
-4.1. Style Guidelines.
-6/36 V1.0
-4.1.1. General Style Guidelines.
-4.1.2. Web Style Guidelines.
-4.2. Information Architecture.
-4.2.1. Organization Systems.
-4.2.2. Labeling Systems.
-4.2.3. SEO Tags and Meta Tags
-4.2.4. Searching Systems.
-4.2.5. Navigation Systems.
-4.3. Landing Page UI Design.
-4.3.1. Landing Page Wireframe.
-4.3.2. Landing Page Mock-up. Partes de Capitulo IV Y V tambien realice el espliegue de la primera versión del Landing Page.| | 
-|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | | |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Jose Manuel Pariona Lucas**<br>- TB1<br>- Capítulo IV: Product Design<br>   - 4.1. Style Guidelines <br>   - 4.1.1. General Style Guidelines<br>   - 4.1.2. Web Style Guidelines<br>   - 4.2. Information Architecture<br>       - Organization Systems<br>       - Labeling Systems<br>       - SEO Tags and Meta Tags<br>       - Searching Systems<br>       - Navigation Systems<br>   - 4.3. Landing Page UI Design<br>       - Wireframe<br>       - Mock-up<br>- Partes de Capítulo IV y V<br>- Despliegue de la primera versión del Landing Page | |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | | |
+
 
 
 
