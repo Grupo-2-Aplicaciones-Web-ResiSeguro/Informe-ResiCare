@@ -815,11 +815,11 @@ Opiniones de estudiantes y padres.
 
 Contacto, redes sociales, políticas de privacidad.
 
-**A la estructura inicial se suman tres secciones nuevas**:
 
-Benefits Section: lista de beneficios con íconos.
 
-Videos Section: testimonios y explicaciones en video (YouTube embebido).
+7) Benefits Section: lista de beneficios con íconos.
+
+8) Videos Section: testimonios y explicaciones en video (YouTube embebido).
 
 Meet the Team: presentación del equipo, ubicada en una página adicional ACERCA.
 
