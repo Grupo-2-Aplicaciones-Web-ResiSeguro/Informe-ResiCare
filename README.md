@@ -619,6 +619,8 @@ Este será el lenguaje común utilizado en la aplicación ResiCare, asegurando q
 
 En esta sección, el equipo de ResiSeguro define un sistema visual unificado que agrupa los elementos centrales de identidad: paleta de colores, tipografías, íconos, espaciados y componentes reutilizables. El objetivo es garantizar una experiencia visual coherente, accesible y funcional, que respalde la misión de proteger y dar tranquilidad a estudiantes universitarios y a sus familias mediante un producto digital confiable y fácil de usar.
 
+Todos los elementos textuales, menús, botones y etiquetas se presentan en idioma inglés, garantizando consistencia internacional y mayor accesibilidad.
+
 #### 4.1.1. General Style Guidelines
 
 **Branding**: La identidad visual comunica confianza, seguridad y cercanía. Se busca proyectar un servicio moderno pero humano.
@@ -678,6 +680,8 @@ En esta sección se definen las decisiones que organizan, nombran y estructuran 
 
 **Visual hierarchy**: Se priorizan los “call-to-action” (Contratar, Simular Reclamo, Contacto) con botones destacados en color primario.
 
+Se incluyen nuevas secciones en la arquitectura: Benefits, Videos y Meet the Team (en página ACERCA). También se añade la página separada Terms & Recommendations (TERMINOS Y RECOMENDACIONES) accesible desde el footer.
+
 #### 4.2.2. Labeling Systems
 
 Uso de etiquetas claras, breves y consistentes.
@@ -697,6 +701,8 @@ Uso de etiquetas claras, breves y consistentes.
 - Soporte (FAQ, Contacto en vivo)
 
 Todas las etiquetas serán de máximo 2–3 palabras, evitando tecnicismos.
+
+Todas las etiquetas de navegación y botones se estandarizan en inglés: Home, Plans, Simulator, Benefits, Testimonials, Videos, Meet the Team, Support, Contact, Terms & Recommendations.
 
 #### 4.2.3. SEO Tags and Meta Tags
 
@@ -752,6 +758,8 @@ FAQ con búsqueda rápida en el Landing Page para resolver dudas comunes (ej. �
 
 - Navegación consistente entre Landing Page y Web App (mismos colores, tipografía y estilo de botones).
 
+El sistema de navegación ahora incluye enlaces a páginas externas (ACERCA y TERMINOS Y RECOMENDACIONES). En el footer, los accesos a Support y Contact abren modales centrados en pantalla, mientras que los íconos de WhatsApp y correo permiten comunicación directa mediante enlaces reales a chat y correo electrónico.
+
 ### 4.3. Landing Page UI Design
 
 La Landing Page de ResiCare será el punto de entrada principal al ecosistema de microseguros digitales. Su diseño busca transmitir confianza, simplicidad y accesibilidad, destacando los beneficios de los planes, un acceso rápido al simulador y botones claros de contratación. La experiencia debe ser responsiva, coherente con la Web App y con un estilo visual basado en las Style Guidelines (colores, tipografías, iconografía).
@@ -800,6 +808,14 @@ Opiniones de estudiantes y padres.
 
 Contacto, redes sociales, políticas de privacidad.
 
+**A la estructura inicial se suman tres secciones nuevas**:
+
+Benefits Section: lista de beneficios con íconos.
+
+Videos Section: testimonios y explicaciones en video (YouTube embebido).
+
+Meet the Team: presentación del equipo, ubicada en una página adicional ACERCA.
+
 #### 4.3.2. Landing Page Mock-up
 
 El mock-up representa la versión visual final de la Landing Page, aplicando la paleta de colores y las tipografías ya definidas:
@@ -831,6 +847,16 @@ Cards de planes con sombras suaves y contraste claro.
 En desktop → menú superior completo, secciones distribuidas en dos columnas.
 
 En mobile → menú hamburguesa, secciones en columna única con botones grandes.
+
+**En el mock-up final, todos los botones cuentan con funcionalidad**:
+
+Support y Contact → modales emergentes en el centro de pantalla.
+
+WhatsApp → abre un chat directo con mensaje precargado.
+
+Correo → activa Gmail Compose o mailto.
+
+Terms & Recommendations → redirige a la página terminos y recomendaciones.
 
 ### 4.4. Web Applications UX/UI Design
 
