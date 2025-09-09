@@ -823,6 +823,19 @@ Contacto, redes sociales, políticas de privacidad.
 
 Meet the Team: presentación del equipo, ubicada en una página adicional ACERCA.
 
+Link del Figma: 
+https://www.figma.com/design/VCu7S5YU3cEZWzjfzbN5NI/Untitled?node-id=0-1&t=DsJ3wSqvnXJIUlAA-1
+Esta seccion presenta los wireframes del Landing Page de ResiCare para Desktop Web Browser
+
+Wireframe - Header Section 
+Wireframe - Benefits Section 
+Wireframe - Videos Section 
+Wireframe - Testimonials Section 
+Wireframe -  Claims Section 
+Wireframe - Plans Section 
+Wireframe - Footer Section 
+
+
 #### 4.3.2. Landing Page Mock-up
 
 El mock-up representa la versión visual final de la Landing Page, aplicando la paleta de colores y las tipografías ya definidas:
@@ -864,6 +877,15 @@ WhatsApp → abre un chat directo con mensaje precargado.
 Correo → activa Gmail Compose o mailto.
 
 Terms & Recommendations → redirige a la página terminos y recomendaciones.
+
+Esta seccion presenta los Mock-up del  Landing Page de ResiCare para Desktop Web Browser
+Mockup - Header Section 
+Mockup - Benefits Section 
+Mockup - Videos Section 
+Mockup - Testimonials Section 
+Mockup -  Claims Section 
+Mockup - Plans Section 
+Mockup - Footer Section 
 
 ### 4.4. Web Applications UX/UI Design
 
