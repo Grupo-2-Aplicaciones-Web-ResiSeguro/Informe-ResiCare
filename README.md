@@ -617,27 +617,220 @@ Este será el lenguaje común utilizado en la aplicación ResiCare, asegurando q
 
 ### 4.1. Style Guidelines
 
+En esta sección, el equipo de ResiSeguro define un sistema visual unificado que agrupa los elementos centrales de identidad: paleta de colores, tipografías, íconos, espaciados y componentes reutilizables. El objetivo es garantizar una experiencia visual coherente, accesible y funcional, que respalde la misión de proteger y dar tranquilidad a estudiantes universitarios y a sus familias mediante un producto digital confiable y fácil de usar.
+
 #### 4.1.1. General Style Guidelines
+
+**Branding**: La identidad visual comunica confianza, seguridad y cercanía. Se busca proyectar un servicio moderno pero humano.
+
+**Paleta de colores**:
+
+**Primarios**: Azul oscuro (seguridad, confianza), Verde (tranquilidad, bienestar).
+
+**Secundarios**: Gris claro (neutralidad), Blanco (claridad y limpieza).
+
+**Tipografía**:
+
+**Titulares**: Sans-serif moderna (ej. Poppins o Montserrat), clara y de fácil lectura en web.
+
+**Cuerpo de texto**: Sans-serif ligera (ej. Roboto), priorizando legibilidad.
+
+**Espaciados**: Uso consistente de márgenes y paddings (8px, 16px, 24px) para mantener orden visual.
+
+**Tono de comunicación**: Formal pero cercano; confiable, claro y empático. Dirigido tanto a jóvenes estudiantes como a padres de familia.
+
+<p align="center">
+  <img src="./assets/colores.png" alt="colores" width="850">
+</p>
+
 
 #### 4.1.2. Web Style Guidelines
 
+**Diseño responsivo**: Adaptación fluida a desktop, tablet y mobile.
+
+**Componentes clave**:
+
+Botones principales con esquinas redondeadas y colores contrastantes (ej. azul con texto blanco).
+
+Formularios simples, con validación clara y mensajes de error amigables.
+
+Iconografía minimalista y consistente (ej. íconos lineales para secciones clave: seguros, reclamos, historial).
+
+**Accesibilidad**: Contraste de color AA/AAA, textos alternativos en imágenes, navegación por teclado.
+
+**Consistencia**: El Landing Page y la Web App deben compartir la misma identidad visual (colores, tipografía, estilo de botones e íconos).
+
 ### 4.2. Information Architecture
+
+En esta sección se definen las decisiones que organizan, nombran y estructuran la información dentro de la experiencia digital de ResiCare, tanto en el Landing Page como en la Web Application. El objetivo es que los usuarios encuentren fácilmente la información sobre seguros, realicen contrataciones y gestionen reclamos de forma intuitiva, accesible y sin fricciones.
 
 #### 4.2.1. Organization Systems
 
+**Jerárquico**: La información se organiza en niveles claros (Inicio → Producto → Planes → Reclamos → Contacto).
+
+**Secuencial**: Se usa en el flujo de contratación del seguro, donde el usuario avanza paso a paso: elegir plan → ingresar datos → confirmar → recibir póliza digital.
+
+**Categorización por audiencia**:
+
+**Estudiantes**: Planes básicos y simulador de reclamos.
+
+**Padres**: Planes premium, beneficios adicionales y seguridad reforzada.
+
+**Visual hierarchy**: Se priorizan los “call-to-action” (Contratar, Simular Reclamo, Contacto) con botones destacados en color primario.
+
 #### 4.2.2. Labeling Systems
+
+Uso de etiquetas claras, breves y consistentes.
+
+**Ejemplos principales**:
+
+- Inicio (Landing Page)
+
+- Planes (Planes Básico / Premium)
+
+- Simulador (Calcula tu devolución)
+
+- Reclamos (Gestiona un siniestro)
+
+- Mi cuenta (Historial, Coberturas, Perfil)
+
+- Soporte (FAQ, Contacto en vivo)
+
+Todas las etiquetas serán de máximo 2–3 palabras, evitando tecnicismos.
 
 #### 4.2.3. SEO Tags and Meta Tags
 
+Se definen los metadatos básicos para mejorar el posicionamiento en buscadores:
+
+**Landing Page**
+
+Title: ResiCare | Microseguros para estudiantes y padres
+
+Meta Description: Protege tus pertenencias y tu tranquilidad con microseguros digitales diseñados para estudiantes y padres. Contratación rápida, reclamos simples y seguros confiables.
+
+Keywords: microseguro, seguro estudiantes, seguro digital, ResiCare, ResiSeguro, protección universitaria
+
+Author: ResiSeguro Startup
+
+**Web Application**
+
+Title: ResiCare App | Gestiona tus seguros y reclamos en línea
+
+Meta Description: Accede a tu cuenta ResiCare, revisa tus planes, presenta reclamos y recibe soporte digital en cualquier momento.
+
+Keywords: seguros online, reclamos seguros, ResiCare app, protección digital
+
+Author: ResiSeguro Startup
+
 #### 4.2.4. Searching Systems
+
+**Buscador interno simple en la Web App**:
+
+Palabras clave: “Planes”, “Reclamos”, “Simulador”, “Soporte”.
+
+Autocompletado con sugerencias.
+
+**Filtros en reclamos**: por estado (Pendiente, En proceso, Resuelto) y por fecha.
+
+FAQ con búsqueda rápida en el Landing Page para resolver dudas comunes (ej. “¿Cómo presentar un reclamo?”).
 
 #### 4.2.5. Navigation Systems
 
+**Landing Page**:
+
+- Menú superior fijo con secciones principales (Inicio, Planes, Simulador, Soporte).
+
+- Footer con enlaces a contacto, políticas de privacidad y redes sociales.
+
+**Web Application**:
+
+- Menú lateral en desktop con íconos + texto.
+
+- Menú hamburguesa en mobile para optimizar espacio.
+
+- Botones de acción rápida en dashboard (Presentar Reclamo, Ver Plan, Contacto).
+
+- Navegación consistente entre Landing Page y Web App (mismos colores, tipografía y estilo de botones).
+
 ### 4.3. Landing Page UI Design
+
+La Landing Page de ResiCare será el punto de entrada principal al ecosistema de microseguros digitales. Su diseño busca transmitir confianza, simplicidad y accesibilidad, destacando los beneficios de los planes, un acceso rápido al simulador y botones claros de contratación. La experiencia debe ser responsiva, coherente con la Web App y con un estilo visual basado en las Style Guidelines (colores, tipografías, iconografía).
+
+El objetivo es que tanto estudiantes como padres entiendan de inmediato el valor del producto y tengan un camino claro para afiliarse o probar el simulador.
 
 #### 4.3.1. Landing Page Wireframe
 
+El wireframe define la estructura básica de la Landing Page, sin enfocarse aún en colores ni estilos finales.
+
+**Secciones principales**:
+
+1) Header (fijo en navegación):
+
+Logo ResiSeguro / ResiCare (esquina izquierda).
+
+Menú superior: Inicio | Planes | Simulador | Soporte.
+
+Botón destacado: “Contrata tu seguro”.
+
+2) Hero Section (sección inicial):
+
+Imagen ilustrativa de estudiantes con seguridad.
+
+Título: “Protege lo que más valoras durante tu vida universitaria”.
+
+Subtítulo corto: Microseguros rápidos y accesibles para estudiantes y padres.
+
+Botones: “Ver Planes” y “Simular Reclamo”.
+
+3) Planes Resumidos:
+
+Cards con resumen de Plan Básico y Plan Premium (cobertura, precio, beneficios).
+
+Botón “Ver más” → detalle en la Web App.
+
+4) Simulador de Reclamos (call-to-action):
+
+Mini demo o enlace directo al simulador.
+
+5) Testimonios:
+
+Opiniones de estudiantes y padres.
+
+6) Footer:
+
+Contacto, redes sociales, políticas de privacidad.
+
 #### 4.3.2. Landing Page Mock-up
+
+El mock-up representa la versión visual final de la Landing Page, aplicando la paleta de colores y las tipografías ya definidas:
+
+1) Colores aplicados:
+
+Azul oscuro en header y botones principales.
+
+Verde como color de acento en llamadas a la acción.
+
+Fondo blanco para mantener limpieza y claridad.
+
+2) Tipografía aplicada:
+
+Titulares en Poppins Bold.
+
+Cuerpo en Roboto Regular.
+
+3) Estilo visual:
+
+Botones redondeados con efecto hover.
+
+Íconos lineales minimalistas para reforzar secciones.
+
+Cards de planes con sombras suaves y contraste claro.
+
+4) Responsive design:
+
+En desktop → menú superior completo, secciones distribuidas en dos columnas.
+
+En mobile → menú hamburguesa, secciones en columna única con botones grandes.
 
 ### 4.4. Web Applications UX/UI Design
 
