@@ -828,13 +828,53 @@ https://www.figma.com/design/VCu7S5YU3cEZWzjfzbN5NI/Untitled?node-id=0-1&t=DsJ3w
 Esta seccion presenta los wireframes del Landing Page de ResiCare para Desktop Web Browser
 
 Wireframe - Header Section 
+
+<p align="center">
+  <img src="./assets/wireframe1.png" alt="colores" width="850">
+</p>
+
+
+Wireframe - Hero Section 
+
+<p align="center">
+  <img src="./assets/wireframe2.png" alt="colores" width="850">
+</p>
+
 Wireframe - Benefits Section 
+
+<p align="center">
+  <img src="./assets/wireframe3.png" alt="colores" width="850">
+</p>
+
 Wireframe - Videos Section 
+
+<p align="center">
+  <img src="./assets/wireframe4.png" alt="colores" width="850">
+</p>
+
 Wireframe - Testimonials Section 
+
+<p align="center">
+  <img src="./assets/wireframe5.png" alt="colores" width="850">
+</p>
+
 Wireframe -  Claims Section 
+
+<p align="center">
+  <img src="./assets/wireframe6.png" alt="colores" width="850">
+</p>
+
 Wireframe - Plans Section 
+
+<p align="center">
+  <img src="./assets/wireframe7.png" alt="colores" width="850">
+</p>
+
 Wireframe - Footer Section 
 
+<p align="center">
+  <img src="./assets/wireframe8.png" alt="colores" width="850">
+</p>
 
 #### 4.3.2. Landing Page Mock-up
 
@@ -880,12 +920,48 @@ Terms & Recommendations → redirige a la página terminos y recomendaciones.
 
 Esta seccion presenta los Mock-up del  Landing Page de ResiCare para Desktop Web Browser
 Mockup - Header Section 
+
+<p align="center">
+  <img src="./assets/mockup1.png" alt="colores" width="850">
+</p>
+
+Mockup - Hero Section 
+
+<p align="center">
+  <img src="./assets/mockup2.png" alt="colores" width="850">
+</p>
+
 Mockup - Benefits Section 
+
+<p align="center">
+  <img src="./assets/mockup3.png" alt="colores" width="850">
+</p>
+
 Mockup - Videos Section 
+
+<p align="center">
+  <img src="./assets/mockup5.png" alt="colores" width="850">
+</p>
+
 Mockup - Testimonials Section 
 Mockup -  Claims Section 
+
+<p align="center">
+  <img src="./assets/mockup6.png" alt="colores" width="850">
+</p>
+
 Mockup - Plans Section 
+
+<p align="center">
+  <img src="./assets/mockup4.png" alt="colores" width="850">
+</p>
+
 Mockup - Footer Section 
+
+<p align="center">
+  <img src="./assets/mockup7.png" alt="colores" width="850">
+</p>
+
 
 ### 4.4. Web Applications UX/UI Design
 
