@@ -167,8 +167,21 @@ que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Ou
 |---------------------|---------------------|--------------|
 | Trabaja en equipo para proporcionar liderazgo en forma conjunta | Jose Manuel Pariona Lucas: 
 TB1: 
-Lo que realice fue 2.4. Ubiquitous Language. Capítulo III: Requirements Specification 3.1. To-Be Scenario Mapping. 3.2. User Stories. 3.3. Impact Mapping. Product Backlog. Despliegue de la primera versión del Landing Page. Capítulo IV Y  V.
- | | |
+Lo que realice fue Capítulo IV: Product Design
+4.1. Style Guidelines.
+6/36 V1.0
+4.1.1. General Style Guidelines.
+4.1.2. Web Style Guidelines.
+4.2. Information Architecture.
+4.2.1. Organization Systems.
+4.2.2. Labeling Systems.
+4.2.3. SEO Tags and Meta Tags
+4.2.4. Searching Systems.
+4.2.5. Navigation Systems.
+4.3. Landing Page UI Design.
+4.3.1. Landing Page Wireframe.
+4.3.2. Landing Page Mock-up. Partes de Capitulo IV Y V tambien realice el espliegue de la primera versión del Landing Page.
+  | | 
 |Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | | |
 
 
