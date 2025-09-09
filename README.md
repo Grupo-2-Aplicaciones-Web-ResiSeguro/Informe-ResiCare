@@ -1032,14 +1032,194 @@ Mockup - Footer Section
 
 ### 5.1. Software Configuration Management
 
+La gestión de configuración de software asegura que todos los componentes del proyecto ResiCare (Landing Page, Aplicación Web y Servicios Web) se mantengan organizados, controlados y consistentes en todo su ciclo de vida. Permite a los miembros del equipo trabajar de manera distribuida con trazabilidad en cada cambio, garantizando calidad, escalabilidad y facilidad de despliegue.
+
+En este proyecto se desarrollan tres artefactos principales:
+
+Landing Page: sitio promocional e informativo.
+
+Frontend Web Application: aplicación web interactiva para los usuarios.
+
+Web Services: servicios backend con lógica de negocio y base de datos.
+
+La gestión de configuración abarca la definición del entorno de desarrollo, la administración del código fuente, la adopción de convenciones de estilo y la configuración de despliegue en Render.
 #### 5.1.1. Software Development Environment Configuration
+
+**Gestión del Proyecto**
+
+GitHub (https://github.com/Grupo-2-Aplicaciones-Web-ResiSeguro
+)
+Organización con repositorios para: Informe, Landing Page, Frontend y Backend. Centraliza código, issues y colaboración.
+
+**Gestión de Requisitos**
+
+Trello / Pivotal Tracker
+Gestión del product backlog, historias de usuario y tareas.
+
+**Diseño UX/UI del Producto**
+
+UXPressia: elaboración de User Personas, Empathy Maps, Journey Maps e Impact Maps.
+
+LucidChart / Miro: diagramas As-Is y To-Be Scenario Maps.
+
+Figma / Adobe XD: wireframes, mockups y prototipos.
+
+LucidChart / Overflow: wireflows y user flows.
+
+Structurizr, LucidChart, Vertabelo: diagramas de arquitectura (C4 Model, UML, diseño de base de datos).
+
+PlantUML / Structurizr DSL: Diagram-as-Code para UML o C4 Model.
+
+**Desarrollo de Software**
+
+Landing Page: HTML5, CSS3 y JavaScript.
+
+Frontend Web Application: Vue Framework, con HTML5, CSS3 y JavaScript para los templates, siguiendo Material Design y utilizando PrimeVue como librería de componentes UI.
+
+Backend / Web Services: ASP.NET Core Framework, bajo estilo arquitectónico RESTful API, usando C# como lenguaje de programación.
+
+Documentación de Web Services: OpenAPI Specification mediante Swagger.
+
+Base de datos: MySQL para gestión de usuarios, pólizas y reclamos.
+
+**Control de proyectos y colaboración**
+
+Trello / Pivotal Tracker / YouTrack / Jira: planificación y seguimiento.
+
+VS Code: editor de código fuente.
+
+Postman: pruebas de endpoints.
+
+Git: control de versiones distribuido.
+
+**Despliegue de Software**
+
+Render: plataforma de despliegue para Landing Page, Frontend y Backend.
+
+Ngrok: túneles seguros para pruebas locales de frontend y backend.
 
 #### 5.1.2. Source Code Management
 
+El código fuente es gestionado con Git y hospedado en GitHub, con repositorios separados para: Informe, Landing Page, Frontend y Backend.
+
+Se aplica el flujo de trabajo GitFlow Workflow:
+
+main: versiones estables.
+
+develop: rama de integración de nuevas funcionalidades.
+
+feature/*: ramas temporales para funcionalidades específicas.
+
+hotfix: correcciones urgentes en producción.
+
+Convenciones de versionado y commits
+
+Versionado Semántico (SemVer 2.0.0):
+
+MAJOR → cambios incompatibles.
+
+MINOR → nuevas funcionalidades compatibles.
+
+PATCH → correcciones menores.
+
+Commits Convencionales:
+
+Formato: <type>[scope]: <description>
+
+Ejemplo: feat(simulator): add premium calculation module.
+
 #### 5.1.3. Source Code Style Guide & Conventions
 
+HTML5
+
+Sintaxis estricta de HTML5.
+
+Etiquetas semánticas.
+
+Comillas obligatorias en atributos.
+
+Atributos alt en imágenes.
+
+Indentación de 2 espacios.
+
+CSS3
+
+Variables globales en :root.
+
+Clases en kebab-case.
+
+Notación hexadecimal para colores.
+
+Comentarios por sección (/* Hero Section */).
+
+Evitar !important, usar especificidad.
+
+JavaScript (Landing Page y Vue)
+
+camelCase para variables y funciones.
+
+PascalCase para clases y componentes Vue.
+
+Constantes en UPPERCASE.
+
+Uso de === y !==.
+
+Documentación JSDoc.
+
+Punto y coma obligatorio.
+
+C# (ASP.NET Core)
+
+PascalCase para clases y métodos.
+
+camelCase para variables y parámetros.
+
+Uso de anotaciones como [HttpGet], [HttpPost], [ApiController].
+
+Buenas prácticas con inyección de dependencias.
+
+Documentación XML para métodos públicos.
 #### 5.1.4. Software Deployment Configuration
 
+Landing Page
+
+Repositorio: landing-page.
+
+Despliegue como servicio estático en Render.
+
+URL pública generada automáticamente.
+
+Frontend (Vue Application)
+
+Repositorio: frontend.
+
+Despliegue como aplicación web en Render.
+
+Build con npm run build.
+
+URL pública: https://resicare-frontend.onrender.com.
+
+Backend (ASP.NET Core Web Services)
+
+Repositorio: backend.
+
+Despliegue como servicio web en Render.
+
+Integración con base de datos MySQL.
+
+Documentación accesible vía Swagger UI.
+
+URL pública: https://resicare-backend.onrender.com/api.
+
+Pipeline CI/CD
+
+Integración con GitHub.
+
+Cada push a develop: despliegue en entorno de staging.
+
+Cada push a main: despliegue automático en producción.
+
+Validación de código, pruebas unitarias y revisión de dependencias antes de despliegue.
 ### 5.2. Landing Page, Services & Applications Implementation
 
 #### 5.2.1. Sprint 1
