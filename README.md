@@ -554,6 +554,17 @@ El siguiente User Task Matrix presenta las principales tareas que realizan los d
 
 #### 2.3.3. User Journey Mapping
 
+*Segmento 1: Estudiantes universitarios*
+
+<p align="center">
+  <img src="./assets/journeyMapping1.png" alt="Journey Mapping 1" width="550">
+</p>
+
+*Segmento 2: Padres de estudiantes universitarios*
+
+<p align="center">
+  <img src="./assets/journeyMapping2.png" alt="Journey Mapping 2" width="550">
+</p>
 
 #### 2.3.4. Empathy Mapping
 
