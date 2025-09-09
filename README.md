@@ -165,10 +165,10 @@ que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Ou
 
 | Criterio específico | Acciones Realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | | Jose Manuel Pariona Lucas: 
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | Jose Manuel Pariona Lucas: 
 TB1: 
 Lo que realice fue 2.4. Ubiquitous Language. Capítulo III: Requirements Specification 3.1. To-Be Scenario Mapping. 3.2. User Stories. 3.3. Impact Mapping. Product Backlog. Despliegue de la primera versión del Landing Page. Capítulo IV Y  V.
-| |
+ | | |
 |Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | | |
 
 
