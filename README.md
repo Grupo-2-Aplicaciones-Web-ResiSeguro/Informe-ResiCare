@@ -446,7 +446,7 @@ Visualizar diseño en Canva: https://www.canva.com/design/DAGlJa5hM50/r6zjjmIBlY
 | **Perfil de Producto** |  |  |  |  |
 |------------------------|--|--|--|--|
 | **Productos & Servicios** | Plan básico (gadgets + teleconsulta básica) con reposición por daños por montos menores; planes premium con mayor cobertura, historial de reclamos, viajes cortos. | Seguros de celulares, laptops y multidispositivo (rotura, robo, daño líquido, avería). | Seguros de salud, vida, accidentes y universitario; asistencia médica 24/7. | Seguro de accidentes estudiantiles con cobertura 24/7 y asistencia en emergencias. |
-| **Precios & Costos** | Básico s/. /mesA ; premium S/ B mes.  | Prima mensual según valor del equipo; sin deducible en algunos planes. Aprox s/ 17/mes| Precio alto (cobertura integral y red médica amplia); costos operativos elevados. Aprox s/ 18.5/mes | Tarifas colectivas según institución; costos asociados a red médica y gestión. Aprox s/ 37.87/mes |
+| **Precios & Costos** | Básico s/. 9.90/mes ; premium S/ 24.90 mes.  | Prima mensual según valor del equipo; sin deducible en algunos planes. Aprox s/ 17/mes| Precio alto (cobertura integral y red médica amplia); costos operativos elevados. Aprox s/ 18.5/mes | Tarifas colectivas según institución; costos asociados a red médica y gestión. Aprox s/ 37.87/mes |
 | **Canales de distribución** | Web y móvil responsive, integración con apps universitarias, WhatsApp, alianzas retail. | Web, móvil, WhatsApp, retailers y telecom partners. | Web, app móvil, agentes y acuerdos institucionales. | B2B con instituciones educativas; web y agentes institucionales. |
 
 | **FODA** |  |  |  |  |
@@ -475,7 +475,7 @@ ResiCare aplicará una estrategia de diferenciación enfocada en estudiantes, of
 1. ¿Cómo es tu rutina diaria entre residencia y campus y con qué frecuencia te trasladas?  
 2. ¿Quién paga principalmente tus gastos y cuánto aportas tú (si aplica)?  
 3. De estas coberturas, protección de gadgets, teleconsulta médica, pérdida en traslados cortos, ¿cuál priorizas y por qué?  
-4. ¿Preferirías un plan gratuito con cobertura mínima o pagar una suscripción mensual por más beneficios; por qué?  
+4. ¿Preferirías un plan básico con cobertura mínima o pagar una suscripción mensual por más beneficios; por qué?  
 5. ¿Qué tan cómodo te sentirías reclamando por foto/chat y recibiendo una decisión automática; qué condiciones necesitarías para confiar en ese proceso?  
 6. ¿Qué evidencia estarías dispuesto a subir en un reclamo (foto, factura, testigo) y cuánto tiempo esperarías para una resolución?  
 7. ¿Qué incentivo te motivaría más a recomendar el seguro a un amigo (descuento, mes gratis, prioridad en reclamos, otro)?
@@ -495,6 +495,31 @@ ResiCare aplicará una estrategia de diferenciación enfocada en estudiantes, of
 ---
 
 #### 2.2.2. Registro de entrevistas
+
+### Estudiantes Universitarios:
+#### Entrevista 1
+
+<p align="center">
+  <img src="./assets/entrevistas/entrevista1.jpg" alt="entrevista1" width="400">
+</p>
+
+Gabriel Fernando Gordon, 21 años, vive en Lima y considera esenciales su laptop, celular y tablet (2000–4000 soles). Ha sufrido daños previos (reemplazo de laptop por 2500 soles), lo que refuerza la necesidad de protección.  
+
+Se traslada casi a diario a la universidad, usando constantemente sus dispositivos, por lo que prioriza su aseguramiento, sobre todo los más costosos. Prefiere planes con cobertura completa y procesos de reclamo simples y automatizados.  
+
+Los principales incentivos para recomendar un seguro serían descuentos y prioridad en la atención de reclamos.  
+
+---
+
+| **Detalle**          | **Información**                                                                 |
+|----------------------|---------------------------------------------------------------------------------|
+| **Entrevistador**    | Héctor Javier Ríos Pacheco                                                      |
+| **Entrevistado**     | Gabriel Fernando Gordon                                                          |
+| **Edad**             | 21 años                                                                         |
+| **Inicio entrevista**| 0:02                                                                            |
+| **Duración**         | 4:04 minutos                                                                    |
+| **Enlace**           | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c540_upc_edu_pe/EabXTgyOWTlDmy4fY5ZfLa8BjY3ckS8IgVy4XNyy6etPqw?e=hb6nmA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |  
+
 
 #### 2.2.3. Análisis de entrevistas
 
