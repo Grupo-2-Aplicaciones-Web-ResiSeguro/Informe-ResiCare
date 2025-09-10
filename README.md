@@ -165,8 +165,9 @@ que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Ou
 
 | Criterio específico | Acciones Realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | | | |
-|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | | |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Jose Manuel Pariona Lucas**<br> **TB1**<br>- Capítulo IV: Product Design<br>   - 4.1. Style Guidelines <br>   - 4.1.1. General Style Guidelines<br>   - 4.1.2. Web Style Guidelines<br>   - 4.2. Information Architecture<br>       - Organization Systems<br>       - Labeling Systems<br>       - SEO Tags and Meta Tags<br>       - Searching Systems<br>       - Navigation Systems<br>   - 4.3. Landing Page UI Design<br>       - Wireframe<br>       - Mock-up<br>- Partes de Capítulo IV y V<br>- Despliegue de la primera versión del Landing Page | TB1: En esta etapa, los integrantes asumieron roles de liderazgo compartidos, lo que permitió coordinar las tareas de manera equitativa. La toma de decisiones se realizó de forma colectiva, logrando un equilibrio en las responsabilidades y garantizando que todos los aportes fueran considerados.|
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Jose Manuel Pariona Lucas**<br> **TB1**<br>- Capítulo IV: Product Design<br>   - 4.1. Style Guidelines <br>   - 4.1.1. General Style Guidelines<br>   - 4.1.2. Web Style Guidelines<br>   - 4.2. Information Architecture<br>       - Organization Systems<br>       - Labeling Systems<br>       - SEO Tags and Meta Tags<br>       - Searching Systems<br>       - Navigation Systems<br>   - 4.3. Landing Page UI Design<br>       - Wireframe<br>       - Mock-up<br>- Partes de Capítulo IV y V<br>- Despliegue de la primera versión del Landing Page | TB1: Durante el desarrollo, se fomentó un ambiente participativo en el que cada miembro pudo aportar libremente sus ideas. Se definieron metas claras y se distribuyeron las actividades de forma organizada, lo que facilitó la planificación y el cumplimiento de los objetivos establecidos en el plazo acordado. |
+
 
 
 
@@ -200,6 +201,14 @@ Soy responsable, me gusta involucrarme activamente en los proyectos, aportar ide
 
 Soy una persona proactiva y comprometida con el trabajo en equipo. Me gusta aportar soluciones creativas, asumir retos y aprender constantemente. Valoro la comunicación clara y la organización para lograr los objetivos del proyecto de manera eficiente y colaborativa.
 
+
+- Pariona Lucas Jose Manuel - u202119257 (Ingenieria de Software)
+
+  <p align="center">
+    <img src="assets/integrantes/josepariona.png" alt="foto-jude" width="170px"/>
+</p>
+Tengo 20 años. En la actualidad estoy estudiando la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Cuento con conocimientos intermedios y avanzados en algunos lenguajes de programación. HTML, CSS, JAVASCRIPT (Avanzado) C++, JAVA, PYTHON (Intermedio) Esto con respecto a la programación, además también de conocimientos con desarrollo web y desarrollo de apps. Me considero una persona responsable, que inspira confianza en el trabajo en grupo. Además, soy bastante adaptativo a la presión y los problemas que pueden llegar a pasar.
+
 - Vanessa May Lang Choy Robles - u202317450 (Ingeniería de Software)
 
 <p align="center">
@@ -207,6 +216,7 @@ Soy una persona proactiva y comprometida con el trabajo en equipo. Me gusta apor
 </p>
 
 Soy una estudiante responsable con el trabajo. Respeto y escucho la opinión de los demás ayudando al trabajo en equipo. Me comprometo a contribuir al equipo siendo puntual en las reuniones y responsable en las entregas. 
+
 
 ### 1.2. Solution Profile
 ResiCare es un microseguro digital diseñado para estudiantes preuniversitarios y universitarios que viven en residencias estudiantiles, departamentos compartidos o en el campus. Permite contratar coberturas económicas y simples vía web orientadas a proteger pertenencias personales (gadgets, laptop, mochila), ofrecer asistencia médica básica (teleconsulta) y cubrir imprevistos en viajes cortos entre residencia y campus (cancelaciones menores, pérdida de equipaje en traslados interurbanos). La propuesta se centra en una afiliación rápida, reclamos sencillos por foto/chat y decisiones automáticas para siniestros menores, con una opción de escalamiento a revisión humana cuando corresponde. Modelo básico: Acceso a todas las caráticas menos el simulador y un monto menor de cobertura, (reportes, historial de reclamos prioritarios, mayor cobertura) en planes premium. Además cuenta con un simulador de devolución en caso de reclamar el seguro.
@@ -553,6 +563,17 @@ El siguiente User Task Matrix presenta las principales tareas que realizan los d
 - **Gestionar pagos:** Los estudiantes pueden pagar directamente o los padres gestionar la suscripción.
 
 #### 2.3.3. User Journey Mapping
+*Segmento 1: Estudiantes universitarios*
+
+<p align="center">
+  <img src="./assets/journeymapseg1.png" alt="User Persona 1" width="550">
+</p>
+
+*Segmento 2: Padres de estudiantes universitarios*
+
+<p align="center">
+  <img src="./assets/journeymapseg2.png" alt="User Persona 1" width="550">
+</p>
 
 *Segmento 1: Estudiantes universitarios*
 
@@ -571,13 +592,21 @@ El siguiente User Task Matrix presenta las principales tareas que realizan los d
 *Segmento 1: Estudiantes universitarios*
 
 <p align="center">
+
+  <img src="./assets/Empathy%20map-seg1.png" alt="User Persona 1" width="550">
+
   <img src="./assets/empathyMapping1.png" alt="Empathy Mapping 1" width="550">
+
 </p>
 
 *Segmento 2: Padres de estudiantes universitarios*
 
 <p align="center">
+
+  <img src="./assets/Empathy%20map-seg2.png" alt="User Persona 1" width="550">
+
   <img src="./assets/empathyMapping2.png" alt="Empathy Mapping 2" width="550">
+
 </p>
 
 #### 2.3.5. As-is Scenario Mapping
@@ -585,13 +614,21 @@ El siguiente User Task Matrix presenta las principales tareas que realizan los d
 *Segmento 1: Estudiantes universitarios*
 
 <p align="center">
+
+  <img src="./assets/Scenario%20Mapping%20-%20seg1.jpg" alt="User Persona 1" width="550">
+
   <img src="./assets/asIsScenarioMapping1.png" alt="As Is Scenario Mapping 1" width="550">
+
 </p>
 
 *Segmento 2: Padres de estudiantes universitarios*
 
 <p align="center">
+
+  <img src="./assets/Scenario%20Mapping%20-%20seg2.jpg" alt="User Persona 1" width="550">
+
   <img src="./assets/asIsScenarioMapping2.png" alt="As Is Scenario Mapping 2" width="550">
+
 </p>
 
 ### 2.4. Ubiquitous Language
@@ -660,27 +697,344 @@ Este será el lenguaje común utilizado en la aplicación ResiCare, asegurando q
 
 ### 4.1. Style Guidelines
 
+En esta sección, el equipo de ResiSeguro define un sistema visual unificado que agrupa los elementos centrales de identidad: paleta de colores, tipografías, íconos, espaciados y componentes reutilizables. El objetivo es garantizar una experiencia visual coherente, accesible y funcional, que respalde la misión de proteger y dar tranquilidad a estudiantes universitarios y a sus familias mediante un producto digital confiable y fácil de usar.
+
+Todos los elementos textuales, menús, botones y etiquetas se presentan en idioma inglés, garantizando consistencia internacional y mayor accesibilidad.
+
 #### 4.1.1. General Style Guidelines
+
+**Branding**: La identidad visual comunica confianza, seguridad y cercanía. Se busca proyectar un servicio moderno pero humano.
+
+**Paleta de colores**:
+
+**Primarios**: Azul oscuro (seguridad, confianza), Verde (tranquilidad, bienestar).
+
+**Secundarios**: Gris claro (neutralidad), Blanco (claridad y limpieza).
+
+**Tipografía**:
+
+**Titulares**: Sans-serif moderna (ej. Poppins o Montserrat), clara y de fácil lectura en web.
+
+**Cuerpo de texto**: Sans-serif ligera (ej. Roboto), priorizando legibilidad.
+
+**Espaciados**: Uso consistente de márgenes y paddings (8px, 16px, 24px) para mantener orden visual.
+
+**Tono de comunicación**: Formal pero cercano; confiable, claro y empático. Dirigido tanto a jóvenes estudiantes como a padres de familia.
+
+<p align="center">
+  <img src="./assets/colores.png" alt="colores" width="850">
+</p>
+
 
 #### 4.1.2. Web Style Guidelines
 
+**Diseño responsivo**: Adaptación fluida a desktop, tablet y mobile.
+
+**Componentes clave**:
+
+Botones principales con esquinas redondeadas y colores contrastantes (ej. azul con texto blanco).
+
+Formularios simples, con validación clara y mensajes de error amigables.
+
+Iconografía minimalista y consistente (ej. íconos lineales para secciones clave: seguros, reclamos, historial).
+
+**Accesibilidad**: Contraste de color AA/AAA, textos alternativos en imágenes, navegación por teclado.
+
+**Consistencia**: El Landing Page y la Web App deben compartir la misma identidad visual (colores, tipografía, estilo de botones e íconos).
+
 ### 4.2. Information Architecture
+
+En esta sección se definen las decisiones que organizan, nombran y estructuran la información dentro de la experiencia digital de ResiCare, tanto en el Landing Page como en la Web Application. El objetivo es que los usuarios encuentren fácilmente la información sobre seguros, realicen contrataciones y gestionen reclamos de forma intuitiva, accesible y sin fricciones.
 
 #### 4.2.1. Organization Systems
 
+**Jerárquico**: La información se organiza en niveles claros (Inicio → Producto → Planes → Reclamos → Contacto).
+
+**Secuencial**: Se usa en el flujo de contratación del seguro, donde el usuario avanza paso a paso: elegir plan → ingresar datos → confirmar → recibir póliza digital.
+
+**Categorización por audiencia**:
+
+**Estudiantes**: Planes básicos y simulador de reclamos.
+
+**Padres**: Planes premium, beneficios adicionales y seguridad reforzada.
+
+**Visual hierarchy**: Se priorizan los “call-to-action” (Contratar, Simular Reclamo, Contacto) con botones destacados en color primario.
+
+Se incluyen nuevas secciones en la arquitectura: Benefits, Videos y Meet the Team (en página ACERCA). También se añade la página separada Terms & Recommendations (TERMINOS Y RECOMENDACIONES) accesible desde el footer.
+
 #### 4.2.2. Labeling Systems
+
+Uso de etiquetas claras, breves y consistentes.
+
+**Ejemplos principales**:
+
+- Inicio (Landing Page)
+
+- Planes (Planes Básico / Premium)
+
+- Simulador (Calcula tu devolución)
+
+- Reclamos (Gestiona un siniestro)
+
+- Mi cuenta (Historial, Coberturas, Perfil)
+
+- Soporte (FAQ, Contacto en vivo)
+
+Todas las etiquetas serán de máximo 2–3 palabras, evitando tecnicismos.
+
+Todas las etiquetas de navegación y botones se estandarizan en inglés: Home, Plans, Simulator, Benefits, Testimonials, Videos, Meet the Team, Support, Contact, Terms & Recommendations.
 
 #### 4.2.3. SEO Tags and Meta Tags
 
+Se definen los metadatos básicos para mejorar el posicionamiento en buscadores:
+
+**Landing Page**
+
+Title: ResiCare | Microseguros para estudiantes y padres
+
+Meta Description: Protege tus pertenencias y tu tranquilidad con microseguros digitales diseñados para estudiantes y padres. Contratación rápida, reclamos simples y seguros confiables.
+
+Keywords: microseguro, seguro estudiantes, seguro digital, ResiCare, ResiSeguro, protección universitaria
+
+Author: ResiSeguro Startup
+
+**Web Application**
+
+Title: ResiCare App | Gestiona tus seguros y reclamos en línea
+
+Meta Description: Accede a tu cuenta ResiCare, revisa tus planes, presenta reclamos y recibe soporte digital en cualquier momento.
+
+Keywords: seguros online, reclamos seguros, ResiCare app, protección digital
+
+Author: ResiSeguro Startup
+
 #### 4.2.4. Searching Systems
+
+**Buscador interno simple en la Web App**:
+
+Palabras clave: “Planes”, “Reclamos”, “Simulador”, “Soporte”.
+
+Autocompletado con sugerencias.
+
+**Filtros en reclamos**: por estado (Pendiente, En proceso, Resuelto) y por fecha.
+
+FAQ con búsqueda rápida en el Landing Page para resolver dudas comunes (ej. “¿Cómo presentar un reclamo?”).
 
 #### 4.2.5. Navigation Systems
 
+**Landing Page**:
+
+- Menú superior fijo con secciones principales (Inicio, Planes, Simulador, Soporte).
+
+- Footer con enlaces a contacto, políticas de privacidad y redes sociales.
+
+**Web Application**:
+
+- Menú lateral en desktop con íconos + texto.
+
+- Menú hamburguesa en mobile para optimizar espacio.
+
+- Botones de acción rápida en dashboard (Presentar Reclamo, Ver Plan, Contacto).
+
+- Navegación consistente entre Landing Page y Web App (mismos colores, tipografía y estilo de botones).
+
+El sistema de navegación ahora incluye enlaces a páginas externas (ACERCA y TERMINOS Y RECOMENDACIONES). En el footer, los accesos a Support y Contact abren modales centrados en pantalla, mientras que los íconos de WhatsApp y correo permiten comunicación directa mediante enlaces reales a chat y correo electrónico.
+
 ### 4.3. Landing Page UI Design
+
+La Landing Page de ResiCare será el punto de entrada principal al ecosistema de microseguros digitales. Su diseño busca transmitir confianza, simplicidad y accesibilidad, destacando los beneficios de los planes, un acceso rápido al simulador y botones claros de contratación. La experiencia debe ser responsiva, coherente con la Web App y con un estilo visual basado en las Style Guidelines (colores, tipografías, iconografía).
+
+El objetivo es que tanto estudiantes como padres entiendan de inmediato el valor del producto y tengan un camino claro para afiliarse o probar el simulador.
 
 #### 4.3.1. Landing Page Wireframe
 
+El wireframe define la estructura básica de la Landing Page, sin enfocarse aún en colores ni estilos finales.
+
+**Secciones principales**:
+
+1) Header (fijo en navegación):
+
+Logo ResiSeguro / ResiCare (esquina izquierda).
+
+Menú superior: Inicio | Planes | Simulador | Soporte.
+
+Botón destacado: “Contrata tu seguro”.
+
+2) Hero Section (sección inicial):
+
+Imagen ilustrativa de estudiantes con seguridad.
+
+Título: “Protege lo que más valoras durante tu vida universitaria”.
+
+Subtítulo corto: Microseguros rápidos y accesibles para estudiantes y padres.
+
+Botones: “Ver Planes” y “Simular Reclamo”.
+
+3) Planes Resumidos:
+
+Cards con resumen de Plan Básico y Plan Premium (cobertura, precio, beneficios).
+
+Botón “Ver más” → detalle en la Web App.
+
+4) Simulador de Reclamos (call-to-action):
+
+Mini demo o enlace directo al simulador.
+
+5) Testimonios:
+
+Opiniones de estudiantes y padres.
+
+6) Footer:
+
+Contacto, redes sociales, políticas de privacidad.
+
+
+
+7) Benefits Section: lista de beneficios con íconos.
+
+8) Videos Section: testimonios y explicaciones en video (YouTube embebido).
+
+Meet the Team: presentación del equipo, ubicada en una página adicional ACERCA.
+
+Link del Figma: 
+https://www.figma.com/design/VCu7S5YU3cEZWzjfzbN5NI/Untitled?node-id=0-1&t=DsJ3wSqvnXJIUlAA-1
+Esta seccion presenta los wireframes del Landing Page de ResiCare para Desktop Web Browser
+
+Wireframe - Header Section 
+
+<p align="center">
+  <img src="./assets/wireframe1.png" alt="colores" width="850">
+</p>
+
+
+Wireframe - Hero Section 
+
+<p align="center">
+  <img src="./assets/wireframe2.png" alt="colores" width="850">
+</p>
+
+Wireframe - Benefits Section 
+
+<p align="center">
+  <img src="./assets/wireframe3.png" alt="colores" width="850">
+</p>
+
+Wireframe - Videos Section 
+
+<p align="center">
+  <img src="./assets/wireframe4.png" alt="colores" width="850">
+</p>
+
+Wireframe - Testimonials Section 
+
+<p align="center">
+  <img src="./assets/wireframe5.png" alt="colores" width="850">
+</p>
+
+Wireframe -  Claims Section 
+
+<p align="center">
+  <img src="./assets/wireframe6.png" alt="colores" width="850">
+</p>
+
+Wireframe - Plans Section 
+
+<p align="center">
+  <img src="./assets/wireframe7.png" alt="colores" width="850">
+</p>
+
+Wireframe - Footer Section 
+
+<p align="center">
+  <img src="./assets/wireframe8.png" alt="colores" width="850">
+</p>
+
 #### 4.3.2. Landing Page Mock-up
+
+El mock-up representa la versión visual final de la Landing Page, aplicando la paleta de colores y las tipografías ya definidas:
+
+1) Colores aplicados:
+
+Azul oscuro en header y botones principales.
+
+Verde como color de acento en llamadas a la acción.
+
+Fondo blanco para mantener limpieza y claridad.
+
+2) Tipografía aplicada:
+
+Titulares en Poppins Bold.
+
+Cuerpo en Roboto Regular.
+
+3) Estilo visual:
+
+Botones redondeados con efecto hover.
+
+Íconos lineales minimalistas para reforzar secciones.
+
+Cards de planes con sombras suaves y contraste claro.
+
+4) Responsive design:
+
+En desktop → menú superior completo, secciones distribuidas en dos columnas.
+
+En mobile → menú hamburguesa, secciones en columna única con botones grandes.
+
+**En el mock-up final, todos los botones cuentan con funcionalidad**:
+
+Support y Contact → modales emergentes en el centro de pantalla.
+
+WhatsApp → abre un chat directo con mensaje precargado.
+
+Correo → activa Gmail Compose o mailto.
+
+Terms & Recommendations → redirige a la página terminos y recomendaciones.
+
+Esta seccion presenta los Mock-up del  Landing Page de ResiCare para Desktop Web Browser
+Mockup - Header Section 
+
+<p align="center">
+  <img src="./assets/mockup1.png" alt="colores" width="850">
+</p>
+
+Mockup - Hero Section 
+
+<p align="center">
+  <img src="./assets/mockup2.png" alt="colores" width="850">
+</p>
+
+Mockup - Benefits Section 
+
+<p align="center">
+  <img src="./assets/mockup3.png" alt="colores" width="850">
+</p>
+
+Mockup - Videos Section 
+
+<p align="center">
+  <img src="./assets/mockup5.png" alt="colores" width="850">
+</p>
+
+Mockup - Testimonials Section 
+Mockup -  Claims Section 
+
+<p align="center">
+  <img src="./assets/mockup6.png" alt="colores" width="850">
+</p>
+
+Mockup - Plans Section 
+
+<p align="center">
+  <img src="./assets/mockup4.png" alt="colores" width="850">
+</p>
+
+Mockup - Footer Section 
+
+<p align="center">
+  <img src="./assets/mockup7.png" alt="colores" width="850">
+</p>
+
 
 ### 4.4. Web Applications UX/UI Design
 
@@ -716,14 +1070,194 @@ Este será el lenguaje común utilizado en la aplicación ResiCare, asegurando q
 
 ### 5.1. Software Configuration Management
 
+La gestión de configuración de software asegura que todos los componentes del proyecto ResiCare (Landing Page, Aplicación Web y Servicios Web) se mantengan organizados, controlados y consistentes en todo su ciclo de vida. Permite a los miembros del equipo trabajar de manera distribuida con trazabilidad en cada cambio, garantizando calidad, escalabilidad y facilidad de despliegue.
+
+En este proyecto se desarrollan tres artefactos principales:
+
+Landing Page: sitio promocional e informativo.
+
+Frontend Web Application: aplicación web interactiva para los usuarios.
+
+Web Services: servicios backend con lógica de negocio y base de datos.
+
+La gestión de configuración abarca la definición del entorno de desarrollo, la administración del código fuente, la adopción de convenciones de estilo y la configuración de despliegue en Render.
 #### 5.1.1. Software Development Environment Configuration
+
+**Gestión del Proyecto**
+
+GitHub (https://github.com/Grupo-2-Aplicaciones-Web-ResiSeguro
+)
+Organización con repositorios para: Informe, Landing Page, Frontend y Backend. Centraliza código, issues y colaboración.
+
+**Gestión de Requisitos**
+
+Trello / Pivotal Tracker
+Gestión del product backlog, historias de usuario y tareas.
+
+**Diseño UX/UI del Producto**
+
+UXPressia: elaboración de User Personas, Empathy Maps, Journey Maps e Impact Maps.
+
+LucidChart / Miro: diagramas As-Is y To-Be Scenario Maps.
+
+Figma / Adobe XD: wireframes, mockups y prototipos.
+
+LucidChart / Overflow: wireflows y user flows.
+
+Structurizr, LucidChart, Vertabelo: diagramas de arquitectura (C4 Model, UML, diseño de base de datos).
+
+PlantUML / Structurizr DSL: Diagram-as-Code para UML o C4 Model.
+
+**Desarrollo de Software**
+
+Landing Page: HTML5, CSS3 y JavaScript.
+
+Frontend Web Application: Vue Framework, con HTML5, CSS3 y JavaScript para los templates, siguiendo Material Design y utilizando PrimeVue como librería de componentes UI.
+
+Backend / Web Services: ASP.NET Core Framework, bajo estilo arquitectónico RESTful API, usando C# como lenguaje de programación.
+
+Documentación de Web Services: OpenAPI Specification mediante Swagger.
+
+Base de datos: MySQL para gestión de usuarios, pólizas y reclamos.
+
+**Control de proyectos y colaboración**
+
+Trello / Pivotal Tracker / YouTrack / Jira: planificación y seguimiento.
+
+VS Code: editor de código fuente.
+
+Postman: pruebas de endpoints.
+
+Git: control de versiones distribuido.
+
+**Despliegue de Software**
+
+Render: plataforma de despliegue para Landing Page, Frontend y Backend.
+
+Ngrok: túneles seguros para pruebas locales de frontend y backend.
 
 #### 5.1.2. Source Code Management
 
+El código fuente es gestionado con Git y hospedado en GitHub, con repositorios separados para: Informe, Landing Page, Frontend y Backend.
+
+Se aplica el flujo de trabajo GitFlow Workflow:
+
+main: versiones estables.
+
+develop: rama de integración de nuevas funcionalidades.
+
+feature/*: ramas temporales para funcionalidades específicas.
+
+hotfix: correcciones urgentes en producción.
+
+Convenciones de versionado y commits
+
+Versionado Semántico (SemVer 2.0.0):
+
+MAJOR → cambios incompatibles.
+
+MINOR → nuevas funcionalidades compatibles.
+
+PATCH → correcciones menores.
+
+Commits Convencionales:
+
+Formato: <type>[scope]: <description>
+
+Ejemplo: feat(simulator): add premium calculation module.
+
 #### 5.1.3. Source Code Style Guide & Conventions
 
+HTML5
+
+Sintaxis estricta de HTML5.
+
+Etiquetas semánticas.
+
+Comillas obligatorias en atributos.
+
+Atributos alt en imágenes.
+
+Indentación de 2 espacios.
+
+CSS3
+
+Variables globales en :root.
+
+Clases en kebab-case.
+
+Notación hexadecimal para colores.
+
+Comentarios por sección (/* Hero Section */).
+
+Evitar !important, usar especificidad.
+
+JavaScript (Landing Page y Vue)
+
+camelCase para variables y funciones.
+
+PascalCase para clases y componentes Vue.
+
+Constantes en UPPERCASE.
+
+Uso de === y !==.
+
+Documentación JSDoc.
+
+Punto y coma obligatorio.
+
+C# (ASP.NET Core)
+
+PascalCase para clases y métodos.
+
+camelCase para variables y parámetros.
+
+Uso de anotaciones como [HttpGet], [HttpPost], [ApiController].
+
+Buenas prácticas con inyección de dependencias.
+
+Documentación XML para métodos públicos.
 #### 5.1.4. Software Deployment Configuration
 
+Landing Page
+
+Repositorio: landing-page.
+
+Despliegue como servicio estático en Render.
+
+URL pública generada automáticamente.
+
+Frontend (Vue Application)
+
+Repositorio: frontend.
+
+Despliegue como aplicación web en Render.
+
+Build con npm run build.
+
+URL pública: https://resicare-frontend.onrender.com.
+
+Backend (ASP.NET Core Web Services)
+
+Repositorio: backend.
+
+Despliegue como servicio web en Render.
+
+Integración con base de datos MySQL.
+
+Documentación accesible vía Swagger UI.
+
+URL pública: https://resicare-backend.onrender.com/api.
+
+Pipeline CI/CD
+
+Integración con GitHub.
+
+Cada push a develop: despliegue en entorno de staging.
+
+Cada push a main: despliegue automático en producción.
+
+Validación de código, pruebas unitarias y revisión de dependencias antes de despliegue.
 ### 5.2. Landing Page, Services & Applications Implementation
 
 #### 5.2.1. Sprint 1
