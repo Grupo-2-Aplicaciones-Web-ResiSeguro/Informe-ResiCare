@@ -649,6 +649,21 @@ Este será el lenguaje común utilizado en la aplicación ResiCare, asegurando q
 
 ### 3.1. To-Be Scenario Mapping
 
+A continuación se muestra el To-Be Scenario Mapping para María (estudiante) y Luis (padre), organizado por fases (Doing / Thinking / Feeling) y los 5 pasos clave: Registro, Recepción, Monitoreo, Apoyo (reclamo) y Renovación.
+
+*Segmento 1: Estudiantes universitarios*
+
+<p align="center">
+  <img src="./assets/to-be1.jpg" alt="User Persona 1" width="550">
+</p>
+
+*Segmento 2: Padres de estudiantes universitarios*
+
+<p align="center">
+  <img src="./assets/to-be2.jpg" alt="User Persona 1" width="550">
+</p>
+
+
 ### 3.2. User Stories
 
 ### 3.3. Impact Mapping
