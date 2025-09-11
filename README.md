@@ -475,7 +475,7 @@ ResiCare aplicará una estrategia de diferenciación enfocada en estudiantes, of
 1. ¿Cómo es tu rutina diaria entre residencia y campus y con qué frecuencia te trasladas?  
 2. ¿Quién paga principalmente tus gastos y cuánto aportas tú (si aplica)?  
 3. De estas coberturas, protección de gadgets, teleconsulta médica, pérdida en traslados cortos, ¿cuál priorizas y por qué?  
-4. ¿Preferirías un plan gratuito con cobertura mínima o pagar una suscripción mensual por más beneficios; por qué?  
+4. ¿Preferirías un plan básico con cobertura mínima o pagar una suscripción mensual por más beneficios; por qué?  
 5. ¿Qué tan cómodo te sentirías reclamando por foto/chat y recibiendo una decisión automática; qué condiciones necesitarías para confiar en ese proceso?  
 6. ¿Qué evidencia estarías dispuesto a subir en un reclamo (foto, factura, testigo) y cuánto tiempo esperarías para una resolución?  
 7. ¿Qué incentivo te motivaría más a recomendar el seguro a un amigo (descuento, mes gratis, prioridad en reclamos, otro)?
@@ -495,6 +495,31 @@ ResiCare aplicará una estrategia de diferenciación enfocada en estudiantes, of
 ---
 
 #### 2.2.2. Registro de entrevistas
+
+#### Entrevista 1
+
+<p align="center">
+  <img src="./assets/entrevistas/entrevista1.jpg" alt="entrevista1" width="400">
+</p>
+
+Gabriel Fernando Gordon, 21 años, vive en Lima y considera esenciales su laptop, celular y tablet (2000–4000 soles). Ha sufrido daños previos (reemplazo de laptop por 2500 soles), lo que refuerza la necesidad de protección.  
+
+Se traslada casi a diario a la universidad, usando constantemente sus dispositivos, por lo que prioriza su aseguramiento, sobre todo los más costosos. Prefiere planes con cobertura completa y procesos de reclamo simples y automatizados.  
+
+Los principales incentivos para recomendar un seguro serían descuentos y prioridad en la atención de reclamos.  
+
+---
+
+| **Detalle**          | **Información**                                                                 |
+|----------------------|---------------------------------------------------------------------------------|
+| **Entrevistador**    | Héctor Javier Ríos Pacheco                                                      |
+| **Entrevistado**     | Gabriel Fernando Gordon                                                          |
+| **Edad**             | 21 años                                                                         |
+| **Inicio entrevista**| 0:02                                                                            |
+| **Duración**         | 4:04 minutos                                                                    |
+| **Enlace**           | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c540_upc_edu_pe/EabXTgyOWTlDmy4fY5ZfLa8BjY3ckS8IgVy4XNyy6etPqw?e=hb6nmA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |  
+
+
 
 #### 2.2.3. Análisis de entrevistas
 
@@ -665,6 +690,152 @@ A continuación se muestra el To-Be Scenario Mapping para María (estudiante) y 
 
 
 ### 3.2. User Stories
+
+| Epic / Story ID | Título                                            | Descripción                                                                                                                    | Criterios de Aceptación                                                                                                                                                                                                                                                                                                             | Relacionado con (Epic ID) |
+| :-------------- | :------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------ |
+| US-01           | Registro con validación universitaria             | Como estudiante quiero registrarme usando mi documento y correo universitario para que mi afiliación sea validada rápidamente. | Escenario 1: **Given** correo universitario válido y DNI legible, **When** completo el formulario y subo documentos, **Then** la cuenta se activa con verificación. <br><br> Escenario 2: **Given** correo no universitario o documento ilegible, **When** intento finalizar registro, **Then** muestro error y guía para corregir. | EP-01                     |
+| US-02           | Inicio de sesión seguro                           | Como usuario quiero iniciar sesión de forma segura para acceder a mi panel.                                                    | Escenario 1: **Given** credenciales correctas, **When** inicio sesión, **Then** accedo al dashboard. <br><br> Escenario 2: **Given** varios intentos fallidos, **When** supero el umbral, **Then** bloqueo temporal y ofrezco recuperación por OTP.                                                                                 | EP-01                     |
+| US-03           | Recuperación de contraseña                        | Como usuario quiero recuperar mi contraseña vía correo/OTP para restaurar acceso.                                              | Escenario 1: **Given** que olvidé la contraseña, **When** solicito recuperación, **Then** recibo OTP por correo y puedo crear nueva contraseña. <br><br> Escenario 2: **Given** OTP caducado, **When** intento usarlo, **Then** muestro mensaje de caducidad y opción de reenviar.                                                  | EP-01                     |
+| US-04           | Ver y descargar póliza                            | Como usuario quiero ver y descargar mi póliza en PDF para compartirla o archivarla.                                            | Escenario 1: **Given** póliza activa, **When** accedo a "Mi póliza", **Then** puedo descargar PDF con detalles y firma digital. <br><br> Escenario 2: **Given** póliza caducada, **When** intento descargar, **Then** muestro mensaje con opción de renovación.                                                                     | EP-02                     |
+| US-05           | Selección y compra de plan                        | Como estudiante quiero elegir entre plan Básico y Premium y pagar en línea para activar cobertura.                             | Escenario 1: **Given** que selecciono Básico, **When** proceso pago válido, **Then** cobertura se activa inmediatamente. <br><br> Escenario 2: **Given** que pago falla, **When** la pasarela responde error, **Then** muestro estado pendiente y guía.                                                                             | EP-02                     |
+| US-06           | Upgrade/downgrade de plan                         | Como usuario quiero cambiar entre planes para ajustar mi cobertura.                                                            | Escenario 1: **Given** soy Básico y pago upgrade, **When** transacción es exitosa, **Then** mi cuenta refleja Premium y beneficios. <br><br> Escenario 2: **Given** intento downgrade, **When** realizo cambio, **Then** aplican restricciones y nuevo monto se prorratea.                                                          | EP-02                     |
+| US-07           | Contratación digital con documentos               | Como usuario quiero subir mi DNI y constancia universitaria para validar afiliación automáticamente.                           | Escenario 1: **Given** documentos legibles, **When** los subo, **Then** sistema valida y aprueba afiliación. <br><br> Escenario 2: **Given** imágenes borrosas, **When** subo, **Then** solicito reenvío con guía de captura.                                                                                                       | EP-02                     |
+| US-08           | Iniciar reclamo por chat (foto + texto)           | Como usuario quiero abrir un reclamo desde el chat subiendo foto y descripción para rapidez.                                   | Escenario 1: **Given** siniestro menor, **When** subo foto + texto, **Then** motor de reglas evalúa y contesta con resultado. <br><br> Escenario 2: **Given** falta información obligatoria, **When** envío, **Then** chat solicita campos faltantes antes de procesar.                                                             | EP-03                     |
+| US-09           | Validación automática de reclamos menores         | Como usuario quiero que reclamos sencillos sean evaluados automáticamente para respuesta rápida.                               | Escenario 1: **Given** foto válida y metadatos coherentes, **When** pasa reglas, **Then** reclamo es aprobado automáticamente. <br><br> Escenario 2: **Given** inconsistencias (fecha, manipulación), **When** regla falla, **Then** reclamo se marca para revisión humana.                                                         | EP-03                     |
+| US-10           | Escalamiento y comunicación con ajustador         | Como usuario quiero que reclamos complejos se escalen a un ajustador y tenga comunicación clara.                               | Escenario 1: **Given** reclamo complejo, **When** se escala, **Then** usuario recibe notificación y plazo estimado. <br><br> Escenario 2: **Given** ajustador solicita más evidencias, **When** usuario sube doc, **Then** ajustador actualiza estado y decisión.                                                                   | EP-03                     |
+| US-11           | Historial y estado de reclamos                    | Como usuario quiero ver el historial y estado de mis reclamos para seguimiento.                                                | Escenario 1: **Given** que realicé reclamos, **When** entro a historial, **Then** veo lista con estados, fechas y comunicaciones. <br><br> Escenario 2: **Given** reclamo cerrado, **When** solicito detalles, **Then** puedo ver resolución, monto y adjuntos.                                                                     | EP-03                     |
+| US-12           | Simulador de devolución (cliente)                 | Como usuario quiero simular cuánto recibiría en caso de reclamo para tomar decisiones.                                         | Escenario 1: **Given** monto estimado y tipo de siniestro, **When** ejecuto simulador, **Then** muestro monto neto, deducible y tiempo estimado. <br><br> Escenario 2: **Given** valores inválidos, **When** ejecuto simulación, **Then** muestro validaciones y ejemplos.                                                          | EP-07                     |
+| US-13           | Panel de prevenciones y recordatorios             | Como usuario quiero recibir alertas de prevención y recordatorios para reducir riesgos.                                        | Escenario 1: **Given** notificaciones activas, **When** hay aviso importante, **Then** recibo push/email con consejo. <br><br> Escenario 2: **Given** desactivo recordatorios, **When** ocurren eventos, **Then** aparecen en panel pero no envío push.                                                                             | EP-06                     |
+| US-14           | Teleconsulta on-demand                            | Como usuario quiero solicitar una teleconsulta rápida para atención médica menor.                                              | Escenario 1: **Given** tengo cobertura, **When** solicito teleconsulta, **Then** me asignan profesional y agendan llamada. <br><br> Escenario 2: **Given** falta de profesionales, **When** intento agendar, **Then** muestro tiempos alternativos o lista de espera.                                                               | EP-04                     |
+| US-15           | Agenda y registro de teleconsultas                | Como usuario quiero ver mis citas y registro de consultas para historial médico básico.                                        | Escenario 1: **Given** teleconsulta agendada, **When** entro a calendario, **Then** veo fecha/hora y enlace para entrar. <br><br> Escenario 2: **Given** consulta finalizada, **When** la visualizo, **Then** puedo ver resumen y recomendaciones.                                                                                  | EP-04                     |
+| US-16           | Cobertura de viaje corto (activar/confirmar)      | Como usuario quiero activar protección para viajes interurbanos antes de partir.                                               | Escenario 1: **Given** activo cobertura, **When** viaje ocurre, **Then** reclamos de equipaje o cancelación se aceptan según reglas. <br><br> Escenario 2: **Given** no activé cobertura, **When** ocurre siniestro, **Then** reclamo es inválido y explico motivo.                                                                 | EP-05                     |
+| US-17           | Reporte rápido de pérdida en traslado             | Como usuario quiero reportar pérdida de equipaje en traslado con prueba y ubicación aproximada.                                | Escenario 1: **Given** pérdida menor, **When** subo foto/recibo y ubicación, **Then** se genera reclamo con prioridad estándar. <br><br> Escenario 2: **Given** falta comprobante de viaje, **When** intento reclamar, **Then** solicito datos de transporte y ticket.                                                              | EP-05                     |
+| US-18           | Notificaciones push y correo                      | Como usuario quiero recibir notificaciones sobre estados de reclamos, pagos y consultas.                                       | Escenario 1: **Given** notificaciones habilitadas, **When** reclamo cambia de estado, **Then** recibo push y mail. <br><br> Escenario 2: **Given** las deshabilito, **When** cambia el estado, **Then** sólo registra el historial en la app.                                                                                       | EP-06                     |
+| US-19           | Compartir póliza con padres/tutores               | Como usuario quiero compartir mi póliza con mi padre/tutor para que estén informados.                                          | Escenario 1: **Given** deseo compartir, **When** ingreso email y permiso, **Then** tutor recibe enlace seguro con acceso de solo lectura. <br><br> Escenario 2: **Given** revoco permiso, **When** lo confirmo, **Then** el tutor pierde acceso y se registra la acción.                                                            | EP-01                     |
+| US-20           | Ver resumen de beneficios (Landing)               | Como visitante, quiero ver los beneficios que ofrece la app para entender cómo me puede ayudar.                                | Escenario 1: **Given** accedo landing, **When** hago scroll a beneficios, **Then** visualizo tarjetas con puntos destacados. <br><br> Escenario 2: **Given** ancho reducido, **When** veo sección, **Then** tarjetas se apilan y siguen legibles.                                                                                   | EP-12                     |
+| US-21           | Visualizar testimonios (Landing)                  | Como visitante, quiero leer testimonios de usuarios para confiar en la app.                                                    | Escenario 1: **Given** llego a testimonios, **When** visualizo citas, **Then** veo nombre, foto y experiencia. <br><br> Escenario 2: **Given** no hay testimonios, **When** navego la sección, **Then** muestro testimonios de ejemplo y CTA "Enviar testimonio".                                                                   | EP-12                     |
+| US-22           | Acceder desde distintos dispositivos (responsive) | Como visitante, quiero que la landing se vea bien en cualquier dispositivo para explorarla cómodamente.                        | Escenario 1: **Given** acceso desde móvil, **When** cargo landing, **Then** diseño se adapta. <br><br> Escenario 2: **Given** acceso desde desktop, **When** navego, **Then** elementos se ajustan y menú es visible.                                                                                                               | EP-13                     |
+| US-23           | Conocer la propuesta de valor (Hero)              | Como visitante, quiero entender rápidamente qué hace la app y cómo me beneficia.                                               | Escenario 1: **Given** ingreso landing, **When** veo hero, **Then** título y subtítulo claros. <br><br> Escenario 2: **Given** vengo desde campaña con UTM, **When** llego al hero, **Then** muestro mensaje o oferta personalizada.                                                                                                | EP-12                     |
+| US-24           | Navegar por beneficios (scroll y accesibilidad)   | Como visitante, quiero navegar por la sección de beneficios para conocer ventajas.                                             | Escenario 1: **Given** hago scroll, **When** paso por bloques, **Then** veo texto e imágenes explicativas. <br><br> Escenario 2: **Given** uso teclado, **When** navego con TAB, **Then** foco recorre correctamente los bloques.                                                                                                   | EP-12                     |
+| US-25           | Barra de navegación con anclas                    | Como visitante, quiero usar la barra superior para moverme a secciones de la landing rápidamente.                              | Escenario 1: **Given** clic en link del menú, **When** apunta a sección interna, **Then** hago scroll hacia ella. <br><br> Escenario 2: **Given** link externo, **When** clic, **Then** se abre en nueva pestaña si corresponde.                                                                                                    | EP-12                     |
+| US-26           | Acceder al registro o inicio desde landing        | Como visitante, quiero iniciar sesión o registrarme desde la barra superior.                                                   | Escenario 1: **Given** hago clic "Iniciar sesión", **When** clic, **Then** redirige a login. <br><br> Escenario 2: **Given** clic en "Registrarse", **When** clic, **Then** redirige a formulario de registro.                                                                                                                      | EP-14                     |
+| US-27           | Navegar desde el footer                           | Como visitante, quiero que los enlaces del pie de página funcionen para acceder a info adicional.                              | Escenario 1: **Given** clic en enlace de footer, **When** está configurado, **Then** redirige a sección/página correcta. <br><br> Escenario 2: **Given** enlace externo, **When** clic, **Then** abre en nueva pestaña y registra evento.                                                                                           | EP-12                     |
+| US-28           | Selector de idioma en landing                     | Como visitante internacional, quiero cambiar idioma de la landing para entender la información.                                | Escenario 1: **Given** en landing, **When** uso selector de idioma, **Then** contenido se traduce. <br><br> Escenario 2: **Given** cadena sin traducción, **When** cambio idioma, **Then** muestro fallback y registro la cadena faltante.                                                                                          | EP-12                     |
+| US-29           | FAQ y centro de ayuda                             | Como usuario quiero acceso rápido a preguntas frecuentes y tutoriales para usar la app.                                        | Escenario 1: **Given** busco cómo presentar reclamo, **When** voy a FAQ, **Then** encuentro guía paso a paso. <br><br> Escenario 2: **Given** no encuentro respuesta, **When** envío consulta, **Then** recibo acuse y tiempo estimado de respuesta.                                                                                | EP-08                     |
+| US-30           | Descargar certificado de cobertura                | Como usuario quiero descargar un certificado de cobertura para trámites o acreditación.                                        | Escenario 1: **Given** póliza activa, **When** solicito certificado, **Then** puedo descargar PDF con vigencia y cobertura. <br><br> Escenario 2: **Given** póliza inactiva, **When** intento descargar, **Then** muestro motivo y opción de renovación.                                                                            | EP-02                     |
+| US-31           | Compartir evidencia múltiple                      | Como usuario quiero subir varias fotos o archivos en un reclamo para respaldar mi caso.                                        | Escenario 1: **Given** tengo 3 fotos, **When** las subo, **Then** todas se asocian al reclamo y se muestran en galería. <br><br> Escenario 2: **Given** archivo excede límite, **When** intento subir, **Then** muestro error y guío a reducir tamaño.                                                                              | EP-03                     |
+| US-32           | Chat histórico por reclamo                        | Como usuario quiero ver el historial de mensajes relacionados a cada reclamo.                                                  | Escenario 1: **Given** reclamo en curso, **When** abro conversación, **Then** veo todos los mensajes y timestamps. <br><br> Escenario 2: **Given** reclamo cerrado, **When** reviso chat, **Then** sigue disponible en modo lectura.                                                                                                | EP-03                     |
+| US-33           | Evaluación al cierre del reclamo                  | Como usuario quiero calificar la resolución del reclamo para retroalimentación.                                                | Escenario 1: **Given** reclamo cerrado, **When** recibo encuesta, **Then** puedo calificar y dejar comentario. <br><br> Escenario 2: **Given** no respondo, **When** pasan X días, **Then** envío recordatorio opcional.                                                                                                            | EP-03                     |
+| TS-01           | Arquitectura backend modular y simple             | Definir arquitectura backend modular (monolito modular o microservicios ligeros) para usuarios, reclamos y pagos.              | Escenario 1: **Given** inicio de proyecto, **When** implementamos módulos, **Then** cada módulo expone API y tests básicos. <br><br> Escenario 2: **Given** necesidad de ampliar, **When** se añade módulo, **Then** integraciones están desacopladas y documentadas.                                                               | EP-10                     |
+| TS-02           | Modelado de base de datos relacional (Postgres)   | Diseñar esquema de BD para usuarios, pólizas, reclamos, evidencias y auditoría con migraciones.                                | Escenario 1: **Given** nuevo reclamo, **When** lo guardo, **Then** se crean registros con referencias y fecha. <br><br> Escenario 2: **Given** cambio en esquema, **When** ejecuto migración, **Then** datos previos permanecen íntegros.                                                                                           | EP-10                     |
+| TS-03           | API REST documentada y protegida (OpenAPI)        | Desarrollar endpoints REST para auth, póliza, reclamos y evidencias con documentación mínima.                                  | Escenario 1: **Given** petición autenticada, **When** solicito póliza, **Then** API responde con datos. <br><br> Escenario 2: **Given** petición sin token, **When** intento acceso, **Then** retorno 401.                                                                                                                          | EP-10                     |
+| TS-04           | Integración SSO universitario (opcional)          | Implementar opción para autenticación con credenciales universitarias (SSO) si la universidad lo permite.                      | Escenario 1: **Given** universidad soporta SSO, **When** usuario elige SSO, **Then** login se realiza vía proveedor y datos se importan. <br><br> Escenario 2: **Given** universidad no soporta SSO, **When** usuario intenta, **Then** muestro fallback a registro normal.                                                         | EP-01                     |
+| TS-05           | Pipeline CI básico (lint + tests)                 | Configurar pipeline en GitHub Actions/GitLab CI que corra lint y tests unitarios antes de merge.                               | Escenario 1: **Given** PR abierto, **When** pipeline corre, **Then** reporta resultados y bloquea merge si falla. <br><br> Escenario 2: **Given** tests fallan intermitentemente, **When** detecto flakiness, **Then** añado retries o analizo causas.                                                                              | EP-11                     |
+| TS-06           | Almacenamiento de imágenes con URLs firmadas      | Implementar almacenamiento (S3/MinIO) con URLs firmadas y expiración para evidencias.                                          | Escenario 1: **Given** usuario sube foto, **When** proceso subida, **Then** guardo con metadata y devuelvo URL firmada. <br><br> Escenario 2: **Given** URL expirada, **When** intento acceder, **Then** acceso denegado y opción de re-subida.                                                                                     | EP-10                     |
+| TS-07           | Motor de reglas liviano (JSON)                    | Implementar motor de reglas JSON para validaciones automáticas (fecha, tamaño imagen, metadatos).                              | Escenario 1: **Given** regla en JSON, **When** llega reclamo, **Then** evalúo y guardo resultado. <br><br> Escenario 2: **Given** modifico regla en admin, **When** la guardo, **Then** aplica a nuevos reclamos sin deploy.                                                                                                        | EP-03                     |
+| TS-08           | Sistema de notificaciones básico                  | Implementar servicio para push/email con templates que se conecte a eventos de la app.                                         | Escenario 1: **Given** evento de cambio de estado en reclamo, **When** ocurre, **Then** envío notificación al usuario. <br><br> Escenario 2: **Given** usuario deshabilita notificaciones, **When** evento ocurre, **Then** sólo registro en panel.                                                                                 | EP-06                     |
+| TS-09           | Pagos: integración simple y seguras (webhooks)    | Integrar pasarela de pagos con tokenización y manejo de webhooks básicos.                                                      | Escenario 1: **Given** pago exitoso, **When** recibo webhook firmado, **Then** actualizo estado de suscripción. <br><br> Escenario 2: **Given** webhook inválido/fraudulento, **When** firma no coincide, **Then** rechazo y logueo evento.                                                                                         | EP-02                     |
+| TS-10           | Logs y monitoreo accesible                        | Implementar logging estructurado y métricas básicas (errores, latencia) con dashboard simple.                                  | Escenario 1: **Given** error 500, **When** ocurre, **Then** logueo y alerta al equipo. <br><br> Escenario 2: **Given** latencia mayor umbral, **When** detecto, **Then** alerta y registro para post-mortem.                                                                                                                        | EP-11                     |
+
+#### EP-01 — Autenticación y Perfil
+| Story ID | Título                                   |
+| :------: | :--------------------------------------- |
+|   US-01  | Registro con validación universitaria    |
+|   US-02  | Inicio de sesión seguro                  |
+|   US-03  | Recuperación de contraseña               |
+|   US-19  | Compartir póliza con padres/tutores      |
+|   TS-04  | Integración SSO universitario (opcional) |
+
+#### EP-02 — Pólizas, Planes y Pagos
+| Story ID | Título                                         |
+| :------: | :--------------------------------------------- |
+|   US-04  | Ver y descargar póliza                         |
+|   US-05  | Selección y compra de plan                     |
+|   US-06  | Upgrade/downgrade de plan                      |
+|   US-07  | Contratación digital con documentos            |
+|   US-30  | Descargar certificado de cobertura             |
+|   TS-09  | Pagos: integración simple y seguras (webhooks) |
+
+#### EP-03 — Reclamos y Motor de Reglas
+| Story ID | Título                                    |
+| :------: | :---------------------------------------- |
+|   US-08  | Iniciar reclamo por chat (foto + texto)   |
+|   US-09  | Validación automática de reclamos menores |
+|   US-10  | Escalamiento y comunicación con ajustador |
+|   US-11  | Historial y estado de reclamos            |
+|   US-31  | Compartir evidencia múltiple              |
+|   US-32  | Chat histórico por reclamo                |
+|   US-33  | Evaluación al cierre del reclamo          |
+|   TS-07  | Motor de reglas liviano (JSON)            |
+
+#### EP-04 — Teleconsulta / Salud
+| Story ID | Título                             |
+| :------: | :--------------------------------- |
+|   US-14  | Teleconsulta on-demand             |
+|   US-15  | Agenda y registro de teleconsultas |
+
+#### EP-05 — Viajes cortos / Protecciones en traslado
+| Story ID | Título                                       |
+| :------: | :------------------------------------------- |
+|   US-16  | Cobertura de viaje corto (activar/confirmar) |
+|   US-17  | Reporte rápido de pérdida en traslado        |
+
+#### EP-06 — Notificaciones, Panel y Prevenciones
+| Story ID | Título                                |
+| :------: | :------------------------------------ |
+|   US-13  | Panel de prevenciones y recordatorios |
+|   US-18  | Notificaciones push y correo          |
+|   TS-08  | Sistema de notificaciones básico      |
+
+
+#### EP-07 — Simulador y Finanzas del Reclamo
+| Story ID | Título                            |
+| :------: | :-------------------------------- |
+|   US-12  | Simulador de devolución (cliente) |
+
+
+#### EP-08 — FAQ / Centro de ayuda
+
+| Story ID | Título                |
+| :------: | :-------------------- |
+|   US-29  | FAQ y centro de ayuda |
+
+
+#### EP-10 — Infraestructura Backend y Datos
+| Story ID | Título                                          |
+| :------: | :---------------------------------------------- |
+|   TS-01  | Arquitectura backend modular y simple           |
+|   TS-02  | Modelado de base de datos relacional (Postgres) |
+|   TS-06  | Almacenamiento de imágenes con URLs firmadas    |
+
+
+#### EP-11 — CI / Logs / Monitoreo
+| Story ID | Título                            |
+| :------: | :-------------------------------- |
+|   TS-05  | Pipeline CI básico (lint + tests) |
+|   TS-10  | Logs y monitoreo accesible        |
+
+
+#### EP-12 — Landing / Marketing / Productos
+| Story ID | Título                                          |
+| :------: | :---------------------------------------------- |
+|   US-20  | Ver resumen de beneficios (Landing)             |
+|   US-21  | Visualizar testimonios (Landing)                |
+|   US-23  | Conocer la propuesta de valor (Hero)            |
+|   US-24  | Navegar por beneficios (scroll y accesibilidad) |
+|   US-25  | Barra de navegación con anclas                  |
+|   US-27  | Navegar desde el footer                         |
+|   US-28  | Selector de idioma en landing                   |
+
+
+#### EP-13 — Responsive / Internacionalización (App & Landing)
+
+| Story ID | Título                                                                    |
+| :------: | :------------------------------------------------------------------------ |
+|   US-22  | Acceder desde distintos dispositivos (responsive)                         |
+|   US-23  | Conocer la propuesta de valor (Hero)                                      |
+|   US-28  | Selector de idioma en landing                                             |
+|  US-23 | Multi-idioma (app) — (Nota: la app y landing comparten ámbitos de idioma) |
 
 ### 3.3. Impact Mapping
 
