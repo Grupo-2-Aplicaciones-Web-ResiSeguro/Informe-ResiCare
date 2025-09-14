@@ -1302,9 +1302,109 @@ Asimismo, en caso de olvidar la contraseña existe opción de recuperarla median
 
 
 
+En la sección de perfil se muestran opciones para editar la informacióm, actualizar documentos y objetos importantes para facilitar el reclamo. Se ver también el procedimiento de registro de objetos.
 
+
+ <p align="center">
+  <img src="./assets/wireframes/wireframe6.jpg" alt="wireframe6" width="800">
+</p>
+
+De igual manera, dentro de la pantalla principal tenemos opciones como ver nuestro historial de reclamos y sus detalles, prevenciones y recordatorios por parte de la plataforma, la opción completa para reservar una teleconsulta y visualizar nuestros reclamos en curso.
+
+<p align="center">
+  <img src="./assets/wireframes/wireframe7.jpg" alt="wireframe7" width="800">
+</p>
+
+Esta es la opción de registrar un nuevo reclamo, donde se sigue un procedimiento asignando cada una de las oopciones para ello.
+
+<p align="center">
+  <img src="./assets/wireframes/wireframe8.jpg" alt="wireframe8" width="800">
+</p>
+
+
+También contamos con una calculadora, este es un simulador del reembolso en caso de registrar un reclamo
+
+<p align="center">
+  <img src="./assets/wireframes/wireframe9.jpg" alt="wireframe9" width="800">
+</p>
 
 #### 4.4.2. Web Applications Wireflow Diagrams
+
+##### inicio de sesión: 
+Como usuario quiero iniciar sesión usando mis credenciales
+<p align="center">
+  <img src="./assets/wireframes/wireflows/Diapositiva1.jpg" alt="wireflow1" width="800">
+</p>
+
+##### recuperación de contraseña
+Como usuario quiero recuperar mi contraseña en caso de olvido
+
+<p align="center">
+  <img src="./assets/wireframes/wireflows/Diapositiva2.jpg" alt="wireflow2" width="800">
+</p>
+
+##### registro de usuario
+Como usuarios quiero registrarme usando mis datos, credenciales universitarios y eligiendo mi plan de seguro.
+
+<p align="center">
+  <img src="./assets/wireframes/wireflows/Diapositiva3.jpg" alt="wireflow3" width="800">
+</p>
+
+##### edición de datos personales
+Como usuario quiero poder editar mis datos personales.
+
+<p align="center">
+  <img src="./assets/wireframes/wireflows/Diapositiva4.jpg" alt="wireflow4" width="800">
+</p>
+
+##### actualización de documentos
+Como usuario quiero poder actualizar mi documentos personales
+
+<p align="center">
+  <img src="./assets/wireframes/wireflows/Diapositiva5.jpg" alt="wireflow5" width="800">
+</p>
+
+##### registro de objetos protegidos
+Como usuario quiero poder agregar objetos de mi pertenencia para ser asegurados.
+
+<p align="center">
+  <img src="./assets/wireframes/wireflows/Diapositiva6.jpg" alt="wireflow6" width="800">
+</p>
+
+##### solicitud de teleconsulta
+Como usuario quiero poder solicitar una teleconsulta para recibir atención psicológica o médica.
+
+<p align="center">
+  <img src="./assets/wireframes/wireflows/Diapositiva8.jpg" alt="wireflow8" width="800">
+</p>
+
+##### historial de reclamos
+Como usuario quiero poder revisar el historial de reclamos previamente ralizados
+
+
+<p align="center">
+  <img src="./assets/wireframes/wireflows/Diapositiva9.jpg" alt="wireflow9" width="800">
+</p>
+
+##### prevenciones y recordatorios
+Como usuario quiero poder revisar y agregar mis recordatorios, así como recibir sugerencias de parte de la plataforma.
+
+
+<p align="center">
+  <img src="./assets/wireframes/wireflows/Diapositiva10.jpg" alt="wireflow10" width="800">
+</p>
+
+##### reeclamos en curso
+Como usario quiero poder revisar los reclamos que tengo en curso y ver los detalles existentes
+
+
+<p align="center">
+  <img src="./assets/wireframes/wireflows/Diapositiva11.jpg" alt="wireflow11" width="800">
+</p>
+
+
+
+
 
 #### 4.4.3. Web Applications Mock-ups
 
