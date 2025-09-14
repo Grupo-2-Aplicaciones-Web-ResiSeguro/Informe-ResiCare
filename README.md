@@ -862,18 +862,16 @@ A continuación se muestra el To-Be Scenario Mapping para María (estudiante) y 
 |   US-23  | Conocer la propuesta de valor (Hero)            |
 |   US-24  | Navegar por beneficios (scroll y accesibilidad) |
 |   US-25  | Barra de navegación con anclas                  |
+|   US-26  | Acceder al registro o inicio desde landing      |
 |   US-27  | Navegar desde el footer                         |
-|   US-28  | Selector de idioma en landing                   |
 
 
 #### EP-12 — Responsive / Internacionalización (App & Landing)
 
-| Story ID | Título                                                                    |
-| :------: | :------------------------------------------------------------------------ |
-|   US-22  | Acceder desde distintos dispositivos (responsive)                         |
-|   US-23  | Conocer la propuesta de valor (Hero)                                      |
-|   US-28  | Selector de idioma en landing                                             |
-|  US-23 | Multi-idioma (app) — (Nota: la app y landing comparten ámbitos de idioma) |
+| Story ID | Título                                            |
+| :------: | :------------------------------------------------ |
+|   US-22  | Acceder desde distintos dispositivos (responsive) |
+|   US-28  | Selector de idioma en landing                     |
 
 ### 3.3. Impact Mapping
 A continuación se visualiza el **Impact Map** del proyecto **ResiCare**, donde se muestra la relación entre el *Business Goal* definido, los **User Personas** identificados, los **Impactos** esperados en su comportamiento, los **Deliverables** que como negocio digital podemos ofrecer y las **User Stories** asociadas que permitirán implementar las funcionalidades necesarias en la aplicación web y la landing page. Este mapa busca asegurar la alineación entre los objetivos estratégicos y el desarrollo de la solución digital.
