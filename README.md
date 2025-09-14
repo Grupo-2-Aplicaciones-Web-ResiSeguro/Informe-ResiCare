@@ -1469,6 +1469,79 @@ De igual manera, dentro de la pantalla principal tenemos opciones como ver nuest
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
+
+##### inicio de sesión: 
+Como usuario quiero iniciar sesión usando mis credenciales
+<p align="center">
+  <img src="./assets/mokups/userFlows/userFlow1.jpg" alt="wireflow1" width="800">
+</p>
+
+##### registro de usuario:
+Como usuario quiero registrarme en la app con mis datos, acceder a un plan y registrar mi credencial
+
+<p align="center">
+  <img src="./assets/mokups/userFlows/userFlow2.jpg" alt="wireflow1" width="800">
+</p>
+
+##### recuperación de contraseña
+Como usuario quiero recuperar mi contraseña en caso de olvido
+
+<p align="center">
+  <img src="./assets/mokups/userFlows/userFlow3.jpg" alt="wireflow1" width="800">
+</p>
+
+
+
+##### edición de datos personales
+Como usuario quiero poder editar mis datos personales.
+
+<p align="center">
+  <img src="./assets/mokups/userFlows/userFlow4.jpg" alt="wireflow1" width="800">
+</p>
+
+##### actualización de documentos
+Como usuario quiero poder actualizar mi documentos personales
+
+<p align="center">
+  <img src="./assets/mokups/userFlows/userFlow5.jpg" alt="wireflow1" width="800">
+</p>
+
+##### registro de objetos protegidos
+Como usuario quiero poder agregar objetos de mi pertenencia para ser asegurados.
+
+<p align="center">
+  <img src="./assets/mokups/userFlows/userFlow6.jpg" alt="wireflow1" width="800">
+</p
+
+##### solicitud de teleconsulta
+Como usuario quiero poder solicitar una teleconsulta para recibir atención psicológica o médica.
+
+<p align="center">
+  <img src="./assets/mokups/userFlows/userFlow7.jpg" alt="wireflow1" width="800">
+</p>
+
+##### historial de reclamos
+Como usuario quiero poder revisar el historial de reclamos previamente ralizados
+
+
+<p align="center">
+  <img src="./assets/mokups/userFlows/userFlow10.jpg" alt="wireflow1" width="800">
+</p>
+
+##### prevenciones y recordatorios
+Como usuario quiero poder revisar y agregar mis recordatorios, así como recibir sugerencias de parte de la plataforma.
+
+
+<p align="center">
+  <img src="./assets/mokups/userFlows/userFlow9.jpg" alt="wireflow1" width="800">
+</p>
+
+##### reeclamos en curso
+Como usario quiero poder revisar los reclamos que tengo en curso y ver los detalles existentes
+<p align="center">
+  <img src="./assets/mokups/userFlows/userFlow8.jpg" alt="wireflow1" width="800">
+</p>
+
 ### 4.5. Web Applications Prototyping
 
 ### 4.6. Domain-Driven Software Architecture
