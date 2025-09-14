@@ -1408,6 +1408,65 @@ Como usario quiero poder revisar los reclamos que tengo en curso y ver los detal
 
 #### 4.4.3. Web Applications Mock-ups
 
+A continuación se muestra la sección de los mockups que muestran el registro, siguiendo un orden que comienza en la página de bienvenida que luego lleva hacia el posible inicio de sesión o registro, en caso del registro Se deben llenar con todos los datos e información como estudiante, validar credenciales, documentos y finalmente acceder a uno de nuestros dos planes, sea el básico o el avanzado.
+
+<p align="center">
+  <img src="./assets/mokups/mockup1.jpg" alt="mockup1" width="800">
+</p>
+<p align="center">
+  <img src="./assets/mokups/mockup2.jpg" alt="mockup2" width="800">
+</p>
+
+
+Asimismo, en caso de olvidar la contraseña existe opción de recuperarla mediante su cambio a través del correo asociado que funcionará como validación. Se accede a este apartado presionando el la opción "olvidaste tu contraseña?" en el inicio de sesión inicial.
+
+<p align="center">
+  <img src="./assets/mokups/mockup3.jpg" alt="mockup3" width="800">
+</p>
+ A continuación se muestra la ventana principal que tiene todas las opciones de perfil, realizar un reclamo, consultar por los atneiores o lo que se enceuntran en trámite, teleconsulta, simulador de reembolso, prevenciones y recordatorios, y una sección de informativa.
+
+<p align="center">
+  <img src="./assets/mokups/mockup4.jpg" alt="mockup4" width="800">
+</p>
+
+
+
+En la sección de perfil se muestran opciones para editar la informacióm, actualizar documentos y objetos importantes para facilitar el reclamo. Se ver también el procedimiento de registro de objetos.
+
+
+ <p align="center">
+  <img src="./assets/mokups/mockup5.jpg" alt="mockup5" width="800">
+</p>
+
+<p align="center">
+  <img src="./assets/mokups/mockup6.jpg" alt="mockup6" width="800">
+</p>
+
+<p align="center">
+  <img src="./assets/mokups/mockup7.jpg" alt="mockup7" width="800">
+</p>
+
+De igual manera, dentro de la pantalla principal tenemos opciones como ver nuestro historial de reclamos y sus detalles, prevenciones y recordatorios por parte de la plataforma, la opción completa para reservar una teleconsulta y visualizar nuestros reclamos en curso.
+
+<p align="center">
+  <img src="./assets/mokups/mockup8.jpg" alt="mockup8" width="800">
+</p>
+
+<p align="center">
+  <img src="./assets/mokups/mockup9.jpg" alt="mockup9" width="800">
+</p>
+
+<p align="center">
+  <img src="./assets/mokups/mockup10.jpg" alt="mockup10" width="800">
+</p>
+
+<p align="center">
+  <img src="./assets/mokups/mockup11.jpg" alt="mockup11" width="800">
+</p>
+
+
+
+
 #### 4.4.4. Web Applications User Flow Diagrams
 
 ### 4.5. Web Applications Prototyping
