@@ -1279,6 +1279,33 @@ Mockup - Footer Section
 
 #### 4.4.1. Web Applications Wireframes
 
+A continuación se muestra la sección de los wireframes que muestran el registro, siguiendo un orden que comienza en la página de bienvenida que luego lleva hacia el posible inicio de sesión o registro, en caso del registro Se deben llenar con todos los datos e información como estudiante, validar credenciales, documentos y finalmente acceder a uno de nuestros dos planes, sea el básico o el avanzado.
+
+<p align="center">
+  <img src="./assets/wireframes/wireframe1.jpg" alt="wireframe1" width="800">
+</p>
+<p align="center">
+  <img src="./assets/wireframes/wireframe2.jpg" alt="wireframe2" width="800">
+</p>
+<p align="center">
+  <img src="./assets/wireframes/wireframe3.jpg" alt="wireframe3" width="800">
+</p>
+
+Asimismo, en caso de olvidar la contraseña existe opción de recuperarla mediante su cambio a través del correo asociado que funcionará como validación. Se accede a este apartado presionando el la opción "olvidaste tu contraseña?" en el inicio de sesión inicial.
+
+<p align="center">
+  <img src="./assets/wireframes/wireframe4.jpg" alt="wireframe4" width="800">
+</p>
+ A continuación se muestra la ventana principal que tiene todas las opciones de perfil, realizar un reclamo, consultar por los atneiores o lo que se enceuntran en trámite, teleconsulta, simulador de reembolso, prevenciones y recordatorios, y una sección de informativa.
+
+ <p align="center">
+  <img src="./assets/wireframes/wireframe5.jpg" alt="wireframe5" width="800">
+</p>
+
+
+
+
+
 #### 4.4.2. Web Applications Wireflow Diagrams
 
 #### 4.4.3. Web Applications Mock-ups
