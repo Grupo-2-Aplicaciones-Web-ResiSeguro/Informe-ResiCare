@@ -1302,13 +1302,245 @@ Asimismo, en caso de olvidar la contraseña existe opción de recuperarla median
 
 
 
+En la sección de perfil se muestran opciones para editar la informacióm, actualizar documentos y objetos importantes para facilitar el reclamo. Se ver también el procedimiento de registro de objetos.
 
+
+ <p align="center">
+  <img src="./assets/wireframes/wireframe6.jpg" alt="wireframe6" width="800">
+</p>
+
+De igual manera, dentro de la pantalla principal tenemos opciones como ver nuestro historial de reclamos y sus detalles, prevenciones y recordatorios por parte de la plataforma, la opción completa para reservar una teleconsulta y visualizar nuestros reclamos en curso.
+
+<p align="center">
+  <img src="./assets/wireframes/wireframe7.jpg" alt="wireframe7" width="800">
+</p>
+
+Esta es la opción de registrar un nuevo reclamo, donde se sigue un procedimiento asignando cada una de las oopciones para ello.
+
+<p align="center">
+  <img src="./assets/wireframes/wireframe8.jpg" alt="wireframe8" width="800">
+</p>
+
+
+También contamos con una calculadora, este es un simulador del reembolso en caso de registrar un reclamo
+
+<p align="center">
+  <img src="./assets/wireframes/wireframe9.jpg" alt="wireframe9" width="800">
+</p>
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
+##### inicio de sesión: 
+Como usuario quiero iniciar sesión usando mis credenciales
+<p align="center">
+  <img src="./assets/wireframes/wireflows/Diapositiva1.jpg" alt="wireflow1" width="800">
+</p>
+
+##### recuperación de contraseña
+Como usuario quiero recuperar mi contraseña en caso de olvido
+
+<p align="center">
+  <img src="./assets/wireframes/wireflows/Diapositiva2.jpg" alt="wireflow2" width="800">
+</p>
+
+##### registro de usuario
+Como usuarios quiero registrarme usando mis datos, credenciales universitarios y eligiendo mi plan de seguro.
+
+<p align="center">
+  <img src="./assets/wireframes/wireflows/Diapositiva3.jpg" alt="wireflow3" width="800">
+</p>
+
+##### edición de datos personales
+Como usuario quiero poder editar mis datos personales.
+
+<p align="center">
+  <img src="./assets/wireframes/wireflows/Diapositiva4.jpg" alt="wireflow4" width="800">
+</p>
+
+##### actualización de documentos
+Como usuario quiero poder actualizar mi documentos personales
+
+<p align="center">
+  <img src="./assets/wireframes/wireflows/Diapositiva5.jpg" alt="wireflow5" width="800">
+</p>
+
+##### registro de objetos protegidos
+Como usuario quiero poder agregar objetos de mi pertenencia para ser asegurados.
+
+<p align="center">
+  <img src="./assets/wireframes/wireflows/Diapositiva6.jpg" alt="wireflow6" width="800">
+</p>
+
+##### solicitud de teleconsulta
+Como usuario quiero poder solicitar una teleconsulta para recibir atención psicológica o médica.
+
+<p align="center">
+  <img src="./assets/wireframes/wireflows/Diapositiva8.jpg" alt="wireflow8" width="800">
+</p>
+
+##### historial de reclamos
+Como usuario quiero poder revisar el historial de reclamos previamente ralizados
+
+
+<p align="center">
+  <img src="./assets/wireframes/wireflows/Diapositiva9.jpg" alt="wireflow9" width="800">
+</p>
+
+##### prevenciones y recordatorios
+Como usuario quiero poder revisar y agregar mis recordatorios, así como recibir sugerencias de parte de la plataforma.
+
+
+<p align="center">
+  <img src="./assets/wireframes/wireflows/Diapositiva10.jpg" alt="wireflow10" width="800">
+</p>
+
+##### reeclamos en curso
+Como usario quiero poder revisar los reclamos que tengo en curso y ver los detalles existentes
+
+
+<p align="center">
+  <img src="./assets/wireframes/wireflows/Diapositiva11.jpg" alt="wireflow11" width="800">
+</p>
+
+
+
+
+
 #### 4.4.3. Web Applications Mock-ups
 
+A continuación se muestra la sección de los mockups que muestran el registro, siguiendo un orden que comienza en la página de bienvenida que luego lleva hacia el posible inicio de sesión o registro, en caso del registro Se deben llenar con todos los datos e información como estudiante, validar credenciales, documentos y finalmente acceder a uno de nuestros dos planes, sea el básico o el avanzado.
+
+<p align="center">
+  <img src="./assets/mokups/mockup1.jpg" alt="mockup1" width="800">
+</p>
+<p align="center">
+  <img src="./assets/mokups/mockup2.jpg" alt="mockup2" width="800">
+</p>
+
+
+Asimismo, en caso de olvidar la contraseña existe opción de recuperarla mediante su cambio a través del correo asociado que funcionará como validación. Se accede a este apartado presionando el la opción "olvidaste tu contraseña?" en el inicio de sesión inicial.
+
+<p align="center">
+  <img src="./assets/mokups/mockup3.jpg" alt="mockup3" width="800">
+</p>
+ A continuación se muestra la ventana principal que tiene todas las opciones de perfil, realizar un reclamo, consultar por los atneiores o lo que se enceuntran en trámite, teleconsulta, simulador de reembolso, prevenciones y recordatorios, y una sección de informativa.
+
+<p align="center">
+  <img src="./assets/mokups/mockup4.jpg" alt="mockup4" width="800">
+</p>
+
+
+
+En la sección de perfil se muestran opciones para editar la informacióm, actualizar documentos y objetos importantes para facilitar el reclamo. Se ver también el procedimiento de registro de objetos.
+
+
+ <p align="center">
+  <img src="./assets/mokups/mockup5.jpg" alt="mockup5" width="800">
+</p>
+
+<p align="center">
+  <img src="./assets/mokups/mockup6.jpg" alt="mockup6" width="800">
+</p>
+
+<p align="center">
+  <img src="./assets/mokups/mockup7.jpg" alt="mockup7" width="800">
+</p>
+
+De igual manera, dentro de la pantalla principal tenemos opciones como ver nuestro historial de reclamos y sus detalles, prevenciones y recordatorios por parte de la plataforma, la opción completa para reservar una teleconsulta y visualizar nuestros reclamos en curso.
+
+<p align="center">
+  <img src="./assets/mokups/mockup8.jpg" alt="mockup8" width="800">
+</p>
+
+<p align="center">
+  <img src="./assets/mokups/mockup9.jpg" alt="mockup9" width="800">
+</p>
+
+<p align="center">
+  <img src="./assets/mokups/mockup10.jpg" alt="mockup10" width="800">
+</p>
+
+<p align="center">
+  <img src="./assets/mokups/mockup11.jpg" alt="mockup11" width="800">
+</p>
+
+
+
+
 #### 4.4.4. Web Applications User Flow Diagrams
+
+
+##### inicio de sesión: 
+Como usuario quiero iniciar sesión usando mis credenciales
+<p align="center">
+  <img src="./assets/mokups/userFlows/userFlow1.jpg" alt="wireflow1" width="800">
+</p>
+
+##### registro de usuario:
+Como usuario quiero registrarme en la app con mis datos, acceder a un plan y registrar mi credencial
+
+<p align="center">
+  <img src="./assets/mokups/userFlows/userFlow2.jpg" alt="wireflow1" width="800">
+</p>
+
+##### recuperación de contraseña
+Como usuario quiero recuperar mi contraseña en caso de olvido
+
+<p align="center">
+  <img src="./assets/mokups/userFlows/userFlow3.jpg" alt="wireflow1" width="800">
+</p>
+
+
+
+##### edición de datos personales
+Como usuario quiero poder editar mis datos personales.
+
+<p align="center">
+  <img src="./assets/mokups/userFlows/userFlow4.jpg" alt="wireflow1" width="800">
+</p>
+
+##### actualización de documentos
+Como usuario quiero poder actualizar mi documentos personales
+
+<p align="center">
+  <img src="./assets/mokups/userFlows/userFlow5.jpg" alt="wireflow1" width="800">
+</p>
+
+##### registro de objetos protegidos
+Como usuario quiero poder agregar objetos de mi pertenencia para ser asegurados.
+
+<p align="center">
+  <img src="./assets/mokups/userFlows/userFlow6.jpg" alt="wireflow1" width="800">
+</p
+
+##### solicitud de teleconsulta
+Como usuario quiero poder solicitar una teleconsulta para recibir atención psicológica o médica.
+
+<p align="center">
+  <img src="./assets/mokups/userFlows/userFlow7.jpg" alt="wireflow1" width="800">
+</p>
+
+##### historial de reclamos
+Como usuario quiero poder revisar el historial de reclamos previamente ralizados
+
+
+<p align="center">
+  <img src="./assets/mokups/userFlows/userFlow10.jpg" alt="wireflow1" width="800">
+</p>
+
+##### prevenciones y recordatorios
+Como usuario quiero poder revisar y agregar mis recordatorios, así como recibir sugerencias de parte de la plataforma.
+
+
+<p align="center">
+  <img src="./assets/mokups/userFlows/userFlow9.jpg" alt="wireflow1" width="800">
+</p>
+
+##### reeclamos en curso
+Como usario quiero poder revisar los reclamos que tengo en curso y ver los detalles existentes
+<p align="center">
+  <img src="./assets/mokups/userFlows/userFlow8.jpg" alt="wireflow1" width="800">
+</p>
 
 ### 4.5. Web Applications Prototyping
 
@@ -1324,7 +1556,130 @@ Asimismo, en caso de olvidar la contraseña existe opción de recuperarla median
 
 #### 4.7.1. Class Diagrams
 
+<p align="center">
+  <img src="./assets/ClassDiagram.png" alt="User Persona 1" width="550">
+</p>
+
 #### 4.7.2. Class Dictionary
+
+### User
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Representa a un usuario genérico de la plataforma (base para Student y Parent). |
+| **Atributos**       | `id: int`, `name: String`, `email: String`, `password: String`          |
+| **Métodos**         | `login()`, `logout()`                                                   |
+| **Relaciones**      | Clase padre de **Student** y **Parent**; se asocia con Policy, Claim y Support. |
+
+---
+
+### Student
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Usuario principal (estudiante) que contrata pólizas, presenta reclamos y accede a servicios médicos. |
+| **Atributos**       | `universityId: String`                                                  |
+| **Métodos**         | `register()`, `startClaim()`                                            |
+| **Relaciones**      | Hereda de **User**, se relaciona con **Teleconsultation**.              |
+
+---
+
+### Parent
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Usuario secundario (padre/tutor) que supervisa y paga pólizas de los estudiantes. |
+| **Atributos**       | `relation: String`                                                      |
+| **Métodos**         | `viewPolicy()`, `payPolicy()`                                           |
+| **Relaciones**      | Hereda de **User**, se relaciona con **Payment**.                       |
+
+---
+
+### Policy
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Representa la póliza de seguro adquirida por el usuario.                |
+| **Atributos**       | `policyId: int`, `type: String`, `startDate: String`, `endDate: String` |
+| **Métodos**         | `renew()`, `cancel()`                                                   |
+| **Relaciones**      | Se asocia con **User**, incluye **Coverage**, y se relaciona con **Payment**. |
+
+---
+
+### Coverage
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Define cada cobertura incluida en una póliza (ej. gadgets, viaje, salud).|
+| **Atributos**       | `coverageId: int`, `description: String`, `amount: int`                 |
+| **Métodos**         | —                                                                       |
+| **Relaciones**      | Pertenece a una **Policy**.                                             |
+
+---
+
+### Claim
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Reclamo iniciado por un usuario para solicitar compensación.             |
+| **Atributos**       | `claimId: int`, `status: String`, `date: String`                        |
+| **Métodos**         | `submit()`, `updateStatus()`                                            |
+| **Relaciones**      | Se asocia con **User**, **Evidence**, **Adjuster** y **Notification**.  |
+
+---
+
+### Evidence
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Documentos o fotos que respaldan un reclamo.                            |
+| **Atributos**       | `evidenceId: int`, `fileUrl: String`, `type: String`                    |
+| **Métodos**         | —                                                                       |
+| **Relaciones**      | Pertenece a un **Claim**.                                               |
+
+---
+
+### Adjuster
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Profesional que revisa reclamos complejos.                              |
+| **Atributos**       | `adjusterId: int`, `name: String`                                       |
+| **Métodos**         | `reviewClaim()`                                                         |
+| **Relaciones**      | Interviene en **Claim**.                                                |
+
+---
+
+### Notification
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Notificaciones automáticas enviadas a los usuarios.                     |
+| **Atributos**       | `notifId: int`, `message: String`, `date: String`                       |
+| **Métodos**         | `send()`                                                                |
+| **Relaciones**      | Generadas desde **Claim**, **Teleconsultation** y otros eventos.        |
+
+---
+
+### Teleconsultation
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Servicio de consulta médica virtual.                                    |
+| **Atributos**       | `teleId: int`, `date: String`, `doctor: String`                         |
+| **Métodos**         | `schedule()`, `viewHistory()`                                           |
+| **Relaciones**      | Solicitadas por **Student**, generan **Notification**.                  |
+
+---
+
+### Payment
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Registro de pagos de pólizas o cambios de plan.                         |
+| **Atributos**       | `paymentId: int`, `amount: int`, `date: String`                         |
+| **Métodos**         | `process()`                                                             |
+| **Relaciones**      | Realizados por **Parent**, asociados a **Policy**.                      |
+
+---
+
+### Support
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Módulo de soporte (FAQ, contacto).                                      |
+| **Atributos**       | `faqId: int`, `question: String`, `answer: String`                      |
+| **Métodos**         | —                                                                       |
+| **Relaciones**      | Consultado por **User**.                                                |
+
 
 ### 4.8. Database Design
 
