@@ -1556,7 +1556,130 @@ Como usario quiero poder revisar los reclamos que tengo en curso y ver los detal
 
 #### 4.7.1. Class Diagrams
 
+<p align="center">
+  <img src="./assets/ClassDiagram.png" alt="User Persona 1" width="550">
+</p>
+
 #### 4.7.2. Class Dictionary
+
+### User
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Representa a un usuario genérico de la plataforma (base para Student y Parent). |
+| **Atributos**       | `id: int`, `name: String`, `email: String`, `password: String`          |
+| **Métodos**         | `login()`, `logout()`                                                   |
+| **Relaciones**      | Clase padre de **Student** y **Parent**; se asocia con Policy, Claim y Support. |
+
+---
+
+### Student
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Usuario principal (estudiante) que contrata pólizas, presenta reclamos y accede a servicios médicos. |
+| **Atributos**       | `universityId: String`                                                  |
+| **Métodos**         | `register()`, `startClaim()`                                            |
+| **Relaciones**      | Hereda de **User**, se relaciona con **Teleconsultation**.              |
+
+---
+
+### Parent
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Usuario secundario (padre/tutor) que supervisa y paga pólizas de los estudiantes. |
+| **Atributos**       | `relation: String`                                                      |
+| **Métodos**         | `viewPolicy()`, `payPolicy()`                                           |
+| **Relaciones**      | Hereda de **User**, se relaciona con **Payment**.                       |
+
+---
+
+### Policy
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Representa la póliza de seguro adquirida por el usuario.                |
+| **Atributos**       | `policyId: int`, `type: String`, `startDate: String`, `endDate: String` |
+| **Métodos**         | `renew()`, `cancel()`                                                   |
+| **Relaciones**      | Se asocia con **User**, incluye **Coverage**, y se relaciona con **Payment**. |
+
+---
+
+### Coverage
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Define cada cobertura incluida en una póliza (ej. gadgets, viaje, salud).|
+| **Atributos**       | `coverageId: int`, `description: String`, `amount: int`                 |
+| **Métodos**         | —                                                                       |
+| **Relaciones**      | Pertenece a una **Policy**.                                             |
+
+---
+
+### Claim
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Reclamo iniciado por un usuario para solicitar compensación.             |
+| **Atributos**       | `claimId: int`, `status: String`, `date: String`                        |
+| **Métodos**         | `submit()`, `updateStatus()`                                            |
+| **Relaciones**      | Se asocia con **User**, **Evidence**, **Adjuster** y **Notification**.  |
+
+---
+
+### Evidence
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Documentos o fotos que respaldan un reclamo.                            |
+| **Atributos**       | `evidenceId: int`, `fileUrl: String`, `type: String`                    |
+| **Métodos**         | —                                                                       |
+| **Relaciones**      | Pertenece a un **Claim**.                                               |
+
+---
+
+### Adjuster
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Profesional que revisa reclamos complejos.                              |
+| **Atributos**       | `adjusterId: int`, `name: String`                                       |
+| **Métodos**         | `reviewClaim()`                                                         |
+| **Relaciones**      | Interviene en **Claim**.                                                |
+
+---
+
+### Notification
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Notificaciones automáticas enviadas a los usuarios.                     |
+| **Atributos**       | `notifId: int`, `message: String`, `date: String`                       |
+| **Métodos**         | `send()`                                                                |
+| **Relaciones**      | Generadas desde **Claim**, **Teleconsultation** y otros eventos.        |
+
+---
+
+### Teleconsultation
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Servicio de consulta médica virtual.                                    |
+| **Atributos**       | `teleId: int`, `date: String`, `doctor: String`                         |
+| **Métodos**         | `schedule()`, `viewHistory()`                                           |
+| **Relaciones**      | Solicitadas por **Student**, generan **Notification**.                  |
+
+---
+
+### Payment
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Registro de pagos de pólizas o cambios de plan.                         |
+| **Atributos**       | `paymentId: int`, `amount: int`, `date: String`                         |
+| **Métodos**         | `process()`                                                             |
+| **Relaciones**      | Realizados por **Parent**, asociados a **Policy**.                      |
+
+---
+
+### Support
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Módulo de soporte (FAQ, contacto).                                      |
+| **Atributos**       | `faqId: int`, `question: String`, `answer: String`                      |
+| **Métodos**         | —                                                                       |
+| **Relaciones**      | Consultado por **User**.                                                |
+
 
 ### 4.8. Database Design
 
