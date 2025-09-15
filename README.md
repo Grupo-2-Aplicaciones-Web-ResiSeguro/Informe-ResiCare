@@ -1894,13 +1894,31 @@ Validación de código, pruebas unitarias y revisión de dependencias antes de d
 | Sprint n – 1 Review Summary         | (Resumen del Sprint anterior, en términos de resultados alcanzados a nivel de productos de software, opiniones de miembros y feedback de product owner.) | 
 | Sprint n – 1 Retrospective Summary  | (Resumen del Sprint anterior, en términos de opiniones de miembros del equipo sobre aciertos u oportunidades de mejora en su forma de trabajo)           | 
 | Sprint Goal & User Stories                                                                                                                                                                     | 
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Sprint n Goal                       | (Definir el Goal del Sprint n y la métrica de cumplimiento.)                                                                                             | 
 | Sprint n Velocity                   | (Definir el Velocity establecido para el Sprint n, es decir cuántos Story Points puede aceptar el equipo para este Sprint n.)                            | 
 | Sum of Story Points                 | (Colocar la suma de los Story Points para los User Stories que se están incluyendo en este Sprint n.)                                                    | 
 
-
 ##### 5.2.1.2. Aspect Leaders and Collaborators
+
+| Team Member                       | GitHub Username        | LI | RD | VP | NG | Ed | Ac | FQ | Tm | SM | GC |
+| :-------------------------------- | :--------------------- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
+| Hermoza Quispe, Jude Alessandro   | jude-quispe            |    |    |    |    |    |    |    |    |    |    |
+| Ríos Pacheco, Héctor Javier       | Khafna09               |    |    |    |    |    |    |    |    |    |    |
+| Choy Robles, Vanessa May Lang     | VMLCR                  |    |    |    |    |    |    |    |    |    |    |
+| Ramirez Escalante, Carlo Patricio | Carlo211               |    |    |    |    |    |    |    |    |    |    |
+| Pariona Lucas, Jose Manuel        | parionalucasjosemanuel |    |    |    |    |    |    |    |    |    |    | 
+
+Nota. 
+LI = Language & Internationalization
+RD = Responsive & Mobile Design
+VP = Value Proposition & Company Info
+Ng = Navigation: Header & Footer
+Ed = Editor Access & Redirection
+Ac = Accessibility (ARIA & Alt)
+FQ = FAQ & Legal Content
+Tm = Team & Social Media Integration
+SM = SEO & Meta
+GC = Gallery & Carousel
 
 ##### 5.2.1.3. Sprint Backlog 1
 
