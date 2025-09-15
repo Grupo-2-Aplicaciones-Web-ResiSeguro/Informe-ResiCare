@@ -1883,9 +1883,39 @@ Validación de código, pruebas unitarias y revisión de dependencias antes de d
 
 ##### 5.2.1.1. Sprint Planning 1
 
+| Sprint #                            | Sprint n                                                                                                                                                 | 
+| :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sprint Planning Background                                                                                                                                                                     |
+| Date                                | YYYY-MM-DD                                                                                                                                               | 
+| Time                                | HH:MM AM/PM                                                                                                                                              | 
+| Location                            | (Descripción de la ubicación de la reunión, física o virtual)                                                                                            | 
+| Prepared By                         | Jiménez Rosas, Arturo Eduardo                                                                                                                            | 
+| Attendees (to planning meeting)     | Jiménez Rosas, Arturo Eduardo / Rodríguez Peña, Jorge Andrés / …                                                                                         | 
+| Sprint n – 1 Review Summary         | (Resumen del Sprint anterior, en términos de resultados alcanzados a nivel de productos de software, opiniones de miembros y feedback de product owner.) | 
+| Sprint n – 1 Retrospective Summary  | (Resumen del Sprint anterior, en términos de opiniones de miembros del equipo sobre aciertos u oportunidades de mejora en su forma de trabajo)           | 
+| Sprint Goal & User Stories                                                                                                                                                                     | 
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sprint n Goal                       | (Definir el Goal del Sprint n y la métrica de cumplimiento.)                                                                                             | 
+| Sprint n Velocity                   | (Definir el Velocity establecido para el Sprint n, es decir cuántos Story Points puede aceptar el equipo para este Sprint n.)                            | 
+| Sum of Story Points                 | (Colocar la suma de los Story Points para los User Stories que se están incluyendo en este Sprint n.)                                                    | 
+
+
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 
 ##### 5.2.1.3. Sprint Backlog 1
+
+
+Sprint 1							
+User Story	Work-Item / Task						
+User Story Id	User Story Title	Task Id	Task Title	Description	Estimation (Hours)	Assigned To	Status
+
+| # Orden |  User Story Id  | Título                                            | Descripción                                                                                                                     |  Story Points (1/2/3/5/8) |
+| :------ | :-------------- | :------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------ | :-------------------------|
+
+
+https://trello.com/invite/b/68c60b3efa155e0e9894f3ac/ATTI6482172f02c299d15f2851befede5ae8F410C17A/sprint-backlog 
+
+
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
 
