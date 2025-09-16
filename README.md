@@ -196,7 +196,7 @@ Soy responsable, me gusta involucrarme activamente en los proyectos, aportar ide
 - Jude Alessandro Hermoza Quispe - u202318220 (Ingeniería de Software)
 
 <p align="center">
-    <img src="assets/integrantes/FotoJude.png" alt="foto-jude" width="170px"/>
+    <img src="assets/integrantes/FotoJude.jpg" alt="foto-jude" width="170px"/>
 </p>
 
 Soy una persona proactiva y comprometida con el trabajo en equipo. Me gusta aportar soluciones creativas, asumir retos y aprender constantemente. Valoro la comunicación clara y la organización para lograr los objetivos del proyecto de manera eficiente y colaborativa.
