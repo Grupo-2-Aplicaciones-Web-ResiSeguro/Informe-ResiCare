@@ -1883,20 +1883,20 @@ Validación de código, pruebas unitarias y revisión de dependencias antes de d
 
 ##### 5.2.1.1. Sprint Planning 1
 
-| Sprint #                            | Sprint 1                                                                                                                                                 | 
-| :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Sprint Planning Background                                                                                                                                                                     |
-| Date                                | YYYY-MM-DD                                                                                                                                               | 
-| Time                                | HH:MM AM/PM                                                                                                                                              | 
-| Location                            | (Descripción de la ubicación de la reunión, física o virtual)                                                                                            | 
-| Prepared By                         | Jiménez Rosas, Arturo Eduardo                                                                                                                            | 
-| Attendees (to planning meeting)     | Jiménez Rosas, Arturo Eduardo / Rodríguez Peña, Jorge Andrés / …                                                                                         | 
-| Sprint n – 1 Review Summary         | (Resumen del Sprint anterior, en términos de resultados alcanzados a nivel de productos de software, opiniones de miembros y feedback de product owner.) | 
-| Sprint n – 1 Retrospective Summary  | (Resumen del Sprint anterior, en términos de opiniones de miembros del equipo sobre aciertos u oportunidades de mejora en su forma de trabajo)           | 
-| Sprint Goal & User Stories                                                                                                                                                                     | 
-| Sprint n Goal                       | (Definir el Goal del Sprint n y la métrica de cumplimiento.)                                                                                             | 
-| Sprint n Velocity                   | (Definir el Velocity establecido para el Sprint n, es decir cuántos Story Points puede aceptar el equipo para este Sprint n.)                            | 
-| Sum of Story Points                 | (Colocar la suma de los Story Points para los User Stories que se están incluyendo en este Sprint n.)                                                    | 
+| Sprint #                            | Sprint 1                                                      | 
+| :---------------------------------- | :------------------------------------------------------------ |
+| Sprint Planning Background                                                                          |
+| Date                                | 2025-09-06                                                    | 
+| Time                                | 14:39 PM                                                      | 
+| Location                            | Virtual por medio de Whatsapp                                 | 
+| Prepared By                         | Hermoza Quispe, Jude Alessandro y Ríos Pacheco, Héctor Javier | 
+| Attendees (to planning meeting)     | Hermoza Quispe, Jude Alessandro y Ríos Pacheco, Héctor Javier | 
+| Sprint 1 Review Summary             | Trabajo finalizado de acuerdo a lo previsto                   | 
+| Sprint 1 Retrospective Summary      | Mejorar la organización para un correcto trabajo en grupo     | 
+| Sprint Goal & User Stories                                                                          | 
+| Sprint 1 Goal                       | Crear una plataforma de facil acceso eintuitivo               | 
+| Sprint 1 Velocity                   | 21                                                            | 
+| Sum of Story Points                 | 21                                                            | 
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 
@@ -1916,9 +1916,9 @@ Nota. LI = Language & Internationalization, RD = Responsive & Mobile Design, VP 
 | :--------- | :---------------------------------------------- | :--------------- | :------------------------------- | :--------------------------------------------------------- | :--------- | :----------- | :----- |
 | User Story |                                                 | Work-Item / Task |                                  |                                                            |            |              |        |
 | Id         | Title                                           | Id               | Title                            | Description                                                | Estimation | Assigned To  | Status |
-| US-20      | Ver resumen de beneficios (Landing)a            | WI-01            | Diseñar mockup beneficios        | Diseñar mockup de sección de beneficios (UI/UX)            | 4h         | ZZZZ         | To-do  |
-| US-20      | Ver resumen de beneficios (Landing)a            | WI-02            | Implementar sección beneficios   | Implementar sección en frontend                            | 5h         | ZZZZ         | To-do  |
-| US-20      | Ver resumen de beneficios (Landing)a            | WI-03            | Pruebas visualización beneficios | Pruebas de visualización en desktop/móvil                  | 2h         | ZZZZ         | To-do  |
+| US-20      | Ver resumen de beneficios (Landing)             | WI-01            | Diseñar mockup beneficios        | Diseñar mockup de sección de beneficios (UI/UX)            | 4h         | ZZZZ         | To-do  |
+| US-20      | Ver resumen de beneficios (Landing)             | WI-02            | Implementar sección beneficios   | Implementar sección en frontend                            | 5h         | ZZZZ         | To-do  |
+| US-20      | Ver resumen de beneficios (Landing)             | WI-03            | Pruebas visualización beneficios | Pruebas de visualización en desktop/móvil                  | 2h         | ZZZZ         | To-do  |
 | US-21      | Visualizar testimonios (Landing)                | WI-01            | Redactar testimonios             | Redactar testimonios (dummy data o entrevistas rápidas)    | 2h         | ZZZZ         | To-do  |
 | US-21      | Visualizar testimonios (Landing)                | WI-02            | Maquetar carrusel testimonios    | Maquetar carrusel o tarjetas de testimonios                | 4h         | ZZZZ         | To-do  |
 | US-21      | Visualizar testimonios (Landing)                | WI-03            | Validar usabilidad testimonios   | Validar usabilidad y comprensión de testimonios            | 2h         | ZZZZ         | To-do  |
