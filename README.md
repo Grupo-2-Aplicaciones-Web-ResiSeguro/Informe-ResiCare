@@ -1883,9 +1883,66 @@ Validación de código, pruebas unitarias y revisión de dependencias antes de d
 
 ##### 5.2.1.1. Sprint Planning 1
 
+| Sprint #                            | Sprint 1                                                                                                                                                 | 
+| :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sprint Planning Background                                                                                                                                                                     |
+| Date                                | YYYY-MM-DD                                                                                                                                               | 
+| Time                                | HH:MM AM/PM                                                                                                                                              | 
+| Location                            | (Descripción de la ubicación de la reunión, física o virtual)                                                                                            | 
+| Prepared By                         | Jiménez Rosas, Arturo Eduardo                                                                                                                            | 
+| Attendees (to planning meeting)     | Jiménez Rosas, Arturo Eduardo / Rodríguez Peña, Jorge Andrés / …                                                                                         | 
+| Sprint n – 1 Review Summary         | (Resumen del Sprint anterior, en términos de resultados alcanzados a nivel de productos de software, opiniones de miembros y feedback de product owner.) | 
+| Sprint n – 1 Retrospective Summary  | (Resumen del Sprint anterior, en términos de opiniones de miembros del equipo sobre aciertos u oportunidades de mejora en su forma de trabajo)           | 
+| Sprint Goal & User Stories                                                                                                                                                                     | 
+| Sprint n Goal                       | (Definir el Goal del Sprint n y la métrica de cumplimiento.)                                                                                             | 
+| Sprint n Velocity                   | (Definir el Velocity establecido para el Sprint n, es decir cuántos Story Points puede aceptar el equipo para este Sprint n.)                            | 
+| Sum of Story Points                 | (Colocar la suma de los Story Points para los User Stories que se están incluyendo en este Sprint n.)                                                    | 
+
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 
+| Team Member                       | GitHub Username        | LI | RD | VP | NG | Ed | Ac | FQ | Tm | SM | GC |
+| :-------------------------------- | :--------------------- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
+| Hermoza Quispe, Jude Alessandro   | jude-quispe            |    |    |    |    |    |    |    |    |    |    |
+| Ríos Pacheco, Héctor Javier       | Khafna09               |    |    |    |    |    |    |    |    |    |    |
+| Choy Robles, Vanessa May Lang     | VMLCR                  |    |    |    |    |    |    |    |    |    |    |
+| Ramirez Escalante, Carlo Patricio | Carlo211               |    |    |    |    |    |    |    |    |    |    |
+| Pariona Lucas, Jose Manuel        | parionalucasjosemanuel |    |    |    |    |    |    |    |    |    |    | 
+
+Nota. LI = Language & Internationalization, RD = Responsive & Mobile Design, VP = Value Proposition & Company Info, Ng = Navigation: Header & Footer, Ed = Editor Access & Redirection, Ac = Accessibility (ARIA & Alt), FQ = FAQ & Legal Content, Tm = Team & Social Media Integration, SM = SEO & Meta, GC = Gallery & Carousel.
+
 ##### 5.2.1.3. Sprint Backlog 1
+
+| Sprint #   |                                                 | Sprint 1         |                                  |                                                            |            |              |        |
+| :--------- | :---------------------------------------------- | :--------------- | :------------------------------- | :--------------------------------------------------------- | :--------- | :----------- | :----- |
+| User Story |                                                 | Work-Item / Task |                                  |                                                            |            |              |        |
+| Id         | Title                                           | Id               | Title                            | Description                                                | Estimation | Assigned To  | Status |
+| US-20      | Ver resumen de beneficios (Landing)a            | WI-01            | Diseñar mockup beneficios        | Diseñar mockup de sección de beneficios (UI/UX)            | 4h         | ZZZZ         | To-do  |
+| US-20      | Ver resumen de beneficios (Landing)a            | WI-02            | Implementar sección beneficios   | Implementar sección en frontend                            | 5h         | ZZZZ         | To-do  |
+| US-20      | Ver resumen de beneficios (Landing)a            | WI-03            | Pruebas visualización beneficios | Pruebas de visualización en desktop/móvil                  | 2h         | ZZZZ         | To-do  |
+| US-21      | Visualizar testimonios (Landing)                | WI-01            | Redactar testimonios             | Redactar testimonios (dummy data o entrevistas rápidas)    | 2h         | ZZZZ         | To-do  |
+| US-21      | Visualizar testimonios (Landing)                | WI-02            | Maquetar carrusel testimonios    | Maquetar carrusel o tarjetas de testimonios                | 4h         | ZZZZ         | To-do  |
+| US-21      | Visualizar testimonios (Landing)                | WI-03            | Validar usabilidad testimonios   | Validar usabilidad y comprensión de testimonios            | 2h         | ZZZZ         | To-do  |
+| US-23      | Conocer la propuesta de valor (Hero)            | WI-01            | Diseñar sección Hero             | Diseñar sección Hero con título/subtítulo/CTA              | 3h         | ZZZZ         | To-do  |
+| US-23      | Conocer la propuesta de valor (Hero)            | WI-02            | Implementar frontend Hero        | Implementar en frontend con scroll responsive              | 4h         | ZZZZ         | To-do  |
+| US-23      | Conocer la propuesta de valor (Hero)            | WI-03            | Pruebas accesibilidad Hero       | Pruebas de accesibilidad (contrast ratio, alt text)        | 2h         | ZZZZ         | To-do  |
+| US-24      | Navegar por beneficios (scroll y accesibilidad) | WI-01            | Implementar scroll anclas        | Implementar scroll automático con anclas                   | 3h         | ZZZZ         | To-do  |
+| US-24      | Navegar por beneficios (scroll y accesibilidad) | WI-02            | Configurar accesibilidad scroll  | Configurar accesibilidad (teclado, lectores de pantalla)   | 3h         | ZZZZ         | To-do  |
+| US-24      | Navegar por beneficios (scroll y accesibilidad) | WI-03            | Probar navegación móvil/tablet   | Pruebas de navegación en móvil/tablet                      | 2h         | ZZZZ         | To-do  |
+| US-25      | Barra de navegación con anclas                  | WI-01            | Diseñar navbar anclas            | Diseñar navbar con links a secciones                       | 3h         | ZZZZ         | To-do  |
+| US-25      | Barra de navegación con anclas                  | WI-02            | Implementar sticky navbar        | Implementar sticky navbar en frontend                      | 4h         | ZZZZ         | To-do  |
+| US-25      | Barra de navegación con anclas                  | WI-03            | Testear integración scroll       | Probar integración con scroll suave                        | 2h         | ZZZZ         | To-do  |
+| US-26      | Acceder al registro o inicio desde landing      | WI-01            | Crear botón CTA login/registro   | Crear botón CTA (Registro/Login)                           | 2h         | ZZZZ         | To-do  |
+| US-26      | Acceder al registro o inicio desde landing      | WI-02            | Conectar CTA con backend         | Conectar con formulario/microservicio de registro          | 4h         | ZZZZ         | To-do  |
+| US-26      | Acceder al registro o inicio desde landing      | WI-03            | Testear redirecciones landing    | Testear redirección en todos los navegadores               | 2h         | ZZZZ         | To-do  |
+| US-27      | Navegar desde el footer                         | WI-01            | Diseñar estructura footer        | Diseñar estructura del footer (links, contacto, políticas) | 3h         | ZZZZ         | To-do  |
+| US-27      | Navegar desde el footer                         | WI-02            | Implementar footer frontend      | Implementar footer en frontend                             | 4h         | ZZZZ         | To-do  |
+| US-27      | Navegar desde el footer                         | WI-03            | Verificar accesibilidad footer   | Verificar accesibilidad (teclado, screen readers)          | 2h         | ZZZZ         | To-do  |
+
+<p align="center">
+  <img src="./assets/sprintBacklog.png" alt="Sprint Backlog" width="800">
+</p>
+
+Link: https://trello.com/invite/b/68c60b3efa155e0e9894f3ac/ATTI6482172f02c299d15f2851befede5ae8F410C17A/sprint-backlog 
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
 
