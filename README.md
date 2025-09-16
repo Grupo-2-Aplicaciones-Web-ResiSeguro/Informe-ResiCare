@@ -1548,9 +1548,15 @@ Como usario quiero poder revisar los reclamos que tengo en curso y ver los detal
 
 #### 4.6.1. Software Architecture Context Diagrams
 
+<p align="center">
+  <img src="./assets/contextDiagram.png" alt="Context Diagram" width="800">
+</p>
+
 #### 4.6.2. Software Architecture Container Diagrams
 
+
 #### 4.6.3. Software Architecture Components Diagrams
+
 
 ### 4.7. Software Object-Oriented Design
 
