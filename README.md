@@ -530,6 +530,50 @@ Los principales incentivos para recomendar un seguro serían descuentos y priori
 | **Enlace**           | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c540_upc_edu_pe/EabXTgyOWTlDmy4fY5ZfLa8BjY3ckS8IgVy4XNyy6etPqw?e=hb6nmA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |  
 
 
+#### Entrevista 2
+
+<p align="center">
+  <img src="./assets/entrevistas/entrevista2.jpg" alt="entrevista1" width="400">
+</p>
+
+Leonardo es un estudiante universitario que vive fuera del campus. Considera su laptop (≈S/3,500) y otros dispositivos electrónicos imprescindibles para estudiar, por lo que prioriza su aseguramiento frente a robo y daños.
+
+Está dispuesto a pagar S/20–30 mensuales por una cobertura útil (mejor que un plan gratuito limitado). Prefiere un proceso de reclamo digital y sencillo (envío de fotos del equipo), con instrucciones claras y disponibilidad de soporte humano si la resolución automática falla.
+
+Tiempo de respuesta ideal: máximo 48 horas. Incentivo efectivo para recomendar: 1 mes gratis para el referido. Valora coberturas enfocadas en protección de gadgets y teleconsulta médica.
+
+| **Detalle**          | **Información**                                                                 |
+|----------------------|---------------------------------------------------------------------------------|
+| **Entrevistador**    | Héctor Javier Ríos Pacheco                                                      |
+| **Entrevistado**     | Leonardo Prieto Gordon                                                          |
+| **Edad**             | 20 años                                                                         |
+| **Inicio entrevista**| 0:02                                                                            |
+| **Duración**         | 4:20 minutos                                                                    |
+| **Enlace**           | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c540_upc_edu_pe/EU-7GbGCqEFDgN-ZPd86QcgBrL_jet3rgDkhh3ZfaEt6zA?e=OZB9Aj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |  
+
+#### Entrevista 3
+
+
+<p align="center">
+  <img src="./assets/entrevistas/entrevista3.jpg" alt="entrevista1" width="400">
+</p>
+
+
+Sebastián Rodríguez, 20 años. Valora su laptop (≈S/3,000) y su celular (≈S/1,500) como imprescindibles; ha pagado ≈S/200 por una reparación previa, lo que evidencia una necesidad real de cobertura.
+
+Se desplaza 4–5 veces por semana al campus en transporte público, por lo que da prioridad a coberturas que protejan dispositivos contra robo o daños durante los traslados. Prefiere un plan completo/avanzado (soporte + teleconsulta) antes que un plan básico limitado.
+
+Acepta un proceso de reclamo digital si es claro y rápido, pero requiere transparencia y la opción de interlocución con soporte humano si la resolución automática falla. Incentivo efectivo para recomendar: 1 mes de prueba gratis.
+
+| **Detalle**          | **Información**                                                                 |
+|----------------------|---------------------------------------------------------------------------------|
+| **Entrevistador**    | Héctor Javier Ríos Pacheco                                                      |
+| **Entrevistado**     | Leonardo Prieto Gordon                                                          |
+| **Edad**             | 20 años                                                                         |
+| **Inicio entrevista**| 0:03                                                                            |
+| **Duración**         | 4:35 minutos                                                                    |
+| **Enlace**           | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c540_upc_edu_pe/ESw6dllsNcBFtMMiqyhBmgEBGoFeKcQaMF0h5xJnec-8LQ?e=0xofgB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D| 
+
 
 #### 2.2.3. Análisis de entrevistas
 
