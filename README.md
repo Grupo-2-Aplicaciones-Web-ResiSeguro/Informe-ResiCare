@@ -1914,7 +1914,7 @@ Nota. LI = Language & Internationalization, RD = Responsive & Mobile Design, VP 
 
 | Sprint #                                                | Sprint 1                                                                                                                                   |
 | User Story                                              | Work-Item / Task                                                                                                                           |
-| Id    | Title                                           | Id    | Title                            | Description                                                | Estimation | Assigned To  | Status | (To-do / In Process / To Review / Done)
+| Id    | Title                                           | Id    | Title                            | Description                                                | Estimation | Assigned To  | Status |
 | :---- | :---------------------------------------------- | :---- | :------------------------------- | :--------------------------------------------------------- | :--------- | :----------- | :----- |
 | US-20 | Ver resumen de beneficios (Landing)a            | WI-01 | Diseñar mockup beneficios        | Diseñar mockup de sección de beneficios (UI/UX)            | 4h         | ZZZZ         | To-do  |
 | US-20 | Ver resumen de beneficios (Landing)a            | WI-02 | Implementar sección beneficios   | Implementar sección en frontend                            | 5h         | ZZZZ         | To-do  |
