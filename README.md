@@ -530,6 +530,50 @@ Los principales incentivos para recomendar un seguro serían descuentos y priori
 | **Enlace**           | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c540_upc_edu_pe/EabXTgyOWTlDmy4fY5ZfLa8BjY3ckS8IgVy4XNyy6etPqw?e=hb6nmA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |  
 
 
+#### Entrevista 2
+
+<p align="center">
+  <img src="./assets/entrevistas/entrevista2.jpg" alt="entrevista1" width="400">
+</p>
+
+Leonardo es un estudiante universitario que vive fuera del campus. Considera su laptop (≈S/3,500) y otros dispositivos electrónicos imprescindibles para estudiar, por lo que prioriza su aseguramiento frente a robo y daños.
+
+Está dispuesto a pagar S/20–30 mensuales por una cobertura útil (mejor que un plan gratuito limitado). Prefiere un proceso de reclamo digital y sencillo (envío de fotos del equipo), con instrucciones claras y disponibilidad de soporte humano si la resolución automática falla.
+
+Tiempo de respuesta ideal: máximo 48 horas. Incentivo efectivo para recomendar: 1 mes gratis para el referido. Valora coberturas enfocadas en protección de gadgets y teleconsulta médica.
+
+| **Detalle**          | **Información**                                                                 |
+|----------------------|---------------------------------------------------------------------------------|
+| **Entrevistador**    | Héctor Javier Ríos Pacheco                                                      |
+| **Entrevistado**     | Leonardo Prieto Gordon                                                          |
+| **Edad**             | 20 años                                                                         |
+| **Inicio entrevista**| 0:02                                                                            |
+| **Duración**         | 4:20 minutos                                                                    |
+| **Enlace**           | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c540_upc_edu_pe/EU-7GbGCqEFDgN-ZPd86QcgBrL_jet3rgDkhh3ZfaEt6zA?e=OZB9Aj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |  
+
+#### Entrevista 3
+
+
+<p align="center">
+  <img src="./assets/entrevistas/entrevista3.jpg" alt="entrevista1" width="400">
+</p>
+
+
+Sebastián Rodríguez, 20 años. Valora su laptop (≈S/3,000) y su celular (≈S/1,500) como imprescindibles; ha pagado ≈S/200 por una reparación previa, lo que evidencia una necesidad real de cobertura.
+
+Se desplaza 4–5 veces por semana al campus en transporte público, por lo que da prioridad a coberturas que protejan dispositivos contra robo o daños durante los traslados. Prefiere un plan completo/avanzado (soporte + teleconsulta) antes que un plan básico limitado.
+
+Acepta un proceso de reclamo digital si es claro y rápido, pero requiere transparencia y la opción de interlocución con soporte humano si la resolución automática falla. Incentivo efectivo para recomendar: 1 mes de prueba gratis.
+
+| **Detalle**          | **Información**                                                                 |
+|----------------------|---------------------------------------------------------------------------------|
+| **Entrevistador**    | Héctor Javier Ríos Pacheco                                                      |
+| **Entrevistado**     | Leonardo Prieto Gordon                                                          |
+| **Edad**             | 20 años                                                                         |
+| **Inicio entrevista**| 0:03                                                                            |
+| **Duración**         | 4:35 minutos                                                                    |
+| **Enlace**           | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c540_upc_edu_pe/ESw6dllsNcBFtMMiqyhBmgEBGoFeKcQaMF0h5xJnec-8LQ?e=0xofgB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D| 
+
 
 #### 2.2.3. Análisis de entrevistas
 
@@ -750,30 +794,30 @@ A continuación se muestra el To-Be Scenario Mapping para María (estudiante) y 
 | US-17           | Reporte rápido de pérdida en traslado             | Como usuario quiero reportar pérdida de equipaje en traslado con prueba y ubicación aproximada.                                | Escenario 1: **Given** pérdida menor, **When** subo foto/recibo y ubicación, **Then** se genera reclamo con prioridad estándar. <br><br> Escenario 2: **Given** falta comprobante de viaje, **When** intento reclamar, **Then** solicito datos de transporte y ticket.                                                              | EP-05                     |
 | US-18           | Notificaciones push y correo                      | Como usuario quiero recibir notificaciones sobre estados de reclamos, pagos y consultas.                                       | Escenario 1: **Given** notificaciones habilitadas, **When** reclamo cambia de estado, **Then** recibo push y mail. <br><br> Escenario 2: **Given** las deshabilito, **When** cambia el estado, **Then** sólo registra el historial en la app.                                                                                       | EP-06                     |
 | US-19           | Compartir póliza con padres/tutores               | Como usuario quiero compartir mi póliza con mi padre/tutor para que estén informados.                                          | Escenario 1: **Given** deseo compartir, **When** ingreso email y permiso, **Then** tutor recibe enlace seguro con acceso de solo lectura. <br><br> Escenario 2: **Given** revoco permiso, **When** lo confirmo, **Then** el tutor pierde acceso y se registra la acción.                                                            | EP-01                     |
-| US-20           | Ver resumen de beneficios (Landing)               | Como visitante, quiero ver los beneficios que ofrece la app para entender cómo me puede ayudar.                                | Escenario 1: **Given** accedo landing, **When** hago scroll a beneficios, **Then** visualizo tarjetas con puntos destacados. <br><br> Escenario 2: **Given** ancho reducido, **When** veo sección, **Then** tarjetas se apilan y siguen legibles.                                                                                   | EP-12                     |
-| US-21           | Visualizar testimonios (Landing)                  | Como visitante, quiero leer testimonios de usuarios para confiar en la app.                                                    | Escenario 1: **Given** llego a testimonios, **When** visualizo citas, **Then** veo nombre, foto y experiencia. <br><br> Escenario 2: **Given** no hay testimonios, **When** navego la sección, **Then** muestro testimonios de ejemplo y CTA "Enviar testimonio".                                                                   | EP-12                     |
-| US-22           | Acceder desde distintos dispositivos (responsive) | Como visitante, quiero que la landing se vea bien en cualquier dispositivo para explorarla cómodamente.                        | Escenario 1: **Given** acceso desde móvil, **When** cargo landing, **Then** diseño se adapta. <br><br> Escenario 2: **Given** acceso desde desktop, **When** navego, **Then** elementos se ajustan y menú es visible.                                                                                                               | EP-13                     |
-| US-23           | Conocer la propuesta de valor (Hero)              | Como visitante, quiero entender rápidamente qué hace la app y cómo me beneficia.                                               | Escenario 1: **Given** ingreso landing, **When** veo hero, **Then** título y subtítulo claros. <br><br> Escenario 2: **Given** vengo desde campaña con UTM, **When** llego al hero, **Then** muestro mensaje o oferta personalizada.                                                                                                | EP-12                     |
-| US-24           | Navegar por beneficios (scroll y accesibilidad)   | Como visitante, quiero navegar por la sección de beneficios para conocer ventajas.                                             | Escenario 1: **Given** hago scroll, **When** paso por bloques, **Then** veo texto e imágenes explicativas. <br><br> Escenario 2: **Given** uso teclado, **When** navego con TAB, **Then** foco recorre correctamente los bloques.                                                                                                   | EP-12                     |
-| US-25           | Barra de navegación con anclas                    | Como visitante, quiero usar la barra superior para moverme a secciones de la landing rápidamente.                              | Escenario 1: **Given** clic en link del menú, **When** apunta a sección interna, **Then** hago scroll hacia ella. <br><br> Escenario 2: **Given** link externo, **When** clic, **Then** se abre en nueva pestaña si corresponde.                                                                                                    | EP-12                     |
-| US-26           | Acceder al registro o inicio desde landing        | Como visitante, quiero iniciar sesión o registrarme desde la barra superior.                                                   | Escenario 1: **Given** hago clic "Iniciar sesión", **When** clic, **Then** redirige a login. <br><br> Escenario 2: **Given** clic en "Registrarse", **When** clic, **Then** redirige a formulario de registro.                                                                                                                      | EP-14                     |
-| US-27           | Navegar desde el footer                           | Como visitante, quiero que los enlaces del pie de página funcionen para acceder a info adicional.                              | Escenario 1: **Given** clic en enlace de footer, **When** está configurado, **Then** redirige a sección/página correcta. <br><br> Escenario 2: **Given** enlace externo, **When** clic, **Then** abre en nueva pestaña y registra evento.                                                                                           | EP-12                     |
-| US-28           | Selector de idioma en landing                     | Como visitante internacional, quiero cambiar idioma de la landing para entender la información.                                | Escenario 1: **Given** en landing, **When** uso selector de idioma, **Then** contenido se traduce. <br><br> Escenario 2: **Given** cadena sin traducción, **When** cambio idioma, **Then** muestro fallback y registro la cadena faltante.                                                                                          | EP-12                     |
+| US-20           | Ver resumen de beneficios (Landing)               | Como visitante, quiero ver los beneficios que ofrece la app para entender cómo me puede ayudar.                                | Escenario 1: **Given** accedo landing, **When** hago scroll a beneficios, **Then** visualizo tarjetas con puntos destacados. <br><br> Escenario 2: **Given** ancho reducido, **When** veo sección, **Then** tarjetas se apilan y siguen legibles.                                                                                   | EP-11                     |
+| US-21           | Visualizar testimonios (Landing)                  | Como visitante, quiero leer testimonios de usuarios para confiar en la app.                                                    | Escenario 1: **Given** llego a testimonios, **When** visualizo citas, **Then** veo nombre, foto y experiencia. <br><br> Escenario 2: **Given** no hay testimonios, **When** navego la sección, **Then** muestro testimonios de ejemplo y CTA "Enviar testimonio".                                                                   | EP-11                     |
+| US-22           | Acceder desde distintos dispositivos (responsive) | Como visitante, quiero que la landing se vea bien en cualquier dispositivo para explorarla cómodamente.                        | Escenario 1: **Given** acceso desde móvil, **When** cargo landing, **Then** diseño se adapta. <br><br> Escenario 2: **Given** acceso desde desktop, **When** navego, **Then** elementos se ajustan y menú es visible.                                                                                                               | EP-12                     |
+| US-23           | Conocer la propuesta de valor (Hero)              | Como visitante, quiero entender rápidamente qué hace la app y cómo me beneficia.                                               | Escenario 1: **Given** ingreso landing, **When** veo hero, **Then** título y subtítulo claros. <br><br> Escenario 2: **Given** vengo desde campaña con UTM, **When** llego al hero, **Then** muestro mensaje o oferta personalizada.                                                                                                | EP-11                     |
+| US-24           | Navegar por beneficios (scroll y accesibilidad)   | Como visitante, quiero navegar por la sección de beneficios para conocer ventajas.                                             | Escenario 1: **Given** hago scroll, **When** paso por bloques, **Then** veo texto e imágenes explicativas. <br><br> Escenario 2: **Given** uso teclado, **When** navego con TAB, **Then** foco recorre correctamente los bloques.                                                                                                   | EP-11                     |
+| US-25           | Barra de navegación con anclas                    | Como visitante, quiero usar la barra superior para moverme a secciones de la landing rápidamente.                              | Escenario 1: **Given** clic en link del menú, **When** apunta a sección interna, **Then** hago scroll hacia ella. <br><br> Escenario 2: **Given** link externo, **When** clic, **Then** se abre en nueva pestaña si corresponde.                                                                                                    | EP-11                     |
+| US-26           | Acceder al registro o inicio desde landing        | Como visitante, quiero iniciar sesión o registrarme desde la barra superior.                                                   | Escenario 1: **Given** hago clic "Iniciar sesión", **When** clic, **Then** redirige a login. <br><br> Escenario 2: **Given** clic en "Registrarse", **When** clic, **Then** redirige a formulario de registro.                                                                                                                      | EP-12                     |
+| US-27           | Navegar desde el footer                           | Como visitante, quiero que los enlaces del pie de página funcionen para acceder a info adicional.                              | Escenario 1: **Given** clic en enlace de footer, **When** está configurado, **Then** redirige a sección/página correcta. <br><br> Escenario 2: **Given** enlace externo, **When** clic, **Then** abre en nueva pestaña y registra evento.                                                                                           | EP-11                     |
+| US-28           | Selector de idioma en landing                     | Como visitante internacional, quiero cambiar idioma de la landing para entender la información.                                | Escenario 1: **Given** en landing, **When** uso selector de idioma, **Then** contenido se traduce. <br><br> Escenario 2: **Given** cadena sin traducción, **When** cambio idioma, **Then** muestro fallback y registro la cadena faltante.                                                                                          | EP-11                     |
 | US-29           | FAQ y centro de ayuda                             | Como usuario quiero acceso rápido a preguntas frecuentes y tutoriales para usar la app.                                        | Escenario 1: **Given** busco cómo presentar reclamo, **When** voy a FAQ, **Then** encuentro guía paso a paso. <br><br> Escenario 2: **Given** no encuentro respuesta, **When** envío consulta, **Then** recibo acuse y tiempo estimado de respuesta.                                                                                | EP-08                     |
 | US-30           | Descargar certificado de cobertura                | Como usuario quiero descargar un certificado de cobertura para trámites o acreditación.                                        | Escenario 1: **Given** póliza activa, **When** solicito certificado, **Then** puedo descargar PDF con vigencia y cobertura. <br><br> Escenario 2: **Given** póliza inactiva, **When** intento descargar, **Then** muestro motivo y opción de renovación.                                                                            | EP-02                     |
 | US-31           | Compartir evidencia múltiple                      | Como usuario quiero subir varias fotos o archivos en un reclamo para respaldar mi caso.                                        | Escenario 1: **Given** tengo 3 fotos, **When** las subo, **Then** todas se asocian al reclamo y se muestran en galería. <br><br> Escenario 2: **Given** archivo excede límite, **When** intento subir, **Then** muestro error y guío a reducir tamaño.                                                                              | EP-03                     |
 | US-32           | Chat histórico por reclamo                        | Como usuario quiero ver el historial de mensajes relacionados a cada reclamo.                                                  | Escenario 1: **Given** reclamo en curso, **When** abro conversación, **Then** veo todos los mensajes y timestamps. <br><br> Escenario 2: **Given** reclamo cerrado, **When** reviso chat, **Then** sigue disponible en modo lectura.                                                                                                | EP-03                     |
 | US-33           | Evaluación al cierre del reclamo                  | Como usuario quiero calificar la resolución del reclamo para retroalimentación.                                                | Escenario 1: **Given** reclamo cerrado, **When** recibo encuesta, **Then** puedo calificar y dejar comentario. <br><br> Escenario 2: **Given** no respondo, **When** pasan X días, **Then** envío recordatorio opcional.                                                                                                            | EP-03                     |
-| TS-01           | Arquitectura backend modular y simple             | Definir arquitectura backend modular (monolito modular o microservicios ligeros) para usuarios, reclamos y pagos.              | Escenario 1: **Given** inicio de proyecto, **When** implementamos módulos, **Then** cada módulo expone API y tests básicos. <br><br> Escenario 2: **Given** necesidad de ampliar, **When** se añade módulo, **Then** integraciones están desacopladas y documentadas.                                                               | EP-10                     |
-| TS-02           | Modelado de base de datos relacional (Postgres)   | Diseñar esquema de BD para usuarios, pólizas, reclamos, evidencias y auditoría con migraciones.                                | Escenario 1: **Given** nuevo reclamo, **When** lo guardo, **Then** se crean registros con referencias y fecha. <br><br> Escenario 2: **Given** cambio en esquema, **When** ejecuto migración, **Then** datos previos permanecen íntegros.                                                                                           | EP-10                     |
-| TS-03           | API REST documentada y protegida (OpenAPI)        | Desarrollar endpoints REST para auth, póliza, reclamos y evidencias con documentación mínima.                                  | Escenario 1: **Given** petición autenticada, **When** solicito póliza, **Then** API responde con datos. <br><br> Escenario 2: **Given** petición sin token, **When** intento acceso, **Then** retorno 401.                                                                                                                          | EP-10                     |
+| TS-01           | Arquitectura backend modular y simple             | Definir arquitectura backend modular (monolito modular o microservicios ligeros) para usuarios, reclamos y pagos.              | Escenario 1: **Given** inicio de proyecto, **When** implementamos módulos, **Then** cada módulo expone API y tests básicos. <br><br> Escenario 2: **Given** necesidad de ampliar, **When** se añade módulo, **Then** integraciones están desacopladas y documentadas.                                                               | EP-09                     |
+| TS-02           | Modelado de base de datos relacional (Postgres)   | Diseñar esquema de BD para usuarios, pólizas, reclamos, evidencias y auditoría con migraciones.                                | Escenario 1: **Given** nuevo reclamo, **When** lo guardo, **Then** se crean registros con referencias y fecha. <br><br> Escenario 2: **Given** cambio en esquema, **When** ejecuto migración, **Then** datos previos permanecen íntegros.                                                                                           | EP-09                     |
+| TS-03           | API REST documentada y protegida (OpenAPI)        | Desarrollar endpoints REST para auth, póliza, reclamos y evidencias con documentación mínima.                                  | Escenario 1: **Given** petición autenticada, **When** solicito póliza, **Then** API responde con datos. <br><br> Escenario 2: **Given** petición sin token, **When** intento acceso, **Then** retorno 401.                                                                                                                          | EP-09                     |
 | TS-04           | Integración SSO universitario (opcional)          | Implementar opción para autenticación con credenciales universitarias (SSO) si la universidad lo permite.                      | Escenario 1: **Given** universidad soporta SSO, **When** usuario elige SSO, **Then** login se realiza vía proveedor y datos se importan. <br><br> Escenario 2: **Given** universidad no soporta SSO, **When** usuario intenta, **Then** muestro fallback a registro normal.                                                         | EP-01                     |
-| TS-05           | Pipeline CI básico (lint + tests)                 | Configurar pipeline en GitHub Actions/GitLab CI que corra lint y tests unitarios antes de merge.                               | Escenario 1: **Given** PR abierto, **When** pipeline corre, **Then** reporta resultados y bloquea merge si falla. <br><br> Escenario 2: **Given** tests fallan intermitentemente, **When** detecto flakiness, **Then** añado retries o analizo causas.                                                                              | EP-11                     |
-| TS-06           | Almacenamiento de imágenes con URLs firmadas      | Implementar almacenamiento (S3/MinIO) con URLs firmadas y expiración para evidencias.                                          | Escenario 1: **Given** usuario sube foto, **When** proceso subida, **Then** guardo con metadata y devuelvo URL firmada. <br><br> Escenario 2: **Given** URL expirada, **When** intento acceder, **Then** acceso denegado y opción de re-subida.                                                                                     | EP-10                     |
+| TS-05           | Pipeline CI básico (lint + tests)                 | Configurar pipeline en GitHub Actions/GitLab CI que corra lint y tests unitarios antes de merge.                               | Escenario 1: **Given** PR abierto, **When** pipeline corre, **Then** reporta resultados y bloquea merge si falla. <br><br> Escenario 2: **Given** tests fallan intermitentemente, **When** detecto flakiness, **Then** añado retries o analizo causas.                                                                              | EP-10                     |
+| TS-06           | Almacenamiento de imágenes con URLs firmadas      | Implementar almacenamiento (S3/MinIO) con URLs firmadas y expiración para evidencias.                                          | Escenario 1: **Given** usuario sube foto, **When** proceso subida, **Then** guardo con metadata y devuelvo URL firmada. <br><br> Escenario 2: **Given** URL expirada, **When** intento acceder, **Then** acceso denegado y opción de re-subida.                                                                                     | EP-09                     |
 | TS-07           | Motor de reglas liviano (JSON)                    | Implementar motor de reglas JSON para validaciones automáticas (fecha, tamaño imagen, metadatos).                              | Escenario 1: **Given** regla en JSON, **When** llega reclamo, **Then** evalúo y guardo resultado. <br><br> Escenario 2: **Given** modifico regla en admin, **When** la guardo, **Then** aplica a nuevos reclamos sin deploy.                                                                                                        | EP-03                     |
 | TS-08           | Sistema de notificaciones básico                  | Implementar servicio para push/email con templates que se conecte a eventos de la app.                                         | Escenario 1: **Given** evento de cambio de estado en reclamo, **When** ocurre, **Then** envío notificación al usuario. <br><br> Escenario 2: **Given** usuario deshabilita notificaciones, **When** evento ocurre, **Then** sólo registro en panel.                                                                                 | EP-06                     |
 | TS-09           | Pagos: integración simple y seguras (webhooks)    | Integrar pasarela de pagos con tokenización y manejo de webhooks básicos.                                                      | Escenario 1: **Given** pago exitoso, **When** recibo webhook firmado, **Then** actualizo estado de suscripción. <br><br> Escenario 2: **Given** webhook inválido/fraudulento, **When** firma no coincide, **Then** rechazo y logueo evento.                                                                                         | EP-02                     |
-| TS-10           | Logs y monitoreo accesible                        | Implementar logging estructurado y métricas básicas (errores, latencia) con dashboard simple.                                  | Escenario 1: **Given** error 500, **When** ocurre, **Then** logueo y alerta al equipo. <br><br> Escenario 2: **Given** latencia mayor umbral, **When** detecto, **Then** alerta y registro para post-mortem.                                                                                                                        | EP-11                     |
+| TS-10           | Logs y monitoreo accesible                        | Implementar logging estructurado y métricas básicas (errores, latencia) con dashboard simple.                                  | Escenario 1: **Given** error 500, **When** ocurre, **Then** logueo y alerta al equipo. <br><br> Escenario 2: **Given** latencia mayor umbral, **When** detecto, **Then** alerta y registro para post-mortem.                                                                                                                        | EP-10                     |
 
 #### EP-01 — Autenticación y Perfil
 | Story ID | Título                                   |
@@ -839,7 +883,7 @@ A continuación se muestra el To-Be Scenario Mapping para María (estudiante) y 
 |   US-29  | FAQ y centro de ayuda |
 
 
-#### EP-10 — Infraestructura Backend y Datos
+#### EP-09 — Infraestructura Backend y Datos
 | Story ID | Título                                          |
 | :------: | :---------------------------------------------- |
 |   TS-01  | Arquitectura backend modular y simple           |
@@ -847,14 +891,14 @@ A continuación se muestra el To-Be Scenario Mapping para María (estudiante) y 
 |   TS-06  | Almacenamiento de imágenes con URLs firmadas    |
 
 
-#### EP-11 — CI / Logs / Monitoreo
+#### EP-10 — CI / Logs / Monitoreo
 | Story ID | Título                            |
 | :------: | :-------------------------------- |
 |   TS-05  | Pipeline CI básico (lint + tests) |
 |   TS-10  | Logs y monitoreo accesible        |
 
 
-#### EP-12 — Landing / Marketing / Productos
+#### EP-11 — Landing / Marketing / Productos
 | Story ID | Título                                          |
 | :------: | :---------------------------------------------- |
 |   US-20  | Ver resumen de beneficios (Landing)             |
@@ -862,18 +906,16 @@ A continuación se muestra el To-Be Scenario Mapping para María (estudiante) y 
 |   US-23  | Conocer la propuesta de valor (Hero)            |
 |   US-24  | Navegar por beneficios (scroll y accesibilidad) |
 |   US-25  | Barra de navegación con anclas                  |
+|   US-26  | Acceder al registro o inicio desde landing      |
 |   US-27  | Navegar desde el footer                         |
-|   US-28  | Selector de idioma en landing                   |
 
 
-#### EP-13 — Responsive / Internacionalización (App & Landing)
+#### EP-12 — Responsive / Internacionalización (App & Landing)
 
-| Story ID | Título                                                                    |
-| :------: | :------------------------------------------------------------------------ |
-|   US-22  | Acceder desde distintos dispositivos (responsive)                         |
-|   US-23  | Conocer la propuesta de valor (Hero)                                      |
-|   US-28  | Selector de idioma en landing                                             |
-|  US-23 | Multi-idioma (app) — (Nota: la app y landing comparten ámbitos de idioma) |
+| Story ID | Título                                            |
+| :------: | :------------------------------------------------ |
+|   US-22  | Acceder desde distintos dispositivos (responsive) |
+|   US-28  | Selector de idioma en landing                     |
 
 ### 3.3. Impact Mapping
 A continuación se visualiza el **Impact Map** del proyecto **ResiCare**, donde se muestra la relación entre el *Business Goal* definido, los **User Personas** identificados, los **Impactos** esperados en su comportamiento, los **Deliverables** que como negocio digital podemos ofrecer y las **User Stories** asociadas que permitirán implementar las funcionalidades necesarias en la aplicación web y la landing page. Este mapa busca asegurar la alineación entre los objetivos estratégicos y el desarrollo de la solución digital.
@@ -1304,13 +1346,245 @@ Asimismo, en caso de olvidar la contraseña existe opción de recuperarla median
 
 
 
+En la sección de perfil se muestran opciones para editar la informacióm, actualizar documentos y objetos importantes para facilitar el reclamo. Se ver también el procedimiento de registro de objetos.
 
+
+ <p align="center">
+  <img src="./assets/wireframes/wireframe6.jpg" alt="wireframe6" width="800">
+</p>
+
+De igual manera, dentro de la pantalla principal tenemos opciones como ver nuestro historial de reclamos y sus detalles, prevenciones y recordatorios por parte de la plataforma, la opción completa para reservar una teleconsulta y visualizar nuestros reclamos en curso.
+
+<p align="center">
+  <img src="./assets/wireframes/wireframe7.jpg" alt="wireframe7" width="800">
+</p>
+
+Esta es la opción de registrar un nuevo reclamo, donde se sigue un procedimiento asignando cada una de las oopciones para ello.
+
+<p align="center">
+  <img src="./assets/wireframes/wireframe8.jpg" alt="wireframe8" width="800">
+</p>
+
+
+También contamos con una calculadora, este es un simulador del reembolso en caso de registrar un reclamo
+
+<p align="center">
+  <img src="./assets/wireframes/wireframe9.jpg" alt="wireframe9" width="800">
+</p>
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
+##### inicio de sesión: 
+Como usuario quiero iniciar sesión usando mis credenciales
+<p align="center">
+  <img src="./assets/wireframes/wireflows/Diapositiva1.JPG" alt="wireflow1" width="800">
+</p>
+
+##### recuperación de contraseña
+Como usuario quiero recuperar mi contraseña en caso de olvido
+
+<p align="center">
+  <img src="./assets/wireframes/wireflows/Diapositiva2.JPG" alt="wireflow2" width="800">
+</p>
+
+##### registro de usuario
+Como usuarios quiero registrarme usando mis datos, credenciales universitarios y eligiendo mi plan de seguro.
+
+<p align="center">
+  <img src="./assets/wireframes/wireflows/Diapositiva3.JPG" alt="wireflow3" width="800">
+</p>
+
+##### edición de datos personales
+Como usuario quiero poder editar mis datos personales.
+
+<p align="center">
+  <img src="./assets/wireframes/wireflows/Diapositiva4.JPG" alt="wireflow4" width="800">
+</p>
+
+##### actualización de documentos
+Como usuario quiero poder actualizar mi documentos personales
+
+<p align="center">
+  <img src="./assets/wireframes/wireflows/Diapositiva5.JPG" alt="wireflow5" width="800">
+</p>
+
+##### registro de objetos protegidos
+Como usuario quiero poder agregar objetos de mi pertenencia para ser asegurados.
+
+<p align="center">
+  <img src="./assets/wireframes/wireflows/Diapositiva6.JPG" alt="wireflow6" width="800">
+</p>
+
+##### solicitud de teleconsulta
+Como usuario quiero poder solicitar una teleconsulta para recibir atención psicológica o médica.
+
+<p align="center">
+  <img src="./assets/wireframes/wireflows/Diapositiva8.JPG" alt="wireflow8" width="800">
+</p>
+
+##### historial de reclamos
+Como usuario quiero poder revisar el historial de reclamos previamente ralizados
+
+
+<p align="center">
+  <img src="./assets/wireframes/wireflows/Diapositiva9.JPG" alt="wireflow9" width="800">
+</p>
+
+##### prevenciones y recordatorios
+Como usuario quiero poder revisar y agregar mis recordatorios, así como recibir sugerencias de parte de la plataforma.
+
+
+<p align="center">
+  <img src="./assets/wireframes/wireflows/Diapositiva10.JPG" alt="wireflow10" width="800">
+</p>
+
+##### reeclamos en curso
+Como usario quiero poder revisar los reclamos que tengo en curso y ver los detalles existentes
+
+
+<p align="center">
+  <img src="./assets/wireframes/wireflows/Diapositiva11.JPG" alt="wireflow11" width="800">
+</p>
+
+
+
+
+
 #### 4.4.3. Web Applications Mock-ups
 
+A continuación se muestra la sección de los mockups que muestran el registro, siguiendo un orden que comienza en la página de bienvenida que luego lleva hacia el posible inicio de sesión o registro, en caso del registro Se deben llenar con todos los datos e información como estudiante, validar credenciales, documentos y finalmente acceder a uno de nuestros dos planes, sea el básico o el avanzado.
+
+<p align="center">
+  <img src="./assets/mokups/mockup1.jpg" alt="mockup1" width="800">
+</p>
+<p align="center">
+  <img src="./assets/mokups/mockup2.jpg" alt="mockup2" width="800">
+</p>
+
+
+Asimismo, en caso de olvidar la contraseña existe opción de recuperarla mediante su cambio a través del correo asociado que funcionará como validación. Se accede a este apartado presionando el la opción "olvidaste tu contraseña?" en el inicio de sesión inicial.
+
+<p align="center">
+  <img src="./assets/mokups/mockup3.jpg" alt="mockup3" width="800">
+</p>
+ A continuación se muestra la ventana principal que tiene todas las opciones de perfil, realizar un reclamo, consultar por los atneiores o lo que se enceuntran en trámite, teleconsulta, simulador de reembolso, prevenciones y recordatorios, y una sección de informativa.
+
+<p align="center">
+  <img src="./assets/mokups/mockup4.jpg" alt="mockup4" width="800">
+</p>
+
+
+
+En la sección de perfil se muestran opciones para editar la informacióm, actualizar documentos y objetos importantes para facilitar el reclamo. Se ver también el procedimiento de registro de objetos.
+
+
+ <p align="center">
+  <img src="./assets/mokups/mockup5.jpg" alt="mockup5" width="800">
+</p>
+
+<p align="center">
+  <img src="./assets/mokups/mockup6.jpg" alt="mockup6" width="800">
+</p>
+
+<p align="center">
+  <img src="./assets/mokups/mockup7.jpg" alt="mockup7" width="800">
+</p>
+
+De igual manera, dentro de la pantalla principal tenemos opciones como ver nuestro historial de reclamos y sus detalles, prevenciones y recordatorios por parte de la plataforma, la opción completa para reservar una teleconsulta y visualizar nuestros reclamos en curso.
+
+<p align="center">
+  <img src="./assets/mokups/mockup8.jpg" alt="mockup8" width="800">
+</p>
+
+<p align="center">
+  <img src="./assets/mokups/mockup9.jpg" alt="mockup9" width="800">
+</p>
+
+<p align="center">
+  <img src="./assets/mokups/mockup10.jpg" alt="mockup10" width="800">
+</p>
+
+<p align="center">
+  <img src="./assets/mokups/mockup11.jpg" alt="mockup11" width="800">
+</p>
+
+
+
+
 #### 4.4.4. Web Applications User Flow Diagrams
+
+
+##### inicio de sesión: 
+Como usuario quiero iniciar sesión usando mis credenciales
+<p align="center">
+  <img src="./assets/mokups/userFlows/userFlow1.jpg" alt="wireflow1" width="800">
+</p>
+
+##### registro de usuario:
+Como usuario quiero registrarme en la app con mis datos, acceder a un plan y registrar mi credencial
+
+<p align="center">
+  <img src="./assets/mokups/userFlows/userFlow2.jpg" alt="wireflow1" width="800">
+</p>
+
+##### recuperación de contraseña
+Como usuario quiero recuperar mi contraseña en caso de olvido
+
+<p align="center">
+  <img src="./assets/mokups/userFlows/userFlow3.jpg" alt="wireflow1" width="800">
+</p>
+
+
+
+##### edición de datos personales
+Como usuario quiero poder editar mis datos personales.
+
+<p align="center">
+  <img src="./assets/mokups/userFlows/userFlow4.jpg" alt="wireflow1" width="800">
+</p>
+
+##### actualización de documentos
+Como usuario quiero poder actualizar mi documentos personales
+
+<p align="center">
+  <img src="./assets/mokups/userFlows/userFlow5.jpg" alt="wireflow1" width="800">
+</p>
+
+##### registro de objetos protegidos
+Como usuario quiero poder agregar objetos de mi pertenencia para ser asegurados.
+
+<p align="center">
+  <img src="./assets/mokups/userFlows/userFlow6.jpg" alt="wireflow1" width="800">
+</p
+
+##### solicitud de teleconsulta
+Como usuario quiero poder solicitar una teleconsulta para recibir atención psicológica o médica.
+
+<p align="center">
+  <img src="./assets/mokups/userFlows/userFlow7.jpg" alt="wireflow1" width="800">
+</p>
+
+##### historial de reclamos
+Como usuario quiero poder revisar el historial de reclamos previamente ralizados
+
+
+<p align="center">
+  <img src="./assets/mokups/userFlows/userFlow10.jpg" alt="wireflow1" width="800">
+</p>
+
+##### prevenciones y recordatorios
+Como usuario quiero poder revisar y agregar mis recordatorios, así como recibir sugerencias de parte de la plataforma.
+
+
+<p align="center">
+  <img src="./assets/mokups/userFlows/userFlow9.jpg" alt="wireflow1" width="800">
+</p>
+
+##### reeclamos en curso
+Como usario quiero poder revisar los reclamos que tengo en curso y ver los detalles existentes
+<p align="center">
+  <img src="./assets/mokups/userFlows/userFlow8.jpg" alt="wireflow1" width="800">
+</p>
 
 ### 4.5. Web Applications Prototyping
 
@@ -1326,7 +1600,130 @@ Asimismo, en caso de olvidar la contraseña existe opción de recuperarla median
 
 #### 4.7.1. Class Diagrams
 
+<p align="center">
+  <img src="./assets/ClassDiagram.png" alt="User Persona 1" width="550">
+</p>
+
 #### 4.7.2. Class Dictionary
+
+### User
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Representa a un usuario genérico de la plataforma (base para Student y Parent). |
+| **Atributos**       | `id: int`, `name: String`, `email: String`, `password: String`          |
+| **Métodos**         | `login()`, `logout()`                                                   |
+| **Relaciones**      | Clase padre de **Student** y **Parent**; se asocia con Policy, Claim y Support. |
+
+---
+
+### Student
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Usuario principal (estudiante) que contrata pólizas, presenta reclamos y accede a servicios médicos. |
+| **Atributos**       | `universityId: String`                                                  |
+| **Métodos**         | `register()`, `startClaim()`                                            |
+| **Relaciones**      | Hereda de **User**, se relaciona con **Teleconsultation**.              |
+
+---
+
+### Parent
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Usuario secundario (padre/tutor) que supervisa y paga pólizas de los estudiantes. |
+| **Atributos**       | `relation: String`                                                      |
+| **Métodos**         | `viewPolicy()`, `payPolicy()`                                           |
+| **Relaciones**      | Hereda de **User**, se relaciona con **Payment**.                       |
+
+---
+
+### Policy
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Representa la póliza de seguro adquirida por el usuario.                |
+| **Atributos**       | `policyId: int`, `type: String`, `startDate: String`, `endDate: String` |
+| **Métodos**         | `renew()`, `cancel()`                                                   |
+| **Relaciones**      | Se asocia con **User**, incluye **Coverage**, y se relaciona con **Payment**. |
+
+---
+
+### Coverage
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Define cada cobertura incluida en una póliza (ej. gadgets, viaje, salud).|
+| **Atributos**       | `coverageId: int`, `description: String`, `amount: int`                 |
+| **Métodos**         | —                                                                       |
+| **Relaciones**      | Pertenece a una **Policy**.                                             |
+
+---
+
+### Claim
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Reclamo iniciado por un usuario para solicitar compensación.             |
+| **Atributos**       | `claimId: int`, `status: String`, `date: String`                        |
+| **Métodos**         | `submit()`, `updateStatus()`                                            |
+| **Relaciones**      | Se asocia con **User**, **Evidence**, **Adjuster** y **Notification**.  |
+
+---
+
+### Evidence
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Documentos o fotos que respaldan un reclamo.                            |
+| **Atributos**       | `evidenceId: int`, `fileUrl: String`, `type: String`                    |
+| **Métodos**         | —                                                                       |
+| **Relaciones**      | Pertenece a un **Claim**.                                               |
+
+---
+
+### Adjuster
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Profesional que revisa reclamos complejos.                              |
+| **Atributos**       | `adjusterId: int`, `name: String`                                       |
+| **Métodos**         | `reviewClaim()`                                                         |
+| **Relaciones**      | Interviene en **Claim**.                                                |
+
+---
+
+### Notification
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Notificaciones automáticas enviadas a los usuarios.                     |
+| **Atributos**       | `notifId: int`, `message: String`, `date: String`                       |
+| **Métodos**         | `send()`                                                                |
+| **Relaciones**      | Generadas desde **Claim**, **Teleconsultation** y otros eventos.        |
+
+---
+
+### Teleconsultation
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Servicio de consulta médica virtual.                                    |
+| **Atributos**       | `teleId: int`, `date: String`, `doctor: String`                         |
+| **Métodos**         | `schedule()`, `viewHistory()`                                           |
+| **Relaciones**      | Solicitadas por **Student**, generan **Notification**.                  |
+
+---
+
+### Payment
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Registro de pagos de pólizas o cambios de plan.                         |
+| **Atributos**       | `paymentId: int`, `amount: int`, `date: String`                         |
+| **Métodos**         | `process()`                                                             |
+| **Relaciones**      | Realizados por **Parent**, asociados a **Policy**.                      |
+
+---
+
+### Support
+| Elemento        | Descripción                                                                 |
+|-----------------|-----------------------------------------------------------------------------|
+| **Responsabilidad** | Módulo de soporte (FAQ, contacto).                                      |
+| **Atributos**       | `faqId: int`, `question: String`, `answer: String`                      |
+| **Métodos**         | —                                                                       |
+| **Relaciones**      | Consultado por **User**.                                                |
+
 
 ### 4.8. Database Design
 
@@ -1529,10 +1926,66 @@ Validación de código, pruebas unitarias y revisión de dependencias antes de d
 #### 5.2.1. Sprint 1
 
 ##### 5.2.1.1. Sprint Planning 1
+En el Sprint 1, el equipo se enfocó en establecer las bases de nuestra presencia digital construyendo la Landing Page de ResiCare. Durante este ciclo de dos semanas, definimos y entregamos las secciones clave (hero, características, formulario de contacto, navegación fija y diseño responsive). 
+
+
+
+| Campo                                 | Detalle                                                                                                                                                                                      |
+|---------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint #**                          | Sprint 1                                                                                                                                                                                     |
+| **Date**                              | 08-09-2025                                                                                                                                                                                   |
+| **Time**                              | 12:00 PM                                                                                                                                                                                     |
+| **Location**                          | Virtual – Discord                                                                                                                                                                            |
+| **Prepared By**                       | Héctor Ríos                                                                                                                                                                            |
+| **Attendees (to planning meeting)**   | Carlo Ramirez , José Pariona, Vanessa Choy, Héctor Ríos, Jude Hermoza                                                                                     |
+| **Sprint n-1 Review Summary**         | Este es el primer Sprint, por lo que este campo aún no es aplicable                                                                                                                         |
+| **Sprint n-1 Retrospective Summary**  | Este es el primer Sprint, por lo que este campo aún no es aplicable                                                                                                                         |
+| **Sprint 1 Goal**                     | Nuestro enfoque está en desarrollar e implementar una landing page responsiva y accesible que presente nuestra solución de forma clara a usuarios potenciales. Creemos que aporta confianza de nuestro producto y mejora la experiencia de los visitantes, facilitando su primer contacto con nuestra propuesta de solución. Se confirmará cuando la página esté publicada en producción y validemos el interés mediante el análisis de visitas al cierre del Sprint. |
+| **Sprint 1 Velocity**                 | Nuestro equipo puede aceptar hasta 19 story points          |
+| **Sum of Story Points**               | La suma de Story Points es 27 |
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 
+En este Sprint el equipo se enfocó en construir la Landing Page de ResiCare, cubriendo desde el encabezado inicial hasta la lógica de navegación y la adaptabilidad móvil. Para garantizar responsabilidad clara y comunicación efectiva, cada User Story fue asignada a un líder y a colaboradores clave, basados en el análisis de los commits realizados.
+
+| Team Member (Last Name, First Name)          | GitHub Username | Diseño visual y UX del Hero Section | Desarrollo del Formulario de contacto | Adaptación responsive para dispositivos móviles | Diseño y funcionalidad del Header fijo | Implementación de la sección de Características principales |
+|----------------------------------------------|-----------------|---------------------------------------|-----------------------------------------|-------------------------------------------------|----------------------------------------|----------------------------------------------------------------|
+| Hermoza Quispe, Jude Alessandro            | JvynnDev     |  C                                    |      L                                  |                                                |                                       |                                                               |
+| Choy Robles, Vanessa May Lang                | VMLCR        |                                      |        C                                |                L                                |                                       |                                                               |
+| Ramirez Escalante, Carlo Patricio               | Carlo211       | L                                     |                                        |                                                |                                       |                                                               |
+| Pariona Lucas, Jose Manuel    | parionalucasjosemanuel           |                                      |                                        |                                                |        L                               |                                                               |
+| Rios Pacheco, Hector Javier                  | Khafna09        |                                      |                                        |                                                |                C                       |                                                       L        |
+
+
+
 ##### 5.2.1.3. Sprint Backlog 1
+
+
+El objetivo principal del Sprint 1 es desarrollar y desplegar una landing page que permita mostrar los aspectos clave del proyecto a los usuarios, garantizando una experiencia de navegación básica y funcionalidades esenciales como la visualización de beneficios, planes de suscripción y reseñas. Para este sprint, el equipo se ha organizado en tareas detalladas, siguiendo las historias de usuario, y se ha asignado el trabajo de forma equitativa para cumplir con los tiempos estimados.
+
+
+
+| **User Story** | **Work-Item / Task** |        |                                   |                                                                          | **Estimation (Hours)** | **Assigned to** | **Status** |
+| -------------- | -------------------- | ------ | --------------------------------- | ------------------------------------------------------------------------ | ---------------------- | --------------- | ---------- |
+| **ID**         | **Title**            | **Id** | **Title**                         | **Description**                                                          |                        |                 |            |
+| US-20          | Ver resumen de beneficios (Landing) | W-01   | Diseñar sección de beneficios     | Crear el layout de la sección "Beneficios" con cards y jerarquía visual. | 2                      | Vanessa         | Done       |
+| US-20          | Ver resumen de beneficios (Landing) | W-02   | Implementar contenido y CTAs      | Añadir textos, iconografía (ej. "Conoce más") en la sección.      | 2                      | Héctor          | Done       |
+| US-21          | Visualizar testimonios (Landing)   | W-03   | Diseñar cards de testimonios      | Diseñar componente de tarjetas de testimonio. | 1.5                    | Jude            | Done       |
+| US-21          | Visualizar testimonios (Landing)   | W-04   | Integrar testimonios  | Mostrar los testimonmios | 1.5                  | Carlo           | Done       |
+| US-22          | Acceder desde distintos dispositivos (responsive) | W-05 | Maquetar responsive (breakpoints) | Definir y maquetar breakpoints mobile/tablet/desktop para landing.       | 2                      | José            | Done       |
+| US-23          | Conocer la propuesta de valor (Hero) | W-07   | Diseñar hero principal            | Crear headline, subhead, imagen.             | 1                      | Héctor          | Done       |
+| US-25          | Barra de navegación con anclas | W-11   | Diseñar navbar con anclas          | Diseñar barra superior con logo, links ancla y versión móvil.            | 1                      | Vanessa         | Done       |
+| US-25          | Barra de navegación con anclas | W-12   | Implementar comportamiento sticky/responsive | Hacer navbar sticky, transición al hacer scroll y menú mobile (hamburger). | 1                   | Carlo          | Done       |
+| US-27          | Navegar desde el footer           | W-13   | Diseñar footer con enlaces        | Crear pie de página con secciones, enlaces y microcopy legal.            | 1                      | Jude            | Done       |
+| US-28          | Selector de idioma en landing     | W-15   | Diseñar selector de idioma UI     | Diseñar selector (icono).         | 1.5                    | José            | Done       |
+| US-28          | Selector de idioma en landing     | W-16   | Implementar cambio de idioma      | Conectar textos (i18n) y hacer pruebas de cambio instantáneo.            | 1.5                    | Jude         | Done       |
+
+
+<p align="center">
+  <img src="./assets/sprintBacklog.png" alt="Sprint Backlog" width="800">
+</p>
+
+Link: https://trello.com/invite/b/68c60b3efa155e0e9894f3ac/ATTI6482172f02c299d15f2851befede5ae8F410C17A/sprint-backlog 
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
 
