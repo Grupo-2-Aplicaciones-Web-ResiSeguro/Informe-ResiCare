@@ -1593,14 +1593,36 @@ Como usario quiero poder revisar los reclamos que tengo en curso y ver los detal
 #### 4.6.1. Software Architecture Context Diagrams
 
 <p align="center">
-  <img src="./assets/contextDiagram.png" alt="Context Diagram" width="800">
+  <img src="./assets/diagramResiCareSystemContext.png" alt="Diagram ResiCare System Context" width="800">
 </p>
 
 #### 4.6.2. Software Architecture Container Diagrams
 
+<p align="center">
+  <img src="./assets/diagramResiCareContainer.png" alt="Diagram ResiCare Container" width="800">
+</p>
 
 #### 4.6.3. Software Architecture Components Diagrams
 
+<p align="center">
+  <img src="./assets/diagramResiCarecartComponent.png" alt="Diagram ResiCare cartComponent" width="800">
+</p>
+
+<p align="center">
+  <img src="./assets/diagramResiCareclaimsComponent.png" alt="Diagram ResiCare claimsComponent" width="800">
+</p>
+
+<p align="center">
+  <img src="./assets/diagramResiCarenotificationComponent.png" alt="Diagram ResiCare notificationComponent" width="800">
+</p>
+
+<p align="center">
+  <img src="./assets/diagramResiCarepaymentComponent.png" alt="Diagram ResiCare paymentComponent" width="800">
+</p>
+
+<p align="center">
+  <img src="./assets/diagramResiCareuserComponent.png" alt="Diagram ResiCare userComponent" width="800">
+</p>
 
 ### 4.7. Software Object-Oriented Design
 
