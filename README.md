@@ -1592,9 +1592,51 @@ Como usario quiero poder revisar los reclamos que tengo en curso y ver los detal
 
 #### 4.6.1. Software Architecture Context Diagrams
 
+En este diagrama se presenta una vista general del sistema dentro de su entorno. Muestra cómo los principales usuarios interactúan con la plataforma.
+El estudiante es el actor principal: consulta información, contrata pólizas, gestiona reclamos y recibe notificaciones.
+El vendedor utiliza el sistema para administrar convenios y consultar reportes.
+El visitante anónimo accede únicamente a la Landing Page para explorar beneficios antes de registrarse.
+Asimismo, se identifican sistemas externos clave como el Email System (para envíos de correos), Wallet API (pagos), Storage System (almacenamiento de evidencias) y el Recommendation System (motor de sugerencias).
+
+<p align="center">
+  <img src="./assets/diagramResiCareSystemContext.png" alt="Diagram ResiCare System Context" width="800">
+</p>
+
 #### 4.6.2. Software Architecture Container Diagrams
 
+En este diagrama se descompone a ResiCare en aplicaciones, bases de datos y bounded contexts. Se enfatiza la separación en contextos delimitados, lo que facilita la evolución independiente de cada módulo, minimiza el acoplamiento y refleja el lenguaje ubicuo del dominio.
+API Gateway centraliza las solicitudes y distribuye el tráfico hacia los Bounded Contexts.
+Cada bounded context se apoya en una base de datos independiente, promoviendo un diseño desacoplado y escalable.
+
+<p align="center">
+  <img src="./assets/diagramResiCareContainer.png" alt="Diagram ResiCare Container" width="800">
+</p>
+
 #### 4.6.3. Software Architecture Components Diagrams
+
+En estos diagramas se muestran el desglose interno de cada bounded context.
+La arquitectura interna sigue principios de arquitectura hexagonal (Adaptadores de entrada, Lógica de negocio, Adaptadores de salida)
+Esto asegura una separación clara de responsabilidades, fomenta la reutilización y permite la sustitución de proveedores externos con bajo impacto en la lógica central.
+
+<p align="center">
+  <img src="./assets/diagramResiCarecartComponent.png" alt="Diagram ResiCare cartComponent" width="500">
+</p>
+
+<p align="center">
+  <img src="./assets/diagramResiCareclaimsComponent.png" alt="Diagram ResiCare claimsComponent" width="500">
+</p>
+
+<p align="center">
+  <img src="./assets/diagramResiCarenotificationComponent.png" alt="Diagram ResiCare notificationComponent" width="500">
+</p>
+
+<p align="center">
+  <img src="./assets/diagramResiCarepaymentComponent.png" alt="Diagram ResiCare paymentComponent" width="500">
+</p>
+
+<p align="center">
+  <img src="./assets/diagramResiCareuserComponent.png" alt="Diagram ResiCare userComponent" width="500">
+</p>
 
 ### 4.7. Software Object-Oriented Design
 
