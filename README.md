@@ -42,7 +42,33 @@
 ## Registro de Versiones del Informe
 | Versión | Fecha       | Autor(es)     | Descripción de modificación                                                                                                                                                                                                                                                                                                                                                                                           |
 |---------|-------------|----------|-----------------|
-| 0.1     |   |             |           |
+| 0.1     |  18/09/2025 |      Jude Alessandro Hermoza Quispe, Héctor Javier Ríos Pacheco, Vanessa May Lang Choy Robles, Carlo Patricio Ramirez Escalante, Jose Manuel Pariona Lucas | 
+Landing Page.  
+Registro de Versiones del Informe 
+Project Report Collaboration Insights 
+Contenido 
+Student Outcome 
+Capítulo I: Introducción 
+Capítulo II: Requirements Elicitation & Analysis. 
+Capítulo III: Requirements Specification.  
+Capítulo IV: Product Design.  
+Capítulo V: Product Implementation, Validation & Deployment. 
+5.1. Software Configuration Management. 
+5.1.1. Software Development Environment Configuration. 
+5.1.2. Source Code Management. 
+5.1.3. Source Code Style Guide & Conventions. 
+5.1.4. Software Deployment Configuration.  
+5.2. Landing Page, Services & Applications Implementation. 
+5.2.1. Sprint 1 
+5.2.1.1. Sprint Planning 1.
+5.2.1.2.  Aspect Leaders and Collaborators. 
+5.2.1.3. Sprint Backlog 1. 
+5.2.1.4. Development Evidence for Sprint Review.
+5.2.1.5. Execution Evidence for Sprint Review. 
+5.2.1.6. Services Documentation Evidence for Sprint Review. 
+5.2.1.7. Software Deployment Evidence for Sprint Review. 
+5.2.1.8. Team Collaboration Insights during Sprint. 
+Avance de Conclusiones, Bibliografía y Anexos. |
 
 ## Project Report Collaboration Insights  
 
@@ -165,7 +191,9 @@ que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Ou
 
 | Criterio específico | Acciones Realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Jose Manuel Pariona Lucas**<br> **TB1**<br>- Capítulo IV: Product Design<br>   - 4.1. Style Guidelines <br>   - 4.1.1. General Style Guidelines<br>   - 4.1.2. Web Style Guidelines<br>   - 4.2. Information Architecture<br>       - Organization Systems<br>       - Labeling Systems<br>       - SEO Tags and Meta Tags<br>       - Searching Systems<br>       - Navigation Systems<br>   - 4.3. Landing Page UI Design<br>       - Wireframe<br>       - Mock-up<br>- Partes de Capítulo IV y V<br>- Despliegue de la primera versión del Landing Page | TB1: En esta etapa, los integrantes asumieron roles de liderazgo compartidos, lo que permitió coordinar las tareas de manera equitativa. La toma de decisiones se realizó de forma colectiva, logrando un equilibrio en las responsabilidades y garantizando que todos los aportes fueran considerados.|
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Jose Manuel Pariona Lucas**<br> **TB1**<br>- Capítulo IV: Product Design<br>   - 4.1. Style Guidelines <br>   - 4.1.1. General Style Guidelines<br>   - 4.1.2. Web Style Guidelines<br>   - 4.2. Information Architecture<br>       - Organization Systems<br>       - Labeling Systems<br>       - SEO Tags and Meta Tags<br>       - Searching Systems<br>       - Navigation Systems<br>   - 4.3. Landing Page UI Design<br>       - Wireframe<br>       - Mock-up<br>- Partes de Capítulo IV y V<br>- Despliegue de la primera versión del Landing Page  **Vanessa May Lang Choy Robles**<br> **TB1**<br> - 4.6. Domain-Driven Software Architecture - 4.6.1. Software Architecture Context Diagrams - 4.6.2. Software Architecture Container Diagrams - 4.6.3. Software Architecture Components Diagrams - 2.3.3. User Journey Mapping - 2.3.4. Empathy Mapping - 2.3.5. As-is Scenario Mapping
+
+| TB1: En esta etapa, los integrantes asumieron roles de liderazgo compartidos, lo que permitió coordinar las tareas de manera equitativa. La toma de decisiones se realizó de forma colectiva, logrando un equilibrio en las responsabilidades y garantizando que todos los aportes fueran considerados.|
 | Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Jose Manuel Pariona Lucas**<br> **TB1**<br>- Capítulo IV: Product Design<br>   - 4.1. Style Guidelines <br>   - 4.1.1. General Style Guidelines<br>   - 4.1.2. Web Style Guidelines<br>   - 4.2. Information Architecture<br>       - Organization Systems<br>       - Labeling Systems<br>       - SEO Tags and Meta Tags<br>       - Searching Systems<br>       - Navigation Systems<br>   - 4.3. Landing Page UI Design<br>       - Wireframe<br>       - Mock-up<br>- Partes de Capítulo IV y V<br>- Despliegue de la primera versión del Landing Page | TB1: Durante el desarrollo, se fomentó un ambiente participativo en el que cada miembro pudo aportar libremente sus ideas. Se definieron metas claras y se distribuyeron las actividades de forma organizada, lo que facilitó la planificación y el cumplimiento de los objetivos establecidos en el plazo acordado. |
 
 
