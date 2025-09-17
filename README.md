@@ -827,6 +827,10 @@ Este será el lenguaje común utilizado en la aplicación ResiCare, asegurando q
 
 #### 4.8.1. Database Diagram
 
+<p align="center">
+  <img src="./assets/dbdiagram.png" alt="User Persona 1" width="550">
+</p>
+
 ## Capítulo V: Product Implementation, Validation & Deployment
 
 ### 5.1. Software Configuration Management
