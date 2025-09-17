@@ -196,7 +196,7 @@ Soy responsable, me gusta involucrarme activamente en los proyectos, aportar ide
 - Jude Alessandro Hermoza Quispe - u202318220 (Ingeniería de Software)
 
 <p align="center">
-    <img src="assets/integrantes/FotoJude.png" alt="foto-jude" width="170px"/>
+    <img src="assets/integrantes/FotoJude.jpg" alt="foto-jude" width="170px"/>
 </p>
 
 Soy una persona proactiva y comprometida con el trabajo en equipo. Me gusta aportar soluciones creativas, asumir retos y aprender constantemente. Valoro la comunicación clara y la organización para lograr los objetivos del proyecto de manera eficiente y colaborativa.
@@ -529,6 +529,50 @@ Los principales incentivos para recomendar un seguro serían descuentos y priori
 | **Duración**         | 4:04 minutos                                                                    |
 | **Enlace**           | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c540_upc_edu_pe/EabXTgyOWTlDmy4fY5ZfLa8BjY3ckS8IgVy4XNyy6etPqw?e=hb6nmA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |  
 
+
+#### Entrevista 2
+
+<p align="center">
+  <img src="./assets/entrevistas/entrevista2.jpg" alt="entrevista1" width="400">
+</p>
+
+Leonardo es un estudiante universitario que vive fuera del campus. Considera su laptop (≈S/3,500) y otros dispositivos electrónicos imprescindibles para estudiar, por lo que prioriza su aseguramiento frente a robo y daños.
+
+Está dispuesto a pagar S/20–30 mensuales por una cobertura útil (mejor que un plan gratuito limitado). Prefiere un proceso de reclamo digital y sencillo (envío de fotos del equipo), con instrucciones claras y disponibilidad de soporte humano si la resolución automática falla.
+
+Tiempo de respuesta ideal: máximo 48 horas. Incentivo efectivo para recomendar: 1 mes gratis para el referido. Valora coberturas enfocadas en protección de gadgets y teleconsulta médica.
+
+| **Detalle**          | **Información**                                                                 |
+|----------------------|---------------------------------------------------------------------------------|
+| **Entrevistador**    | Héctor Javier Ríos Pacheco                                                      |
+| **Entrevistado**     | Leonardo Prieto Gordon                                                          |
+| **Edad**             | 20 años                                                                         |
+| **Inicio entrevista**| 0:02                                                                            |
+| **Duración**         | 4:20 minutos                                                                    |
+| **Enlace**           | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c540_upc_edu_pe/EU-7GbGCqEFDgN-ZPd86QcgBrL_jet3rgDkhh3ZfaEt6zA?e=OZB9Aj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |  
+
+#### Entrevista 3
+
+
+<p align="center">
+  <img src="./assets/entrevistas/entrevista3.jpg" alt="entrevista1" width="400">
+</p>
+
+
+Sebastián Rodríguez, 20 años. Valora su laptop (≈S/3,000) y su celular (≈S/1,500) como imprescindibles; ha pagado ≈S/200 por una reparación previa, lo que evidencia una necesidad real de cobertura.
+
+Se desplaza 4–5 veces por semana al campus en transporte público, por lo que da prioridad a coberturas que protejan dispositivos contra robo o daños durante los traslados. Prefiere un plan completo/avanzado (soporte + teleconsulta) antes que un plan básico limitado.
+
+Acepta un proceso de reclamo digital si es claro y rápido, pero requiere transparencia y la opción de interlocución con soporte humano si la resolución automática falla. Incentivo efectivo para recomendar: 1 mes de prueba gratis.
+
+| **Detalle**          | **Información**                                                                 |
+|----------------------|---------------------------------------------------------------------------------|
+| **Entrevistador**    | Héctor Javier Ríos Pacheco                                                      |
+| **Entrevistado**     | Leonardo Prieto Gordon                                                          |
+| **Edad**             | 20 años                                                                         |
+| **Inicio entrevista**| 0:03                                                                            |
+| **Duración**         | 4:35 minutos                                                                    |
+| **Enlace**           | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c540_upc_edu_pe/ESw6dllsNcBFtMMiqyhBmgEBGoFeKcQaMF0h5xJnec-8LQ?e=0xofgB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D| 
 
 
 #### 2.2.3. Análisis de entrevistas
@@ -1333,49 +1377,49 @@ También contamos con una calculadora, este es un simulador del reembolso en cas
 ##### inicio de sesión: 
 Como usuario quiero iniciar sesión usando mis credenciales
 <p align="center">
-  <img src="./assets/wireframes/wireflows/Diapositiva1.jpg" alt="wireflow1" width="800">
+  <img src="./assets/wireframes/wireflows/Diapositiva1.JPG" alt="wireflow1" width="800">
 </p>
 
 ##### recuperación de contraseña
 Como usuario quiero recuperar mi contraseña en caso de olvido
 
 <p align="center">
-  <img src="./assets/wireframes/wireflows/Diapositiva2.jpg" alt="wireflow2" width="800">
+  <img src="./assets/wireframes/wireflows/Diapositiva2.JPG" alt="wireflow2" width="800">
 </p>
 
 ##### registro de usuario
 Como usuarios quiero registrarme usando mis datos, credenciales universitarios y eligiendo mi plan de seguro.
 
 <p align="center">
-  <img src="./assets/wireframes/wireflows/Diapositiva3.jpg" alt="wireflow3" width="800">
+  <img src="./assets/wireframes/wireflows/Diapositiva3.JPG" alt="wireflow3" width="800">
 </p>
 
 ##### edición de datos personales
 Como usuario quiero poder editar mis datos personales.
 
 <p align="center">
-  <img src="./assets/wireframes/wireflows/Diapositiva4.jpg" alt="wireflow4" width="800">
+  <img src="./assets/wireframes/wireflows/Diapositiva4.JPG" alt="wireflow4" width="800">
 </p>
 
 ##### actualización de documentos
 Como usuario quiero poder actualizar mi documentos personales
 
 <p align="center">
-  <img src="./assets/wireframes/wireflows/Diapositiva5.jpg" alt="wireflow5" width="800">
+  <img src="./assets/wireframes/wireflows/Diapositiva5.JPG" alt="wireflow5" width="800">
 </p>
 
 ##### registro de objetos protegidos
 Como usuario quiero poder agregar objetos de mi pertenencia para ser asegurados.
 
 <p align="center">
-  <img src="./assets/wireframes/wireflows/Diapositiva6.jpg" alt="wireflow6" width="800">
+  <img src="./assets/wireframes/wireflows/Diapositiva6.JPG" alt="wireflow6" width="800">
 </p>
 
 ##### solicitud de teleconsulta
 Como usuario quiero poder solicitar una teleconsulta para recibir atención psicológica o médica.
 
 <p align="center">
-  <img src="./assets/wireframes/wireflows/Diapositiva8.jpg" alt="wireflow8" width="800">
+  <img src="./assets/wireframes/wireflows/Diapositiva8.JPG" alt="wireflow8" width="800">
 </p>
 
 ##### historial de reclamos
@@ -1383,7 +1427,7 @@ Como usuario quiero poder revisar el historial de reclamos previamente ralizados
 
 
 <p align="center">
-  <img src="./assets/wireframes/wireflows/Diapositiva9.jpg" alt="wireflow9" width="800">
+  <img src="./assets/wireframes/wireflows/Diapositiva9.JPG" alt="wireflow9" width="800">
 </p>
 
 ##### prevenciones y recordatorios
@@ -1391,7 +1435,7 @@ Como usuario quiero poder revisar y agregar mis recordatorios, así como recibir
 
 
 <p align="center">
-  <img src="./assets/wireframes/wireflows/Diapositiva10.jpg" alt="wireflow10" width="800">
+  <img src="./assets/wireframes/wireflows/Diapositiva10.JPG" alt="wireflow10" width="800">
 </p>
 
 ##### reeclamos en curso
@@ -1399,7 +1443,7 @@ Como usario quiero poder revisar los reclamos que tengo en curso y ver los detal
 
 
 <p align="center">
-  <img src="./assets/wireframes/wireflows/Diapositiva11.jpg" alt="wireflow11" width="800">
+  <img src="./assets/wireframes/wireflows/Diapositiva11.JPG" alt="wireflow11" width="800">
 </p>
 
 
@@ -1691,6 +1735,10 @@ Como usario quiero poder revisar los reclamos que tengo en curso y ver los detal
 
 #### 4.8.1. Database Diagram
 
+<p align="center">
+  <img src="./assets/dbdiagram.png" alt="User Persona 1" width="550">
+</p>
+
 ## Capítulo V: Product Implementation, Validation & Deployment
 
 ### 5.1. Software Configuration Management
@@ -1888,61 +1936,60 @@ Validación de código, pruebas unitarias y revisión de dependencias antes de d
 #### 5.2.1. Sprint 1
 
 ##### 5.2.1.1. Sprint Planning 1
+En el Sprint 1, el equipo se enfocó en establecer las bases de nuestra presencia digital construyendo la Landing Page de ResiCare. Durante este ciclo de dos semanas, definimos y entregamos las secciones clave (hero, características, formulario de contacto, navegación fija y diseño responsive). 
 
-| Sprint #                            | Sprint 1                                                      | 
-| :---------------------------------- | :------------------------------------------------------------ |
-| Sprint Planning Background                                                                          |
-| Date                                | 2025-09-06                                                    | 
-| Time                                | 14:39 PM                                                      | 
-| Location                            | Virtual por medio de Whatsapp                                 | 
-| Prepared By                         | Hermoza Quispe, Jude Alessandro y Ríos Pacheco, Héctor Javier | 
-| Attendees (to planning meeting)     | Hermoza Quispe, Jude Alessandro y Ríos Pacheco, Héctor Javier | 
-| Sprint 1 Review Summary             | Trabajo finalizado de acuerdo a lo previsto                   | 
-| Sprint 1 Retrospective Summary      | Mejorar la organización para un correcto trabajo en grupo     | 
-| Sprint Goal & User Stories                                                                          | 
-| Sprint 1 Goal                       | Crear una plataforma de facil acceso eintuitivo               | 
-| Sprint 1 Velocity                   | 21                                                            | 
-| Sum of Story Points                 | 21                                                            | 
+
+
+| Campo                                 | Detalle                                                                                                                                                                                      |
+|---------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint #**                          | Sprint 1                                                                                                                                                                                     |
+| **Date**                              | 08-09-2025                                                                                                                                                                                   |
+| **Time**                              | 12:00 PM                                                                                                                                                                                     |
+| **Location**                          | Virtual – Discord                                                                                                                                                                            |
+| **Prepared By**                       | Héctor Ríos                                                                                                                                                                            |
+| **Attendees (to planning meeting)**   | Carlo Ramirez , José Pariona, Vanessa Choy, Héctor Ríos, Jude Hermoza                                                                                     |
+| **Sprint n-1 Review Summary**         | Este es el primer Sprint, por lo que este campo aún no es aplicable                                                                                                                         |
+| **Sprint n-1 Retrospective Summary**  | Este es el primer Sprint, por lo que este campo aún no es aplicable                                                                                                                         |
+| **Sprint 1 Goal**                     | Nuestro enfoque está en desarrollar e implementar una landing page responsiva y accesible que presente nuestra solución de forma clara a usuarios potenciales. Creemos que aporta confianza de nuestro producto y mejora la experiencia de los visitantes, facilitando su primer contacto con nuestra propuesta de solución. Se confirmará cuando la página esté publicada en producción y validemos el interés mediante el análisis de visitas al cierre del Sprint. |
+| **Sprint 1 Velocity**                 | Nuestro equipo puede aceptar hasta 19 story points          |
+| **Sum of Story Points**               | La suma de Story Points es 27 |
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 
-| Team Member                       | GitHub Username        | LI | RD | VP | NG | Ed | Ac | FQ | Tm | SM | GC |
-| :-------------------------------- | :--------------------- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
-| Hermoza Quispe, Jude Alessandro   | jude-quispe            |    |    |    |    |    |    |    |    |    |    |
-| Ríos Pacheco, Héctor Javier       | Khafna09               |    |    |    |    |    |    |    |    |    |    |
-| Choy Robles, Vanessa May Lang     | VMLCR                  |    |    |    |    |    |    |    |    |    |    |
-| Ramirez Escalante, Carlo Patricio | Carlo211               |    |    |    |    |    |    |    |    |    |    |
-| Pariona Lucas, Jose Manuel        | parionalucasjosemanuel |    |    |    |    |    |    |    |    |    |    | 
+En este Sprint el equipo se enfocó en construir la Landing Page de ResiCare, cubriendo desde el encabezado inicial hasta la lógica de navegación y la adaptabilidad móvil. Para garantizar responsabilidad clara y comunicación efectiva, cada User Story fue asignada a un líder y a colaboradores clave, basados en el análisis de los commits realizados.
 
-Nota. LI = Language & Internationalization, RD = Responsive & Mobile Design, VP = Value Proposition & Company Info, Ng = Navigation: Header & Footer, Ed = Editor Access & Redirection, Ac = Accessibility (ARIA & Alt), FQ = FAQ & Legal Content, Tm = Team & Social Media Integration, SM = SEO & Meta, GC = Gallery & Carousel.
+| Team Member (Last Name, First Name)          | GitHub Username | Diseño visual y UX del Hero Section | Desarrollo del Formulario de contacto | Adaptación responsive para dispositivos móviles | Diseño y funcionalidad del Header fijo | Implementación de la sección de Características principales |
+|----------------------------------------------|-----------------|---------------------------------------|-----------------------------------------|-------------------------------------------------|----------------------------------------|----------------------------------------------------------------|
+| Hermoza Quispe, Jude Alessandro            | JvynnDev     |  C                                    |      L                                  |                                                |                                       |                                                               |
+| Choy Robles, Vanessa May Lang                | VMLCR        |                                      |        C                                |                L                                |                                       |                                                               |
+| Ramirez Escalante, Carlo Patricio               | Carlo211       | L                                     |                                        |                                                |                                       |                                                               |
+| Pariona Lucas, Jose Manuel    | parionalucasjosemanuel           |                                      |                                        |                                                |        L                               |                                                               |
+| Rios Pacheco, Hector Javier                  | Khafna09        |                                      |                                        |                                                |                C                       |                                                       L        |
+
+
 
 ##### 5.2.1.3. Sprint Backlog 1
 
-| Sprint #   |                                                 | Sprint 1         |                                  |                                                            |            |              |        |
-| :--------- | :---------------------------------------------- | :--------------- | :------------------------------- | :--------------------------------------------------------- | :--------- | :----------- | :----- |
-| User Story |                                                 | Work-Item / Task |                                  |                                                            |            |              |        |
-| Id         | Title                                           | Id               | Title                            | Description                                                | Estimation | Assigned To  | Status |
-| US-20      | Ver resumen de beneficios (Landing)             | WI-01            | Diseñar mockup beneficios        | Diseñar mockup de sección de beneficios (UI/UX)            | 4h         | ZZZZ         | To-do  |
-| US-20      | Ver resumen de beneficios (Landing)             | WI-02            | Implementar sección beneficios   | Implementar sección en frontend                            | 5h         | ZZZZ         | To-do  |
-| US-20      | Ver resumen de beneficios (Landing)             | WI-03            | Pruebas visualización beneficios | Pruebas de visualización en desktop/móvil                  | 2h         | ZZZZ         | To-do  |
-| US-21      | Visualizar testimonios (Landing)                | WI-01            | Redactar testimonios             | Redactar testimonios (dummy data o entrevistas rápidas)    | 2h         | ZZZZ         | To-do  |
-| US-21      | Visualizar testimonios (Landing)                | WI-02            | Maquetar carrusel testimonios    | Maquetar carrusel o tarjetas de testimonios                | 4h         | ZZZZ         | To-do  |
-| US-21      | Visualizar testimonios (Landing)                | WI-03            | Validar usabilidad testimonios   | Validar usabilidad y comprensión de testimonios            | 2h         | ZZZZ         | To-do  |
-| US-23      | Conocer la propuesta de valor (Hero)            | WI-01            | Diseñar sección Hero             | Diseñar sección Hero con título/subtítulo/CTA              | 3h         | ZZZZ         | To-do  |
-| US-23      | Conocer la propuesta de valor (Hero)            | WI-02            | Implementar frontend Hero        | Implementar en frontend con scroll responsive              | 4h         | ZZZZ         | To-do  |
-| US-23      | Conocer la propuesta de valor (Hero)            | WI-03            | Pruebas accesibilidad Hero       | Pruebas de accesibilidad (contrast ratio, alt text)        | 2h         | ZZZZ         | To-do  |
-| US-24      | Navegar por beneficios (scroll y accesibilidad) | WI-01            | Implementar scroll anclas        | Implementar scroll automático con anclas                   | 3h         | ZZZZ         | To-do  |
-| US-24      | Navegar por beneficios (scroll y accesibilidad) | WI-02            | Configurar accesibilidad scroll  | Configurar accesibilidad (teclado, lectores de pantalla)   | 3h         | ZZZZ         | To-do  |
-| US-24      | Navegar por beneficios (scroll y accesibilidad) | WI-03            | Probar navegación móvil/tablet   | Pruebas de navegación en móvil/tablet                      | 2h         | ZZZZ         | To-do  |
-| US-25      | Barra de navegación con anclas                  | WI-01            | Diseñar navbar anclas            | Diseñar navbar con links a secciones                       | 3h         | ZZZZ         | To-do  |
-| US-25      | Barra de navegación con anclas                  | WI-02            | Implementar sticky navbar        | Implementar sticky navbar en frontend                      | 4h         | ZZZZ         | To-do  |
-| US-25      | Barra de navegación con anclas                  | WI-03            | Testear integración scroll       | Probar integración con scroll suave                        | 2h         | ZZZZ         | To-do  |
-| US-26      | Acceder al registro o inicio desde landing      | WI-01            | Crear botón CTA login/registro   | Crear botón CTA (Registro/Login)                           | 2h         | ZZZZ         | To-do  |
-| US-26      | Acceder al registro o inicio desde landing      | WI-02            | Conectar CTA con backend         | Conectar con formulario/microservicio de registro          | 4h         | ZZZZ         | To-do  |
-| US-26      | Acceder al registro o inicio desde landing      | WI-03            | Testear redirecciones landing    | Testear redirección en todos los navegadores               | 2h         | ZZZZ         | To-do  |
-| US-27      | Navegar desde el footer                         | WI-01            | Diseñar estructura footer        | Diseñar estructura del footer (links, contacto, políticas) | 3h         | ZZZZ         | To-do  |
-| US-27      | Navegar desde el footer                         | WI-02            | Implementar footer frontend      | Implementar footer en frontend                             | 4h         | ZZZZ         | To-do  |
-| US-27      | Navegar desde el footer                         | WI-03            | Verificar accesibilidad footer   | Verificar accesibilidad (teclado, screen readers)          | 2h         | ZZZZ         | To-do  |
+
+El objetivo principal del Sprint 1 es desarrollar y desplegar una landing page que permita mostrar los aspectos clave del proyecto a los usuarios, garantizando una experiencia de navegación básica y funcionalidades esenciales como la visualización de beneficios, planes de suscripción y reseñas. Para este sprint, el equipo se ha organizado en tareas detalladas, siguiendo las historias de usuario, y se ha asignado el trabajo de forma equitativa para cumplir con los tiempos estimados.
+
+
+
+| **User Story** | **Work-Item / Task** |        |                                   |                                                                          | **Estimation (Hours)** | **Assigned to** | **Status** |
+| -------------- | -------------------- | ------ | --------------------------------- | ------------------------------------------------------------------------ | ---------------------- | --------------- | ---------- |
+| **ID**         | **Title**            | **Id** | **Title**                         | **Description**                                                          |                        |                 |            |
+| US-20          | Ver resumen de beneficios (Landing) | W-01   | Diseñar sección de beneficios     | Crear el layout de la sección "Beneficios" con cards y jerarquía visual. | 2                      | Vanessa         | Done       |
+| US-20          | Ver resumen de beneficios (Landing) | W-02   | Implementar contenido y CTAs      | Añadir textos, iconografía (ej. "Conoce más") en la sección.      | 2                      | Héctor          | Done       |
+| US-21          | Visualizar testimonios (Landing)   | W-03   | Diseñar cards de testimonios      | Diseñar componente de tarjetas de testimonio. | 1.5                    | Jude            | Done       |
+| US-21          | Visualizar testimonios (Landing)   | W-04   | Integrar testimonios  | Mostrar los testimonmios | 1.5                  | Carlo           | Done       |
+| US-22          | Acceder desde distintos dispositivos (responsive) | W-05 | Maquetar responsive (breakpoints) | Definir y maquetar breakpoints mobile/tablet/desktop para landing.       | 2                      | José            | Done       |
+| US-23          | Conocer la propuesta de valor (Hero) | W-07   | Diseñar hero principal            | Crear headline, subhead, imagen.             | 1                      | Héctor          | Done       |
+| US-25          | Barra de navegación con anclas | W-11   | Diseñar navbar con anclas          | Diseñar barra superior con logo, links ancla y versión móvil.            | 1                      | Vanessa         | Done       |
+| US-25          | Barra de navegación con anclas | W-12   | Implementar comportamiento sticky/responsive | Hacer navbar sticky, transición al hacer scroll y menú mobile (hamburger). | 1                   | Carlo          | Done       |
+| US-27          | Navegar desde el footer           | W-13   | Diseñar footer con enlaces        | Crear pie de página con secciones, enlaces y microcopy legal.            | 1                      | Jude            | Done       |
+| US-28          | Selector de idioma en landing     | W-15   | Diseñar selector de idioma UI     | Diseñar selector (icono).         | 1.5                    | José            | Done       |
+| US-28          | Selector de idioma en landing     | W-16   | Implementar cambio de idioma      | Conectar textos (i18n) y hacer pruebas de cambio instantáneo.            | 1.5                    | Jude         | Done       |
+
 
 <p align="center">
   <img src="./assets/sprintBacklog.png" alt="Sprint Backlog" width="800">
@@ -1956,7 +2003,30 @@ Link: https://trello.com/invite/b/68c60b3efa155e0e9894f3ac/ATTI6482172f02c299d15
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
+Durante el Sprint no se integraron servicios a través de APIs, por lo que no fue necesaria la generación de documentación técnica relacionada a este aspecto.
+
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+**Design**
+Para realizar el diseño de los wireframes y mockups de la Landing Page de ResiSeguro, se hizo uso de la plataforma Figma. Para utilizar la plataforma seguimos los siguientes pasos:
+1. Accedemos a la plataforma para iniciar sesión: [LogIn Figma](https://www.figma.com/login)
+   <br>
+     <img src = "./assets/figmaInicioSesion.png" width = "450">
+
+3. Creamos un **Draft**, el cual nos servirá de base para el proyecto colaborativo:
+      <img src = "./assets/draftFigma.png" width = "450">
+
+**Deployment**
+Para despegar la landing page, se utiliza GitHub Pages:
+  <img src = "/assets/hostweb.png" width = "450">
+  <br>
+Para crear la Organización en Github seguimos los siguientes pasos:
+  <img src = "./assets/github1.png" width = "500">
+  <img src = "./assets/github2.png" width = "500">
+  <img src = "./assets/github3.png" width = "500">
+  <img src = "./assets/github4.png" width = "500">
+  <img src = "./assets/github5.png" width = "500">
+
+Para nuestro proyecto se creo 1 repositorio de nombre **Landing-Page**, el cual usamos para subir la landing page y desarrollar continuamente el informe del proyecto.
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
