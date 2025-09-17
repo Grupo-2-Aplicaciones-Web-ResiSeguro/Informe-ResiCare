@@ -1729,6 +1729,10 @@ Como usario quiero poder revisar los reclamos que tengo en curso y ver los detal
 
 #### 4.8.1. Database Diagram
 
+<p align="center">
+  <img src="./assets/dbdiagram.png" alt="User Persona 1" width="550">
+</p>
+
 ## Capítulo V: Product Implementation, Validation & Deployment
 
 ### 5.1. Software Configuration Management
