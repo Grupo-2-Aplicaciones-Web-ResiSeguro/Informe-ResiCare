@@ -172,15 +172,15 @@ que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Ou
 ## Capítulo I: Introducción
 
 ### 1.1. Startup Profile
-Somos un equipo de estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC) motivados en desarrollar una solución diferente que cuyo objetivo principal sea ayudar a los estudiantes cuya residencia princiapal se encuentra muy lejos, mediante un seguro que garantice su seguridad y protección.
+Somos un equipo de estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC) motivados en desarrollar una solución diferente que cuyo objetivo principal sea ayudar a los estudiantes cuya residencia principal se encuentra muy lejos, mediante un seguro que garantice su seguridad y protección.
 
 
 #### 1.1.1. Descripción de la Startup
-ResiSeguro es una startup enfocada en brindar protección rápida y digital a estudiantes universitarios que viven lejos de casa. Nuestro producto principal, ResiCare, ofrece seguros accesibles y personalizados para cubrir riesgos comunes en residencias estudiantiles, como robos, daños a pertenencias y emergencias. Utilizando tecnología digital, facilitamos la contratación y gestión de seguros de manera ágil, transparente y adaptada a las necesidades reales de los estudiantes, promoviendo su tranquilidad y bienestar durante su vida.
+ResiSeguro es un startup enfocado en brindar protección rápida y digital a estudiantes universitarios que viven lejos de casa. Nuestro producto principal, ResiCare, ofrece seguros accesibles y personalizados para cubrir riesgos comunes en residencias estudiantiles, como robos, daños a pertenencias y emergencias. Utilizando tecnología digital, facilitamos la contratación y gestión de seguros de manera ágil, transparente y adaptada a las necesidades reales de los estudiantes, promoviendo su tranquilidad y bienestar durante su vida.
 
 **Misión:** Brindar a los estudiantes universitarios una solución digital y accesible que proteja sus pertenencias y su tranquilidad mientras viven lejos de casa, facilitando seguros personalizados y procesos ágiles de gestión y reclamación.
 
-**Visión:** Ser la startup líder en seguros digitales para estudiantes universitarios, reconocida por ofrecer protección confiable, rápida y adaptada a las necesidades de quienes residen fuera de su hogar, promoviendo su bienestar y seguridad en todo momento.
+**Visión:** Ser el startup líder en seguros digitales para estudiantes universitarios, reconocida por ofrecer protección confiable, rápida y adaptada a las necesidades de quienes residen fuera de su hogar, promoviendo su bienestar y seguridad en todo momento.
 
 #### 1.1.2. Perfiles de Integrantes del Equipo
 
