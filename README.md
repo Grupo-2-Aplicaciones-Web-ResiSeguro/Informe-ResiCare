@@ -1592,6 +1592,16 @@ Como usario quiero poder revisar los reclamos que tengo en curso y ver los detal
 
 #### 4.6.1. Software Architecture Context Diagrams
 
+En este diagrama se presenta una vista general del sistema dentro de su entorno. Muestra cómo los principales usuarios interactúan con la plataforma.
+
+El estudiante es el actor principal: consulta información, contrata pólizas, gestiona reclamos y recibe notificaciones.
+
+El vendedor utiliza el sistema para administrar convenios y consultar reportes.
+
+El visitante anónimo accede únicamente a la Landing Page para explorar beneficios antes de registrarse.
+
+Asimismo, se identifican sistemas externos clave como el Email System (para envíos de correos), Wallet API (pagos), Storage System (almacenamiento de evidencias) y el Recommendation System (motor de sugerencias).
+
 <p align="center">
   <img src="./assets/diagramResiCareSystemContext.png" alt="Diagram ResiCare System Context" width="800">
 </p>
