@@ -700,6 +700,22 @@ Nataly Sandoval Sulca, de 23 años y residente de San Martin de Porres, particip
 
 #### 2.2.3. Análisis de entrevistas
 
+<p align="center">
+  <img src="./assets/cuadros/c1.jpg" alt="User Persona 1" width="550">
+</p>
+
+<p align="center">
+  <img src="./assets/cuadros/c2.jpg" alt="User Persona 1" width="550">
+</p>
+
+<p align="center">
+  <img src="./assets/cuadros/c3.jpg" alt="User Persona 1" width="550">
+</p>
+
+<p align="center">
+  <img src="./assets/cuadros/c4.jpg" alt="User Persona 1" width="550">
+</p>
+
 ### 2.3. Needfinding
 
 #### 2.3.1. User Personas
@@ -1713,6 +1729,13 @@ Como usario quiero poder revisar los reclamos que tengo en curso y ver los detal
 </p>
 
 ### 4.5. Web Applications Prototyping
+
+<p align="center">
+  <img src="./assets/prototipo.jpg" alt="wireflow1" width="800">
+</p>
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c540_upc_edu_pe/Ef9HPP8DM8lAtd_CvrY72X8BunTDqqMyX_HNBJItWXOeyQ?e=bEb6zw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 
 ### 4.6. Domain-Driven Software Architecture
 
