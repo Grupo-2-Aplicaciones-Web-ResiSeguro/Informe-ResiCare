@@ -41,8 +41,25 @@
 
 ## Registro de Versiones del Informe
 | Versión | Fecha       | Autor(es)     | Descripción de modificación                                                                                                                                                                                                                                                                                                                                                                                           |
-|---------|-------------|----------|-----------------|
-| 0.1     |  18/09/2025 |      Hermoza Quispe, Jude Alessandro<br><br> Ríos Pacheco, Héctor Javier<br><br> Choy Robles, Vanessa May Lang<br><br> Ramirez Escalante, Carlo Patricio<br><br> Pariona Lucas, Jose Manuel | Landing Page.<br> Registro de Versiones del Informe.<br> Project Report Collaboration Insights.<br> Contenido.<br> Student Outcome.<br> Capítulo I: Introducción.<br> Capítulo II: Requirements Elicitation & Analysis.<br> Capítulo III: Requirements Specification.<br>  Capítulo IV: Product Design.<br>  Capítulo V: Product Implementation, Validation & Deployment.<br> 5.1. Software Configuration Management.<br> 5.1.1. Software Development Environment Configuration.<br> 5.1.2. Source Code Management.<br> 5.1.3. Source Code Style Guide & Conventions.<br> 5.1.4. Software Deployment Configuration.<br>  5.2. Landing Page, Services & Applications Implementation.<br> 5.2.1. Sprint 1<br> 5.2.1.1. Sprint Planning 1.<br> 5.2.1.2.  Aspect Leaders and Collaborators.<br> 5.2.1.3. Sprint Backlog 1.<br> 5.2.1.4. Development Evidence for Sprint Review.<br> 5.2.1.5. Execution Evidence for Sprint Review.<br> 5.2.1.6. Services Documentation Evidence for Sprint Review.<br> 5.2.1.7. Software Deployment Evidence for Sprint Review.<br> 5.2.1.8. Team Collaboration Insights during Sprint.<br> Avance de Conclusiones, Bibliografía y Anexos. |
+| Versión | Fecha      | Autor(es)                                                | Descripción de modificación                                                                                                                                                                                                                                     |
+| ------- | ---------- | -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0.1     | 02/09/2025 | Héctor Ríos                                              | Añadido template, perfil de la startup, antecedentes y problemática; incorporación de Hypothesis Statements y Lean UX Canvas; segmentos objetivo.                                                                                                               |
+| 0.2     | 03/09/2025 | Héctor Ríos                                              | Tabla de competidores y análisis competitivo; estrategias y tácticas contra la competencia.                                                                                                                                                                     |
+| 0.3     | 04/09/2025 | Héctor Ríos                                              | Añadido diseño de entrevistas.                                                                                                                                                                                                               |
+| 0.4     | 05/09/2025 | Héctor Ríos                                              | Incorporación de user personas al repositorio.                                                                                                                                                                                                                  |
+| 0.5     | 06/09/2025 | Jude                                          | Añadidos problem statements para Lean UX, Lean UX Assumptions y User Task Matrix.                                                                                                                                                                               |
+| 0.6     | 07/09/2025 | Carlo Ramirez; Jude                             | Subidas: user journey mapping, empathy mapping y As-Is scenario mapping; añadido lenguaje ubicuo.                                                                                                                                         |
+| 0.7     | 08/09/2025 | Vanessa Choy; José Pariona; Carlo Ramirez                | Subida de correcciones del journey mapping y emphathy maps y Style Guidelines.                                                                                                                  |
+| 0.8     | 09/09/2025 | José Pariona                                             |   Subida de wireframes y mockups de la landing page.                                                                                                                                                                     |
+| 0.9     | 10/09/2025 | Héctor Ríos                                              | Añadidas entrevistas (1), To-Be Scenario Mapping y user stories; merges de feature/rios a develop.                                                                                                                                                              |
+| 0.10    | 11/09/2025 | Héctor Ríos                                              | Añadido Impact Map al repositorio.                                                                                                                                                                                                                              |
+| 0.11    | 12/09/2025 | Vanessa Choy; Héctor Ríos                                | Actualizaciones del Product Backlog; trabajo sobre 3.4 Product Backlog.                                                                                                                                                          |
+| 0.12    | 13/09/2025 | Vanessa Choy                                             | Modificaciones en Epics y correcciones del Product Backlog.                                                                                                                                                                 |
+| 0.13    | 14/09/2025 | Héctor Ríos                                              | Reemplazo y correcciones de wireflows; añadido de userFlows y mockups; fixes en wireframes.                                                                                                                                                                     |
+| 0.14    | 15/09/2025 | Carlo Ramirez; Vanessa Choy; Héctor Ríos                 | Añadido class diagram y class dictionary; ajustes en sprint planning y backlog.                                                                                                                                                       |
+| 0.15    | 16/09/2025 | Héctor Ríos; Vanessa Choy                                | Adición de entrevistas 2 y 3; uploads y subida de diagrmas.                                                                                                                                                                           |
+| 0.16    | 17/09/2025 | Héctor Ríos; Carlo Ramirez; Vanessa Choy; Jude  | Día de integraciones finales: evidence de ejecución para Sprint Review, student outcome , database diagram , evidencias de servicios y despliegue , múltiples actualizaciones y limpieza del README. |
+
 
 ## Project Report Collaboration Insights  
 
@@ -51,6 +68,9 @@ Aqui se pueden aprecion todos los commits hechos en la TB1 evidenciando el traba
 
 **Insights Readme**
 
+<p align="center">
+  <img src="./assets/insights/readme1.jpg" alt="insights" width="400">
+</p>
 
 
 ## Tabla de Contenidos
@@ -2041,6 +2061,13 @@ El objetivo principal del Sprint 1 es desarrollar y desplegar una landing page q
 Link: https://trello.com/invite/b/68c60b3efa155e0e9894f3ac/ATTI6482172f02c299d15f2851befede5ae8F410C17A/sprint-backlog 
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
+| Repository        | Branch   | Commit Id | Commit Message                                           | Commit Message Body                                                      | Commited on (Date) |
+|-------------------|----------|-----------|----------------------------------------------------------|---------------------------------------------------------------------------|--------------------|
+| Landing-Page      | main     | 7b988c32  | fix: update contact phone numbers and team member descriptions | Actualización de los números de contacto y descripciones de miembros del equipo. | 17/09/2025         |
+| Landing-Page      | main     | e92e13bc  | feat: REWORK landing page                                | Reestructuración de la página principal (landing page).                   | 17/09/2025         |
+| Landing-Page      | develop  | 7f605751  | Add files via upload                                     | Archivos agregados al repositorio mediante carga directa.                 | 10/09/2025         |
+| Landing-Page      | develop  | 035bf3eb  | Add files via upload                                     | Archivos agregados al repositorio mediante carga directa.                 | 10/09/2025         |
+| Landing-Page      | develop  | 33c56a5b  | Add files via upload                                     | Archivos agregados al repositorio mediante carga directa.                 | 10/09/2025         |
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 En este Sprint, nuestro equipo ha conseguido completar y desplegar la Landing Page. A continuación, se mostrará los screens sacasdos desde la web: https://grupo-2-aplicaciones-web-resiseguro.github.io/Landing-Page/
@@ -2103,7 +2130,21 @@ Para nuestro proyecto se creo 1 repositorio de nombre **Landing-Page**, el cual 
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
-## 6. Conclusiones
+<p align="center">
+  <img src="./assets/insights/landing1.png" alt="insight" width="400">
+</p>
+
+## 6. Conclusiones y Recomendaciones
+#### Conclusiones
+- El proyecto demuestra que existe una necesidad real y validable en el segmento objetivo, respaldada por evidencia cualitativa de usuarios y stakeholders.
+
+- La metodología aplicada (Lean UX, pruebas con usuarios y definición de hipótesis SMART) permite reducir incertidumbre y enfocar esfuerzos en lo que realmente aporta valor.
+
+- El éxito depende de un equipo multidisciplinario y colaborativo con ciclos de trabajo iterativos, medición continua y toma de decisiones basada en datos.
+
+#### Recomendaciones
+
+- El trabajo realizado evidencia un buen nivel de análisis y alineación metodológica; recomendamos seguir documentando cada hallazgo y validación de manera estructurada para que sirva como base sólida en las siguientes fases del proyecto.
 
 ## 7. Bibliografía
 
