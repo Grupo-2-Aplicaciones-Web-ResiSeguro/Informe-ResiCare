@@ -72,7 +72,12 @@ Aqui se pueden aprecion todos los commits hechos en la TB1 evidenciando el traba
   <img src="./assets/insights/readme1.jpg" alt="insights" width="400">
 </p>
 
+**Network Readme**
 
+<p align="center">
+  <img src="./assets/network1.png" alt="insights" width="400">
+      <img src="./assets/network2.png" alt="insights" width="400">
+</p>
 ## Tabla de Contenidos
 
 Capítulo I: Introducción    
@@ -2139,6 +2144,8 @@ En este Sprint, nuestro equipo ha conseguido completar y desplegar la Landing Pa
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 Durante el Sprint no se integraron servicios a través de APIs, por lo que no fue necesaria la generación de documentación técnica relacionada a este aspecto.
+
+Link de la Landing Page desplegada: 
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 **Design**
