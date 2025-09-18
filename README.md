@@ -1366,14 +1366,14 @@ De igual manera, dentro de la pantalla principal tenemos opciones como ver nuest
 Esta es la opción de registrar un nuevo reclamo, donde se sigue un procedimiento asignando cada una de las oopciones para ello.
 
 <p align="center">
-  <img src="./assets/wireframes/wireframe8.jpg" alt="wireframe8" width="800">
+  <img src="./assets/wireframes/wireframe9.jpg" alt="wireframe8" width="800">
 </p>
 
 
 También contamos con una calculadora, este es un simulador del reembolso en caso de registrar un reclamo
 
 <p align="center">
-  <img src="./assets/wireframes/wireframe9.jpg" alt="wireframe9" width="800">
+  <img src="./assets/wireframes/wireframe8.jpg" alt="wireframe9" width="800">
 </p>
 
 https://www.figma.com/design/XPnZre2LrrMOzoMArCpVTg/Sin-t%C3%ADtulo?node-id=0-1&t=bV0UcihwqHxf8j9p-1
