@@ -679,6 +679,25 @@ Naim Napuri, de 30 años y residente de Comas, participó en una entrevista diri
 | **Duración**         | 5:01 minutos                                                                    |
 | **Enlace**           | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318220_upc_edu_pe/EUNKjS80OfhLs6yWCsnoiB4BcRQTANGhn_3YmpcR0mTxsQ?e=PbJavS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D| 
 
+
+#### Entrevista 6
+
+
+<p align="center">
+  <img src="./assets/entrevistas/entrevista6.jpg" alt="entrevista1" width="400">
+</p>
+
+Nataly Sandoval Sulca, de 23 años y residente de San Martin de Porres, participó en una entrevista dirigida por Jude Hermoza para validar soluciones de protección de pertenencias de estudiantes. Compartió la importancia de resguardar objetos valiosos (como laptop y celular), su disposición a pagar por un servicio de seguridad y sus expectativas sobre la atención y transparencia de las startups que ofrecen estos planes.
+
+| **Detalle**          | **Información**                                                                 |
+|----------------------|---------------------------------------------------------------------------------|
+| **Entrevistador**    | Jude Hermoza Quispe                                                             |
+| **Entrevistado**     | Nataly Sandoval Sulca                                                           |
+| **Edad**             | 23 años                                                                         |
+| **Inicio entrevista**| 0:03                                                                            |
+| **Duración**         | 5:05 minutos                                                                    |
+| **Enlace**           | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318220_upc_edu_pe/EZY8IHAKCzhArDEqZaxuN_ABdReSYNi5_523Jgyt_sTCpg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JwGwLe| 
+
 #### 2.2.3. Análisis de entrevistas
 
 ### 2.3. Needfinding
